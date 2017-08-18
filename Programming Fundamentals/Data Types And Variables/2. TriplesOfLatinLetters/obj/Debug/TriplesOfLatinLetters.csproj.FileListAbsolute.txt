@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe.config
+c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe
+c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.pdb
+c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.exe
+c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.pdb
