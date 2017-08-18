@@ -112,3 +112,22 @@ PROFESSIONAL MODULS
 
     The course is highly focused on practice, with a huge number of class exercises, a practical team project and a practical exam. The participants in the course develop a practical team project (SPA application with MVC, REST and ReactJS). For the knowledge check, the course ends with a practical exam for building a front-end SPA application with JS, jQuery AJAX, REST services and ReactJS.
 
+
+ - Front-End Development: JavaScript for Front-End
+ 
+    The JavaScript for Front-End course concentrates on the fundamental things needed to build the Front-End portion of a web application. Some stylization tools such as Bootstrap and CSS redesigners (SASS & LESS) are also considered. It focuses mainly on working with JQuery and AJAX, manipulating DOM, HTTP queries and working with other popular JavaScript libraries.
+ 
+ - Front-End Development: Web Fundamentals - HTML5
+ 
+    The aim of the "Web Fundamentals - HTML5" course is to provide basic knowledge of web technologies and, in particular, familiarity with HTML5 and CSS3. We gain initial knowledge in web development, web browsers, HTML / CSS / DOM development tools, and develop practical skills to use the HTML web content description language and the CSS web content styling language.
+ 
+    HTML study focuses on the main HTML tags, paragraphs, lists, tables, forms and controls, and semantic HTML tags. The latest HTML5 standards are covered.
+
+    In studying CSS, attention is paid to the main CSS selectors and styles, classroom work, presentation rules, positioning rules, and layout in CSS. The latest CSS3 standards and modern requirements for adaptive design (media queries and flexbox), grid systems, CSS animations, and other styling techniques are covered.
+
+    The course focuses on HTML and CSS practical exercises that involve you in real-world web site development projects, implementation of site fragments, and the creation of complete, modern web sites with good vision, modern structure and mobile support.
+
+ 
+ - Front-End Development: WordPress Basics
+ 
+    The WordPress Basics course builds basic technical skills for developing WordPress websites: setting up a hosting and domain, installing and configuring WordPress (WP), installing and configuring themes and plugins, creating and editing web content (Manually and with visual web editors), creating pages, posts, photos and multimedia. Popular WP themes and plug-ins and their capabilities to create forms, contacts, photo galleries, forums, e-shops, and more are being studied. Basic knowledge on building a WP theme with HTML, CSS and PHP and modifying existing themes is introduced. The course ends with practical exercises in building a complete WP site and developing and protecting a practical course project: creating and publishing a full-featured WordPress site on the Internet.
