@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\Greeting\bin\Debug\Greeting.exe.config
+c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\Greeting\bin\Debug\Greeting.exe
+c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\Greeting\bin\Debug\Greeting.pdb
+c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\Greeting\obj\Debug\Greeting.exe
+c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\Greeting\obj\Debug\Greeting.pdb
