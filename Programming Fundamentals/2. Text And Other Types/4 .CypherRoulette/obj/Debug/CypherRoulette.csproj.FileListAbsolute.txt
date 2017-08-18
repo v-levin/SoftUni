@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\TextAndOtherTypes\CypherRoulette\bin\Debug\CypherRoulette.exe.config
-c:\users\user\documents\visual studio 2017\Projects\TextAndOtherTypes\CypherRoulette\bin\Debug\CypherRoulette.exe
-c:\users\user\documents\visual studio 2017\Projects\TextAndOtherTypes\CypherRoulette\bin\Debug\CypherRoulette.pdb
-c:\users\user\documents\visual studio 2017\Projects\TextAndOtherTypes\CypherRoulette\obj\Debug\CypherRoulette.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\TextAndOtherTypes\CypherRoulette\obj\Debug\CypherRoulette.exe
-c:\users\user\documents\visual studio 2017\Projects\TextAndOtherTypes\CypherRoulette\obj\Debug\CypherRoulette.pdb

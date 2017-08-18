@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\IncrementVariable\obj\Debug\IncrementVariable.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\IncrementVariable\bin\Debug\IncrementVariable.exe.config
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\IncrementVariable\bin\Debug\IncrementVariable.exe
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\IncrementVariable\bin\Debug\IncrementVariable.pdb
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\IncrementVariable\obj\Debug\IncrementVariable.exe
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\IncrementVariable\obj\Debug\IncrementVariable.pdb
