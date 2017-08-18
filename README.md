@@ -28,3 +28,15 @@ TECH MODULE
     In the last few topics, students are introduced to Java Web development. It starts with a short introduction to the Java language - syntax, variables, conditional constructs, cycles, arrays, lists, classes and objects. Next is the introduction to Hibernate ORM and access to a MySQL database from Java. Continued with Java Web Applications (Servlets / JSP) and Java MVC Web Development Technology. Following is the development of a practical project - a simple blog system based on Java, Spring MVC, Hibernate and MySQL.
 
 
+PROFESSIONAL MODULS
+ - C# Fundamentals: C# Advanced
+ 
+    The "C# Advanced" course examines the .NET platform, as well as working with the C# language above the startup. This includes coding skills, problem solving skills, familiarizing with standard work tools (.NET Framework), word processing tools, linear and tree collections, and working with files and directories. Particular attention is paid to the functional programming paradigm, as well as its basic tool - LINQ to process data streams. The course will also deal with asynchronous programming, and throughout the course of the course the students will be divided into teams that will have to make a practical project. The development environment to be used by the training team is Microsoft Visual Studio 2017 + JetBrains ReSharper, but each student is free to use preference tools.
+    
+- C# Fundamentals: C# OOP Basics
+
+    The "Object Oriented Programming" course will teach you the principles of Object-Oriented Programming (OOP), how to work with classes and objects, how to use object-oriented modeling, and build class hierarchies. The basic principles of OOP will be studied as abstraction (interfaces, abstract classes), encapsulation, inheritance and polymorphism. We will pay attention to paradigms such as event-driven programming, functional programming (lambda functions, closures and LINQ), exception handling. We will look at cloning, comparing, and crawling objects. We will briefly review the most commonly used design patterns. Examples, homeworks and projects will be in C#, Java and PHP.
+    
+ - C# Fundamentals: C# OOP Advanced
+ 
+    In the Object Oriented Programming (OOP) course, you will learn about the principles and best practices for building quality software. You will learn about the concepts for writing quality code in OOP in C#. This includes using abstractions, refactoring, as well as writing unit tests, reflection, working with template data types, using events and techniques, and tools to improve the quality of the code. The course ends with the development and defense of a practical course project and a practical exam.
