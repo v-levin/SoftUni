@@ -65,3 +65,50 @@ PROFESSIONAL MODULS
 - C# Web: C# MVC Frameworks - ASP.NET
 
     The "ASP.NET MVC" course will teach you how to build modern web applications with the Model-View-Controller architecture using HTML5, databases, Entity Framework and other technologies. The ASP.NET technology platform, its components and architecture, the creation of MVC web applications, the definition of models, views and partial views with Razor view engine, controller definition, database operation and integration with Entity Framework, LINQ and SQL Server are being studied. The course also includes more complex topics such as user experience, roles and sessions, AJAX usage, caching, web application security, web sockets and SignalR, and working with libraries from MVC controls. Several practical laboratory exercises (labs) and workshops are being built to build comprehensive, full-featured ASP.NET MVC web applications. The course includes work on a team project to build a web application and ends with a practical web development exam with ASP.NET MVC.
+    
+ - JS Core: JavaScript Fundamentals
+ 
+    The "JavaScript Fundamentals" course builds basic programming skills with JavaScript. JavaScript constructs for programming logic, data types, operators, expressions, conditional constructs, cycles, and function handling are studied. Attention is drawn to work with arrays, strings and regular expressions, use of objects, associative arrays and sets. The course is based on state-of-the-art standards and JS technologies (ES2017 is being studied).
+ 
+    The course is highly focused on practice, with a huge number of class exercises and a practical exam. All tasks in the exercises and exams are evaluated automatically with the online judging system.
+
+    Participants have the opportunity to take part in a separate JavaScript Single Page Application that covers all the training material.
+
+    The course ends with a practical Java JavaScript programming with automated assessment with an online judging system.
+
+    The course is not suitable for beginners. Initial programming skills (data handling, checks, iterations) are required, regardless of the programming language and at least basic knowledge of the HTML language.
+
+    Basic JavaScript knowledge is needed for anyone who wants to do something about web development or server JavaScript development.
+
+ 
+ - JS Core: JavaScript Advanced
+ 
+    The "JavaScript Advanced" course extends the skills gained in the JavaScript Fundamentals course with more complex concepts and principles from functional programming (FP) and object-oriented programming (OOP) with JavaScript, as well as using DOM to process the elements in a web page. The course is based on state-of-the-art standards and JS technologies (modern JavaScript is being studied with ES2017).
+ 
+    The course starts by studying the JavaScript object object (DOM and BOM) and interacting with it from JavaScript: searching, editing and deleting DOM tree elements, event processing, interaction with the web browser.
+
+    In-depth study of working with functions and paradigms from functional programming (FP): function as object, functional expressions, higher order functions, IIFE, JS object and JSON operation, object composition, higher order functions, Closure, JS templates such as revealing module, prototype object inheritance and prototype chain, work with generators and iterators.
+
+    Objective-oriented programming (OOP) with JavaScript classes is considered: class defining, constructors, properties and methods, class inheritance, antitype chains, polymorphism, other types of OOP and inheritance. Serious attention is paid to unit testing and its application in software engineering to build quality software.
+
+    Module systems such as ES6 modules, CommonJS, RequireJS, and module dependency management, transponders such as Babel, error handling and exception handling, and proven practices and templates for writing quality and reusable JavaScript code are also being studied.
+
+    The course is highly focused on practice, with a huge number of class exercises, a practical team project and a practical exam. The tasks of the exercises and exams are evaluated automatically with the online judging system.
+
+    The course ends with a practical JavaScript exam for functional and OOP programming and DOM with automated assessment with an online judging system.
+
+ 
+ - JS Core: JavaScript Applications
+ 
+    The "JavaScript Applications" course (JS Apps) develops practical skills for building front-end applications with JavaScript, jQuery, ReactJS, AJAX and REST services. The course is based on state-of-the-art standards and JS technologies (ES2017 is used).
+    
+    Studying HTTP, REST and jQuery AJAX and accessing REST services with AJAX queries. JavaScript and REST-based client applications for data retrieval and visualization from public REST APIs such as GitHub API, TheMovieDb API, and CRUD using REST authentication service are built. Consideration is also being given to building backend REST services on cloud-based backend-as-a-service / BaaS.
+
+    Studying the principles of asynchronous JavaScript programming with promises, async / await and Web workers, as well as Web storage (cookies, session and local storage) and the use of help libraries, tools and technologies such as Babel transpiler, Grunt and Gulp, ESLint , Lodash, sammy, and others.
+
+    UI and templating is based on the ReactJS technology that provides a state-of-the-art model for building responsive, reusable JavaScript UI components by combining HTML and JavaScript.
+
+    The technologies studied in the course combine to build a single-page application based on MVC architecture (model-view-controller) with ReactJS for the UI part, Sammy.js (for routing and events) and jQuery AJAX (to call REST services from an existing REST API).
+
+    The course is highly focused on practice, with a huge number of class exercises, a practical team project and a practical exam. The participants in the course develop a practical team project (SPA application with MVC, REST and ReactJS). For the knowledge check, the course ends with a practical exam for building a front-end SPA application with JS, jQuery AJAX, REST services and ReactJS.
+
