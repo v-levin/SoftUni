@@ -1,7 +1,7 @@
 ENTRY MODULE
 - Programming Basics
 
-    The "Programming Basics" course provides the initial programming skills required for all Technology specialties at SoftUni. This includes basic codeing skills, work with development environment (IDE), use of variables and data, operators and expressions, console handling (reading input and output printing), using the Conditional constructions (if, if-else) and cycles (for, while, do-while).
+    The "Programming Basics" course provides the initial programming skills required for all Technology specialties at SoftUni. This includes basic coding skills, work with development environment (IDE), use of variables and data, operators and expressions, console handling (reading input and output printing), using the Conditional constructions (if, if-else) and cycles (for, while, do-while).
   
 TECH MODULE
  - Technology Fundamentals: Programming Fundamentals
