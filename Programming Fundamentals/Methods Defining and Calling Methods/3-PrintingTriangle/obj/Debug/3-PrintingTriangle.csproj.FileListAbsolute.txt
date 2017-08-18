@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\3-PrintingTriangle\bin\Debug\3-PrintingTriangle.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\3-PrintingTriangle\bin\Debug\3-PrintingTriangle.exe
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\3-PrintingTriangle\bin\Debug\3-PrintingTriangle.pdb
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\3-PrintingTriangle\obj\Debug\3-PrintingTriangle.exe
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\3-PrintingTriangle\obj\Debug\3-PrintingTriangle.pdb
