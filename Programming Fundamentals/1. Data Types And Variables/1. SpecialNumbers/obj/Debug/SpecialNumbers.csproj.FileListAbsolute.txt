@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\SpecialNumbers\bin\Debug\SpecialNumbers.exe
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\SpecialNumbers\obj\Debug\SpecialNumbers.exe
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\SpecialNumbers\obj\Debug\SpecialNumbers.pdb
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\6-MathPower\bin\Debug\6-MathPower.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\6-MathPower\bin\Debug\6-MathPower.exe
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\6-MathPower\bin\Debug\6-MathPower.pdb
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\6-MathPower\obj\Debug\6-MathPower.exe
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\6-MathPower\obj\Debug\6-MathPower.pdb

@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\2-MinMethod\bin\Debug\2-MinMethod.exe.config
-c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\2-MinMethod\bin\Debug\2-MinMethod.exe
-c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\2-MinMethod\bin\Debug\2-MinMethod.pdb
-c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\2-MinMethod\obj\Debug\2-MinMethod.exe
-c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\2-MinMethod\obj\Debug\2-MinMethod.pdb

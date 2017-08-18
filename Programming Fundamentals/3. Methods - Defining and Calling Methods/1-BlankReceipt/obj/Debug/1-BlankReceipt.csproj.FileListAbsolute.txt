@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\1-BlankReceipt\bin\Debug\1-BlankReceipt.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\1-BlankReceipt\bin\Debug\1-BlankReceipt.exe
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\1-BlankReceipt\bin\Debug\1-BlankReceipt.pdb
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\1-BlankReceipt\obj\Debug\1-BlankReceipt.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\1-BlankReceipt\obj\Debug\1-BlankReceipt.exe
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\1-BlankReceipt\obj\Debug\1-BlankReceipt.pdb

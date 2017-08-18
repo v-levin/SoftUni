@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TriangleFormations\bin\Debug\TriangleFormations.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TriangleFormations\bin\Debug\TriangleFormations.exe
-C:\Users\User\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TriangleFormations\bin\Debug\TriangleFormations.pdb
-C:\Users\User\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TriangleFormations\obj\Debug\TriangleFormations.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TriangleFormations\obj\Debug\TriangleFormations.exe
-C:\Users\User\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TriangleFormations\obj\Debug\TriangleFormations.pdb
