@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\3-Camel’sBack\bin\Debug\3-Camel’sBack.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\3-Camel’sBack\bin\Debug\3-Camel’sBack.exe
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\3-Camel’sBack\bin\Debug\3-Camel’sBack.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\3-Camel’sBack\obj\Debug\3-Camel’sBack.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\3-Camel’sBack\obj\Debug\3-Camel’sBack.exe
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\3-Camel’sBack\obj\Debug\3-Camel’sBack.pdb

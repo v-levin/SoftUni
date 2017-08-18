@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\1-RemoveElementsAtOddPositions\bin\Debug\1-RemoveElementsAtOddPositions.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\1-RemoveElementsAtOddPositions\bin\Debug\1-RemoveElementsAtOddPositions.exe
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\1-RemoveElementsAtOddPositions\bin\Debug\1-RemoveElementsAtOddPositions.pdb
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\1-RemoveElementsAtOddPositions\obj\Debug\1-RemoveElementsAtOddPositions.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\1-RemoveElementsAtOddPositions\obj\Debug\1-RemoveElementsAtOddPositions.exe
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\1-RemoveElementsAtOddPositions\obj\Debug\1-RemoveElementsAtOddPositions.pdb

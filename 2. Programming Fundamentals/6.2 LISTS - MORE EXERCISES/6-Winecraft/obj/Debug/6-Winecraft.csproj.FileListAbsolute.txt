@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\6-Winecraft\bin\Debug\6-Winecraft.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\6-Winecraft\bin\Debug\6-Winecraft.exe
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\6-Winecraft\bin\Debug\6-Winecraft.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\6-Winecraft\obj\Debug\6-Winecraft.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\6-Winecraft\obj\Debug\6-Winecraft.exe
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\6-Winecraft\obj\Debug\6-Winecraft.pdb

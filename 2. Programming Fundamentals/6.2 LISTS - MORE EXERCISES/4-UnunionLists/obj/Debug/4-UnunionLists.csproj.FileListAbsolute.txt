@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\4-UnunionLists\bin\Debug\4-UnunionLists.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\4-UnunionLists\bin\Debug\4-UnunionLists.exe
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\4-UnunionLists\bin\Debug\4-UnunionLists.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\4-UnunionLists\obj\Debug\4-UnunionLists.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\4-UnunionLists\obj\Debug\4-UnunionLists.exe
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\4-UnunionLists\obj\Debug\4-UnunionLists.pdb

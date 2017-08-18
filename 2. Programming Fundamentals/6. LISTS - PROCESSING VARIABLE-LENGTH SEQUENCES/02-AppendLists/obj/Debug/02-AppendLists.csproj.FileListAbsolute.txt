@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\Lists\02-AppendLists\bin\Debug\02-AppendLists.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Lists\02-AppendLists\bin\Debug\02-AppendLists.exe
+C:\Users\User\documents\visual studio 2017\Projects\Lists\02-AppendLists\bin\Debug\02-AppendLists.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Lists\02-AppendLists\obj\Debug\02-AppendLists.exe
+C:\Users\User\documents\visual studio 2017\Projects\Lists\02-AppendLists\obj\Debug\02-AppendLists.pdb

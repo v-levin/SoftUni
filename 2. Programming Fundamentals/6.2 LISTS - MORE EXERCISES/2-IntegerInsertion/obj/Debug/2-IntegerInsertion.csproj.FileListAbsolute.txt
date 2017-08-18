@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Lists\2-IntegerInsertion\bin\Debug\2-IntegerInsertion.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Lists\2-IntegerInsertion\bin\Debug\2-IntegerInsertion.exe
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Lists\2-IntegerInsertion\bin\Debug\2-IntegerInsertion.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Lists\2-IntegerInsertion\obj\Debug\2-IntegerInsertion.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Lists\2-IntegerInsertion\obj\Debug\2-IntegerInsertion.exe
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Lists\2-IntegerInsertion\obj\Debug\2-IntegerInsertion.pdb
