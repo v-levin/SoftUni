@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\bin\Debug\netcoreapp1.1\SquareOFStars.deps.json
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\bin\Debug\netcoreapp1.1\SquareOFStars.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\bin\Debug\netcoreapp1.1\SquareOFStars.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\bin\Debug\netcoreapp1.1\SquareOFStars.dll
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\bin\Debug\netcoreapp1.1\SquareOFStars.pdb
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\obj\Debug\netcoreapp1.1\SquareOFStars.AssemblyInfo.cs
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\obj\Debug\netcoreapp1.1\SquareOFStars.dll
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\obj\Debug\netcoreapp1.1\SquareOFStars.pdb
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\obj\Debug\netcoreapp1.1\SquareOFStars.csprojResolveAssemblyReference.cache

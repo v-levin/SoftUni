@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\DailyEarnings\bin\Debug\netcoreapp1.1\DailyEarnings.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\DailyEarnings\bin\Debug\netcoreapp1.1\DailyEarnings.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\DailyEarnings\bin\Debug\netcoreapp1.1\DailyEarnings.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\DailyEarnings\bin\Debug\netcoreapp1.1\DailyEarnings.dll
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\DailyEarnings\bin\Debug\netcoreapp1.1\DailyEarnings.pdb
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\DailyEarnings\obj\Debug\netcoreapp1.1\DailyEarnings.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\DailyEarnings\obj\Debug\netcoreapp1.1\DailyEarnings.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\DailyEarnings\obj\Debug\netcoreapp1.1\DailyEarnings.dll
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\DailyEarnings\obj\Debug\netcoreapp1.1\DailyEarnings.pdb

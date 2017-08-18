@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\Money\bin\Debug\netcoreapp1.1\Money.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\Money\bin\Debug\netcoreapp1.1\Money.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\Money\bin\Debug\netcoreapp1.1\Money.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\Money\bin\Debug\netcoreapp1.1\Money.dll
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\Money\bin\Debug\netcoreapp1.1\Money.pdb
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\Money\obj\Debug\netcoreapp1.1\Money.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\Money\obj\Debug\netcoreapp1.1\Money.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\Money\obj\Debug\netcoreapp1.1\Money.dll
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\Money\obj\Debug\netcoreapp1.1\Money.pdb

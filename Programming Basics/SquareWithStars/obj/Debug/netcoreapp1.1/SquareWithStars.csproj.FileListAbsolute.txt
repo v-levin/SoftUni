@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\bin\Debug\netcoreapp1.1\SquareWithStars.deps.json
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\bin\Debug\netcoreapp1.1\SquareWithStars.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\bin\Debug\netcoreapp1.1\SquareWithStars.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\bin\Debug\netcoreapp1.1\SquareWithStars.dll
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\bin\Debug\netcoreapp1.1\SquareWithStars.pdb
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\obj\Debug\netcoreapp1.1\SquareWithStars.AssemblyInfo.cs
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\obj\Debug\netcoreapp1.1\SquareWithStars.dll
+c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\SquareWithStars\obj\Debug\netcoreapp1.1\SquareWithStars.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\VegetableMarket\bin\Debug\netcoreapp1.1\VegetableMarket.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\VegetableMarket\bin\Debug\netcoreapp1.1\VegetableMarket.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\VegetableMarket\bin\Debug\netcoreapp1.1\VegetableMarket.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\VegetableMarket\bin\Debug\netcoreapp1.1\VegetableMarket.dll
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\VegetableMarket\bin\Debug\netcoreapp1.1\VegetableMarket.pdb
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\VegetableMarket\obj\Debug\netcoreapp1.1\VegetableMarket.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\VegetableMarket\obj\Debug\netcoreapp1.1\VegetableMarket.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\VegetableMarket\obj\Debug\netcoreapp1.1\VegetableMarket.dll
+C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\VegetableMarket\obj\Debug\netcoreapp1.1\VegetableMarket.pdb
