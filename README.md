@@ -40,3 +40,19 @@ PROFESSIONAL MODULS
  - C# Fundamentals: C# OOP Advanced
  
     In the Object Oriented Programming (OOP) course, you will learn about the principles and best practices for building quality software. You will learn about the concepts for writing quality code in OOP in C#. This includes using abstractions, refactoring, as well as writing unit tests, reflection, working with template data types, using events and techniques, and tools to improve the quality of the code. The course ends with the development and defense of a practical course project and a practical exam.
+    
+ - C# DB Fundamentals: Databases Basics - MS SQL Server
+ 
+    Databases are the standard way to use dynamic information in modern applications, making them an integral part of almost every application.
+    
+    The intensive basic course of databases will introduce you to one of the most widely used database management systems (DBMS) used in the development of modern information systems - Microsoft SQL Server. The course focuses on relational modeling, data modeling with ER charts (tables and relational links) and SQL language (data retrieval, selection, projection, joining, aggregation, grouping, modification, deletion and insertion). Fundamental knowledge about ACID transactions and transaction processing and practical tips for adjusting productivity are provided.
+
+    This course sets the basics of working with databases, making it easier to use them in real-world applications and understanding concepts such as database transformation into an object-oriented model (ORM).
+
+- C# DB Fundamentals: Databases Advanced - Entity Framework
+
+    We will look in detail at working with a modern ORM technology: Entity Framework (EF), which is a standard for ORM in C # and .NET applications. EF allows mapping between a relational base and an object-oriented model using the "database first" and "code first" approaches and provides a powerful object-oriented API for querying the database and performing CRUD operations. We will demonstrate established practices in building a database layer on sophisticated systems using the "Repository" and "Unit of Work" templates.
+
+    During the course a practical team project will be developed that includes the practical use of different DB servers (SQL Server, MySQL), data access platforms and technologies (ADO.NET, Entity Framework, etc.) and import and export to various formats for data (JSON, XML).
+
+
