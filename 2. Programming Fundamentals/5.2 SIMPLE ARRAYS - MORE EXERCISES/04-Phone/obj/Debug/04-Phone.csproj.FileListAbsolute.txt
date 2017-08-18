@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\04-Phone\bin\Debug\04-Phone.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\04-Phone\bin\Debug\04-Phone.exe
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\04-Phone\bin\Debug\04-Phone.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\04-Phone\obj\Debug\04-Phone.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\04-Phone\obj\Debug\04-Phone.exe
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\04-Phone\obj\Debug\04-Phone.pdb

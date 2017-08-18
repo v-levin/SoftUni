@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\2-CountOfNegativeElementsInArray\bin\Debug\2-CountOfNegativeElementsInArray.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\2-CountOfNegativeElementsInArray\bin\Debug\2-CountOfNegativeElementsInArray.exe
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\2-CountOfNegativeElementsInArray\bin\Debug\2-CountOfNegativeElementsInArray.pdb
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\2-CountOfNegativeElementsInArray\obj\Debug\2-CountOfNegativeElementsInArray.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\2-CountOfNegativeElementsInArray\obj\Debug\2-CountOfNegativeElementsInArray.exe
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\2-CountOfNegativeElementsInArray\obj\Debug\2-CountOfNegativeElementsInArray.pdb

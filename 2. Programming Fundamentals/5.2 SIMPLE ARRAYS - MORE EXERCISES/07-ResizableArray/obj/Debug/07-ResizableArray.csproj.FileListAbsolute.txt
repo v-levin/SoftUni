@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\07-ResizableArray\bin\Debug\07-ResizableArray.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\07-ResizableArray\bin\Debug\07-ResizableArray.exe
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\07-ResizableArray\bin\Debug\07-ResizableArray.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\07-ResizableArray\obj\Debug\07-ResizableArray.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\07-ResizableArray\obj\Debug\07-ResizableArray.exe
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\07-ResizableArray\obj\Debug\07-ResizableArray.pdb

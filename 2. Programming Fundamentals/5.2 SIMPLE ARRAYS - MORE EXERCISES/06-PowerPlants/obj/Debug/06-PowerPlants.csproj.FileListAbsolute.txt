@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\06-PowerPlants\bin\Debug\06-PowerPlants.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\06-PowerPlants\bin\Debug\06-PowerPlants.exe
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\06-PowerPlants\bin\Debug\06-PowerPlants.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\06-PowerPlants\obj\Debug\06-PowerPlants.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\06-PowerPlants\obj\Debug\06-PowerPlants.exe
+C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Arrays\06-PowerPlants\obj\Debug\06-PowerPlants.pdb

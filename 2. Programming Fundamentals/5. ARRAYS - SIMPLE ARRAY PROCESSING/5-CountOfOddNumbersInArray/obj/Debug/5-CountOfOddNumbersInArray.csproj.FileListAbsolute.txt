@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\5-CountOfOddNumbersInArray\bin\Debug\5-CountOfOddNumbersInArray.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\5-CountOfOddNumbersInArray\bin\Debug\5-CountOfOddNumbersInArray.exe
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\5-CountOfOddNumbersInArray\bin\Debug\5-CountOfOddNumbersInArray.pdb
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\5-CountOfOddNumbersInArray\obj\Debug\5-CountOfOddNumbersInArray.exe
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\5-CountOfOddNumbersInArray\obj\Debug\5-CountOfOddNumbersInArray.pdb

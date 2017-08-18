@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\MoreExercises-Arrays\05-CharRotation\bin\Debug\05-CharRotation.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\MoreExercises-Arrays\05-CharRotation\bin\Debug\05-CharRotation.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\MoreExercises-Arrays\05-CharRotation\bin\Debug\05-CharRotation.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\MoreExercises-Arrays\05-CharRotation\obj\Debug\05-CharRotation.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\MoreExercises-Arrays\05-CharRotation\obj\Debug\05-CharRotation.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\MoreExercises-Arrays\05-CharRotation\obj\Debug\05-CharRotation.csprojResolveAssemblyReference.cache

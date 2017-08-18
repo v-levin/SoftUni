@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\7-CountOfCapitalLettersInArray\bin\Debug\7-CountOfCapitalLettersInArray.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\7-CountOfCapitalLettersInArray\bin\Debug\7-CountOfCapitalLettersInArray.exe
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\7-CountOfCapitalLettersInArray\bin\Debug\7-CountOfCapitalLettersInArray.pdb
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\7-CountOfCapitalLettersInArray\obj\Debug\7-CountOfCapitalLettersInArray.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\7-CountOfCapitalLettersInArray\obj\Debug\7-CountOfCapitalLettersInArray.exe
+c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\7-CountOfCapitalLettersInArray\obj\Debug\7-CountOfCapitalLettersInArray.pdb

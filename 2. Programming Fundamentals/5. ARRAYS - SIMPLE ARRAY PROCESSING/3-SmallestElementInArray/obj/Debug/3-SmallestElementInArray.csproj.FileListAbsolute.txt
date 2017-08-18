@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\3-SmallestElementInArray\bin\Debug\3-SmallestElementInArray.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\3-SmallestElementInArray\bin\Debug\3-SmallestElementInArray.exe
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\3-SmallestElementInArray\bin\Debug\3-SmallestElementInArray.pdb
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\3-SmallestElementInArray\obj\Debug\3-SmallestElementInArray.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\3-SmallestElementInArray\obj\Debug\3-SmallestElementInArray.exe
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\3-SmallestElementInArray\obj\Debug\3-SmallestElementInArray.pdb

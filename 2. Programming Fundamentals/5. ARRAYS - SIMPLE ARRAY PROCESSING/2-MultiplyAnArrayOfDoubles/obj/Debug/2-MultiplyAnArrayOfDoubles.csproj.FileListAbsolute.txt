@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\2-MultiplyAnArrayOfDoubles\bin\Debug\2-MultiplyAnArrayOfDoubles.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\2-MultiplyAnArrayOfDoubles\bin\Debug\2-MultiplyAnArrayOfDoubles.exe
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\2-MultiplyAnArrayOfDoubles\bin\Debug\2-MultiplyAnArrayOfDoubles.pdb
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\2-MultiplyAnArrayOfDoubles\obj\Debug\2-MultiplyAnArrayOfDoubles.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\2-MultiplyAnArrayOfDoubles\obj\Debug\2-MultiplyAnArrayOfDoubles.exe
+c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\2-MultiplyAnArrayOfDoubles\obj\Debug\2-MultiplyAnArrayOfDoubles.pdb

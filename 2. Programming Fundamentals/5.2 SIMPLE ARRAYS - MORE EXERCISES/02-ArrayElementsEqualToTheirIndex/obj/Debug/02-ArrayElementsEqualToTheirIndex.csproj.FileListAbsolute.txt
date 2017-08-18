@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\02-ArrayElementsEqualToTheirIndex\bin\Debug\02-ArrayElementsEqualToTheirIndex.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\02-ArrayElementsEqualToTheirIndex\bin\Debug\02-ArrayElementsEqualToTheirIndex.exe
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\02-ArrayElementsEqualToTheirIndex\bin\Debug\02-ArrayElementsEqualToTheirIndex.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\02-ArrayElementsEqualToTheirIndex\obj\Debug\02-ArrayElementsEqualToTheirIndex.exe
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\02-ArrayElementsEqualToTheirIndex\obj\Debug\02-ArrayElementsEqualToTheirIndex.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\03-Phonebook\bin\Debug\03-Phonebook.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\03-Phonebook\bin\Debug\03-Phonebook.exe
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\03-Phonebook\bin\Debug\03-Phonebook.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\03-Phonebook\obj\Debug\03-Phonebook.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\03-Phonebook\obj\Debug\03-Phonebook.exe
+c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\03-Phonebook\obj\Debug\03-Phonebook.pdb
