@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\5-CalculateTriangleArea\bin\Debug\5-CalculateTriangleArea.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\5-CalculateTriangleArea\bin\Debug\5-CalculateTriangleArea.exe
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\5-CalculateTriangleArea\bin\Debug\5-CalculateTriangleArea.pdb
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\5-CalculateTriangleArea\obj\Debug\5-CalculateTriangleArea.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\5-CalculateTriangleArea\obj\Debug\5-CalculateTriangleArea.exe
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\5-CalculateTriangleArea\obj\Debug\5-CalculateTriangleArea.pdb

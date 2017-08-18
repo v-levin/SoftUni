@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\6-Notifications\bin\Debug\6-Notifications.exe.config
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\6-Notifications\bin\Debug\6-Notifications.exe
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\6-Notifications\bin\Debug\6-Notifications.pdb
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\6-Notifications\obj\Debug\6-Notifications.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\6-Notifications\obj\Debug\6-Notifications.exe
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\6-Notifications\obj\Debug\6-Notifications.pdb

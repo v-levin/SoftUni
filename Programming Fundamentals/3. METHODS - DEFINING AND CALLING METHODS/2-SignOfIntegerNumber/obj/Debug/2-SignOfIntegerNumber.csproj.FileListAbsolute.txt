@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\2-SignOfIntegerNumber\bin\Debug\2-SignOfIntegerNumber.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\2-SignOfIntegerNumber\bin\Debug\2-SignOfIntegerNumber.exe
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\2-SignOfIntegerNumber\bin\Debug\2-SignOfIntegerNumber.pdb
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\2-SignOfIntegerNumber\obj\Debug\2-SignOfIntegerNumber.exe
+c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\2-SignOfIntegerNumber\obj\Debug\2-SignOfIntegerNumber.pdb

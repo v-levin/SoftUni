@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\ExercisesMethods\8-StringEncryption\obj\Debug\8-StringEncryption.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\ExercisesMethods\8-StringEncryption\bin\Debug\8-StringEncryption.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\ExercisesMethods\8-StringEncryption\bin\Debug\8-StringEncryption.exe
+C:\Users\User\documents\visual studio 2017\Projects\ExercisesMethods\8-StringEncryption\bin\Debug\8-StringEncryption.pdb
+C:\Users\User\documents\visual studio 2017\Projects\ExercisesMethods\8-StringEncryption\obj\Debug\8-StringEncryption.exe
+C:\Users\User\documents\visual studio 2017\Projects\ExercisesMethods\8-StringEncryption\obj\Debug\8-StringEncryption.pdb

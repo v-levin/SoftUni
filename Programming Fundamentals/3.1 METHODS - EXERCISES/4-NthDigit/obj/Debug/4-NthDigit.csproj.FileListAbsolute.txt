@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\4-NthDigit\bin\Debug\4-NthDigit.exe.config
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\4-NthDigit\bin\Debug\4-NthDigit.exe
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\4-NthDigit\bin\Debug\4-NthDigit.pdb
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\4-NthDigit\obj\Debug\4-NthDigit.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\4-NthDigit\obj\Debug\4-NthDigit.exe
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\4-NthDigit\obj\Debug\4-NthDigit.pdb

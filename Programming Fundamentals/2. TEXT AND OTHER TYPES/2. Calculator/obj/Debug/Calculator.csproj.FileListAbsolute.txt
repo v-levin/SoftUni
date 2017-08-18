@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\TextAndOtherTypes\Calculator\bin\Debug\Calculator.exe.config
+c:\users\user\documents\visual studio 2017\Projects\TextAndOtherTypes\Calculator\bin\Debug\Calculator.exe
+c:\users\user\documents\visual studio 2017\Projects\TextAndOtherTypes\Calculator\bin\Debug\Calculator.pdb
+c:\users\user\documents\visual studio 2017\Projects\TextAndOtherTypes\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\TextAndOtherTypes\Calculator\obj\Debug\Calculator.exe
+c:\users\user\documents\visual studio 2017\Projects\TextAndOtherTypes\Calculator\obj\Debug\Calculator.pdb
