@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\7-NumbersToWords\bin\Debug\7-NumbersToWords.exe.config
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\7-NumbersToWords\bin\Debug\7-NumbersToWords.exe
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\7-NumbersToWords\bin\Debug\7-NumbersToWords.pdb
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\7-NumbersToWords\obj\Debug\7-NumbersToWords.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\7-NumbersToWords\obj\Debug\7-NumbersToWords.exe
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\7-NumbersToWords\obj\Debug\7-NumbersToWords.pdb

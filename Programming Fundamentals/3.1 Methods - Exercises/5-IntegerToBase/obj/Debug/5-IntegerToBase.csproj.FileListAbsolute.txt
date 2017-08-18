@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\5-IntegerToBase\bin\Debug\5-IntegerToBase.exe.config
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\5-IntegerToBase\bin\Debug\5-IntegerToBase.exe
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\5-IntegerToBase\bin\Debug\5-IntegerToBase.pdb
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\5-IntegerToBase\obj\Debug\5-IntegerToBase.exe
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\5-IntegerToBase\obj\Debug\5-IntegerToBase.pdb
+c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\5-IntegerToBase\obj\Debug\5-IntegerToBase.csprojResolveAssemblyReference.cache
