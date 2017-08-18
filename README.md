@@ -55,4 +55,13 @@ PROFESSIONAL MODULS
 
     During the course a practical team project will be developed that includes the practical use of different DB servers (SQL Server, MySQL), data access platforms and technologies (ADO.NET, Entity Framework, etc.) and import and export to various formats for data (JSON, XML).
 
+- C# Web: C# Web Development Basics
 
+    In the basic course of web programming, we will introduce you to basic web development principles such as HTTP protocol, sessions and ways of preserving the state, data caching, various data transfer protocols, security.
+
+    We will write our own MVC framework based on C# and MS SQL Server, splitting models, views and controllers, with front-controller and router, supporting all the basic functionalities needed for a modern web application: data visualization, tables, CRUD data operations, forms, paging, validation, notifications, users, sessions, login / logout, and more. In fact you will learn to create your own web applications with C# and SQL Server and understand how web applications work as a structure and how MVC (model-view-controller) technology works in modern web applications. This course sets out the basics of important principles set in the next courses and used in the technologies to be studied.
+
+
+- C# Web: C# MVC Frameworks - ASP.NET
+
+    The "ASP.NET MVC" course will teach you how to build modern web applications with the Model-View-Controller architecture using HTML5, databases, Entity Framework and other technologies. The ASP.NET technology platform, its components and architecture, the creation of MVC web applications, the definition of models, views and partial views with Razor view engine, controller definition, database operation and integration with Entity Framework, LINQ and SQL Server are being studied. The course also includes more complex topics such as user experience, roles and sessions, AJAX usage, caching, web application security, web sockets and SignalR, and working with libraries from MVC controls. Several practical laboratory exercises (labs) and workshops are being built to build comprehensive, full-featured ASP.NET MVC web applications. The course includes work on a team project to build a web application and ends with a practical web development exam with ASP.NET MVC.
