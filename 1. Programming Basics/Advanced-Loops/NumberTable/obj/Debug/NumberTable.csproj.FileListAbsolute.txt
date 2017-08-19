@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\NumberTable\bin\Debug\NumberTable.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\NumberTable\bin\Debug\NumberTable.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\NumberTable\bin\Debug\NumberTable.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\NumberTable\obj\Debug\NumberTable.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\NumberTable\obj\Debug\NumberTable.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\NumberTable\obj\Debug\NumberTable.pdb

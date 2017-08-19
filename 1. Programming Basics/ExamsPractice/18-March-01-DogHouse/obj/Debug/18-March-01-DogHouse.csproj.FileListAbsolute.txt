@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-01-DogHouse\bin\Debug\18-March-01-DogHouse.exe.config
+c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-01-DogHouse\bin\Debug\18-March-01-DogHouse.exe
+c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-01-DogHouse\bin\Debug\18-March-01-DogHouse.pdb
+c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-01-DogHouse\obj\Debug\18-March-01-DogHouse.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-01-DogHouse\obj\Debug\18-March-01-DogHouse.exe
+c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-01-DogHouse\obj\Debug\18-March-01-DogHouse.pdb

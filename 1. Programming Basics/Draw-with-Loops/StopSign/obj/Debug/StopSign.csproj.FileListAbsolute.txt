@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\StopSign\bin\Debug\StopSign.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\StopSign\bin\Debug\StopSign.exe
+C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\StopSign\bin\Debug\StopSign.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\StopSign\obj\Debug\StopSign.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\StopSign\obj\Debug\StopSign.exe
+C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\StopSign\obj\Debug\StopSign.pdb

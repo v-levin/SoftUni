@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\VolleyBall\bin\Debug\netcoreapp1.1\VolleyBall.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\VolleyBall\bin\Debug\netcoreapp1.1\VolleyBall.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\VolleyBall\bin\Debug\netcoreapp1.1\VolleyBall.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\VolleyBall\bin\Debug\netcoreapp1.1\VolleyBall.dll
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\VolleyBall\bin\Debug\netcoreapp1.1\VolleyBall.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\VolleyBall\obj\Debug\netcoreapp1.1\VolleyBall.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\VolleyBall\obj\Debug\netcoreapp1.1\VolleyBall.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\VolleyBall\obj\Debug\netcoreapp1.1\VolleyBall.dll
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\VolleyBall\obj\Debug\netcoreapp1.1\VolleyBall.pdb

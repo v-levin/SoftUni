@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\IsPrime\IsPrime\bin\Debug\netcoreapp1.1\IsPrime.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\IsPrime\IsPrime\bin\Debug\netcoreapp1.1\IsPrime.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\IsPrime\IsPrime\bin\Debug\netcoreapp1.1\IsPrime.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\IsPrime\IsPrime\bin\Debug\netcoreapp1.1\IsPrime.dll
+C:\Users\User\documents\visual studio 2017\Projects\IsPrime\IsPrime\bin\Debug\netcoreapp1.1\IsPrime.pdb
+C:\Users\User\documents\visual studio 2017\Projects\IsPrime\IsPrime\obj\Debug\netcoreapp1.1\IsPrime.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\IsPrime\IsPrime\obj\Debug\netcoreapp1.1\IsPrime.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\IsPrime\IsPrime\obj\Debug\netcoreapp1.1\IsPrime.dll
+C:\Users\User\documents\visual studio 2017\Projects\IsPrime\IsPrime\obj\Debug\netcoreapp1.1\IsPrime.pdb

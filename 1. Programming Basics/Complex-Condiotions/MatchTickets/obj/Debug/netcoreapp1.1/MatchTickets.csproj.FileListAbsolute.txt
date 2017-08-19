@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\MatchTickets\bin\Debug\netcoreapp1.1\MatchTickets.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\MatchTickets\bin\Debug\netcoreapp1.1\MatchTickets.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\MatchTickets\bin\Debug\netcoreapp1.1\MatchTickets.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\MatchTickets\bin\Debug\netcoreapp1.1\MatchTickets.dll
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\MatchTickets\bin\Debug\netcoreapp1.1\MatchTickets.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\MatchTickets\obj\Debug\netcoreapp1.1\MatchTickets.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\MatchTickets\obj\Debug\netcoreapp1.1\MatchTickets.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\MatchTickets\obj\Debug\netcoreapp1.1\MatchTickets.dll
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\MatchTickets\obj\Debug\netcoreapp1.1\MatchTickets.pdb

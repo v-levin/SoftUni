@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\Butterfly\bin\Debug\Butterfly.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\Butterfly\bin\Debug\Butterfly.exe
+C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\Butterfly\bin\Debug\Butterfly.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\Butterfly\obj\Debug\Butterfly.exe
+C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\Butterfly\obj\Debug\Butterfly.pdb

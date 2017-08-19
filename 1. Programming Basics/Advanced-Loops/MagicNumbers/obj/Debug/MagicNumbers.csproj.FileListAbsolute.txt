@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\MagicNumbers\obj\Debug\MagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\MagicNumbers\bin\Debug\MagicNumbers.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\MagicNumbers\bin\Debug\MagicNumbers.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\MagicNumbers\bin\Debug\MagicNumbers.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\MagicNumbers\obj\Debug\MagicNumbers.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\MagicNumbers\obj\Debug\MagicNumbers.pdb

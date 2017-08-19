@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\HotelRoom\bin\Debug\netcoreapp1.1\HotelRoom.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\HotelRoom\bin\Debug\netcoreapp1.1\HotelRoom.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\HotelRoom\bin\Debug\netcoreapp1.1\HotelRoom.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\HotelRoom\bin\Debug\netcoreapp1.1\HotelRoom.dll
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\HotelRoom\bin\Debug\netcoreapp1.1\HotelRoom.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\HotelRoom\obj\Debug\netcoreapp1.1\HotelRoom.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\HotelRoom\obj\Debug\netcoreapp1.1\HotelRoom.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\HotelRoom\obj\Debug\netcoreapp1.1\HotelRoom.dll
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\HotelRoom\obj\Debug\netcoreapp1.1\HotelRoom.pdb

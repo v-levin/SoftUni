@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Cinema\bin\Debug\netcoreapp1.1\Cinema.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Cinema\bin\Debug\netcoreapp1.1\Cinema.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Cinema\bin\Debug\netcoreapp1.1\Cinema.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Cinema\bin\Debug\netcoreapp1.1\Cinema.dll
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Cinema\bin\Debug\netcoreapp1.1\Cinema.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Cinema\obj\Debug\netcoreapp1.1\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Cinema\obj\Debug\netcoreapp1.1\Cinema.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Cinema\obj\Debug\netcoreapp1.1\Cinema.dll
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Cinema\obj\Debug\netcoreapp1.1\Cinema.pdb

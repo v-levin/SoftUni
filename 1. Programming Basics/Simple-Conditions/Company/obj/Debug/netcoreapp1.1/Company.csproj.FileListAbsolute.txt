@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Company\bin\Debug\netcoreapp1.1\Company.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Company\bin\Debug\netcoreapp1.1\Company.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Company\bin\Debug\netcoreapp1.1\Company.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Company\bin\Debug\netcoreapp1.1\Company.dll
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Company\bin\Debug\netcoreapp1.1\Company.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Company\obj\Debug\netcoreapp1.1\Company.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Company\obj\Debug\netcoreapp1.1\Company.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Company\obj\Debug\netcoreapp1.1\Company.dll
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Company\obj\Debug\netcoreapp1.1\Company.pdb

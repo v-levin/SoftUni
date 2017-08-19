@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTheFigure\bin\Debug\netcoreapp1.1\PointInTheFigure.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTheFigure\bin\Debug\netcoreapp1.1\PointInTheFigure.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTheFigure\bin\Debug\netcoreapp1.1\PointInTheFigure.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTheFigure\bin\Debug\netcoreapp1.1\PointInTheFigure.dll
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTheFigure\bin\Debug\netcoreapp1.1\PointInTheFigure.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTheFigure\obj\Debug\netcoreapp1.1\PointInTheFigure.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTheFigure\obj\Debug\netcoreapp1.1\PointInTheFigure.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTheFigure\obj\Debug\netcoreapp1.1\PointInTheFigure.dll
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTheFigure\obj\Debug\netcoreapp1.1\PointInTheFigure.pdb

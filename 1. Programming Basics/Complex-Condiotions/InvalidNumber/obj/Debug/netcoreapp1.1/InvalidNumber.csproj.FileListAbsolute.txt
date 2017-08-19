@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\InvalidNumber\bin\Debug\netcoreapp1.1\InvalidNumber.deps.json
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\InvalidNumber\bin\Debug\netcoreapp1.1\InvalidNumber.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\InvalidNumber\bin\Debug\netcoreapp1.1\InvalidNumber.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\InvalidNumber\bin\Debug\netcoreapp1.1\InvalidNumber.dll
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\InvalidNumber\bin\Debug\netcoreapp1.1\InvalidNumber.pdb
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\InvalidNumber\obj\Debug\netcoreapp1.1\InvalidNumber.AssemblyInfo.cs
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\InvalidNumber\obj\Debug\netcoreapp1.1\InvalidNumber.dll
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\InvalidNumber\obj\Debug\netcoreapp1.1\InvalidNumber.pdb

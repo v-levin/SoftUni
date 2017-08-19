@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\TradeComissions\bin\Debug\netcoreapp1.1\TradeComissions.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\TradeComissions\bin\Debug\netcoreapp1.1\TradeComissions.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\TradeComissions\bin\Debug\netcoreapp1.1\TradeComissions.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\TradeComissions\bin\Debug\netcoreapp1.1\TradeComissions.dll
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\TradeComissions\bin\Debug\netcoreapp1.1\TradeComissions.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\TradeComissions\obj\Debug\netcoreapp1.1\TradeComissions.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\TradeComissions\obj\Debug\netcoreapp1.1\TradeComissions.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\TradeComissions\obj\Debug\netcoreapp1.1\TradeComissions.dll
+C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\TradeComissions\obj\Debug\netcoreapp1.1\TradeComissions.pdb

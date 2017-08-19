@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\PracticeList\PracticeList\bin\Debug\netcoreapp1.1\PracticeList.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\PracticeList\PracticeList\bin\Debug\netcoreapp1.1\PracticeList.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\PracticeList\PracticeList\bin\Debug\netcoreapp1.1\PracticeList.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\PracticeList\PracticeList\bin\Debug\netcoreapp1.1\PracticeList.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\PracticeList\PracticeList\bin\Debug\netcoreapp1.1\PracticeList.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\PracticeList\PracticeList\obj\Debug\netcoreapp1.1\PracticeList.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\PracticeList\PracticeList\obj\Debug\netcoreapp1.1\PracticeList.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\PracticeList\PracticeList\obj\Debug\netcoreapp1.1\PracticeList.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\PracticeList\PracticeList\obj\Debug\netcoreapp1.1\PracticeList.pdb

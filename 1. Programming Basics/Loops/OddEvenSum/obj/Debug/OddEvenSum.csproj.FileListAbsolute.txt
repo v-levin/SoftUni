@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Loops\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Loops\OddEvenSum\bin\Debug\OddEvenSum.exe
+C:\Users\User\documents\visual studio 2017\Projects\Loops\OddEvenSum\bin\Debug\OddEvenSum.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Loops\OddEvenSum\obj\Debug\OddEvenSum.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Loops\OddEvenSum\obj\Debug\OddEvenSum.exe
+C:\Users\User\documents\visual studio 2017\Projects\Loops\OddEvenSum\obj\Debug\OddEvenSum.pdb

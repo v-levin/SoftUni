@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TimePlus15Minutes\bin\Debug\netcoreapp1.1\TimePlus15Minutes.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TimePlus15Minutes\bin\Debug\netcoreapp1.1\TimePlus15Minutes.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TimePlus15Minutes\bin\Debug\netcoreapp1.1\TimePlus15Minutes.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TimePlus15Minutes\bin\Debug\netcoreapp1.1\TimePlus15Minutes.dll
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TimePlus15Minutes\bin\Debug\netcoreapp1.1\TimePlus15Minutes.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TimePlus15Minutes\obj\Debug\netcoreapp1.1\TimePlus15Minutes.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TimePlus15Minutes\obj\Debug\netcoreapp1.1\TimePlus15Minutes.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TimePlus15Minutes\obj\Debug\netcoreapp1.1\TimePlus15Minutes.dll
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TimePlus15Minutes\obj\Debug\netcoreapp1.1\TimePlus15Minutes.pdb

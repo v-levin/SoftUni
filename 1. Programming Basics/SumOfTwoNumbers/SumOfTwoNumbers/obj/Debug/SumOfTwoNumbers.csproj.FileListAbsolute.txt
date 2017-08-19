@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.exe.config
+c:\users\user\documents\visual studio 2017\Projects\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.exe
+c:\users\user\documents\visual studio 2017\Projects\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.pdb
+c:\users\user\documents\visual studio 2017\Projects\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.FormCalculate.resources
+c:\users\user\documents\visual studio 2017\Projects\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.exe
+c:\users\user\documents\visual studio 2017\Projects\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.pdb

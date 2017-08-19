@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTriangle\bin\Debug\netcoreapp1.1\PointInTriangle.deps.json
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTriangle\bin\Debug\netcoreapp1.1\PointInTriangle.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTriangle\bin\Debug\netcoreapp1.1\PointInTriangle.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTriangle\bin\Debug\netcoreapp1.1\PointInTriangle.dll
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTriangle\bin\Debug\netcoreapp1.1\PointInTriangle.pdb
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTriangle\obj\Debug\netcoreapp1.1\PointInTriangle.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTriangle\obj\Debug\netcoreapp1.1\PointInTriangle.AssemblyInfo.cs
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTriangle\obj\Debug\netcoreapp1.1\PointInTriangle.dll
+c:\users\user\documents\visual studio 2017\Projects\Complex-Condiotions\PointInTriangle\obj\Debug\netcoreapp1.1\PointInTriangle.pdb

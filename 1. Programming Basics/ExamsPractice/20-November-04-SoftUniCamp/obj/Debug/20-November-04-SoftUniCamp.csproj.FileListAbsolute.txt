@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-04-SoftUniCamp\bin\Debug\20-November-04-SoftUniCamp.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-04-SoftUniCamp\bin\Debug\20-November-04-SoftUniCamp.exe
+C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-04-SoftUniCamp\bin\Debug\20-November-04-SoftUniCamp.pdb
+C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-04-SoftUniCamp\obj\Debug\20-November-04-SoftUniCamp.exe
+C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-04-SoftUniCamp\obj\Debug\20-November-04-SoftUniCamp.pdb

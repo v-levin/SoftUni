@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\PoolPipes\bin\Debug\netcoreapp1.1\PoolPipes.deps.json
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\PoolPipes\bin\Debug\netcoreapp1.1\PoolPipes.runtimeconfig.json
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\PoolPipes\bin\Debug\netcoreapp1.1\PoolPipes.runtimeconfig.dev.json
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\PoolPipes\bin\Debug\netcoreapp1.1\PoolPipes.dll
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\PoolPipes\bin\Debug\netcoreapp1.1\PoolPipes.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\PoolPipes\obj\Debug\netcoreapp1.1\PoolPipes.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\PoolPipes\obj\Debug\netcoreapp1.1\PoolPipes.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\PoolPipes\obj\Debug\netcoreapp1.1\PoolPipes.dll
+C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\PoolPipes\obj\Debug\netcoreapp1.1\PoolPipes.pdb
