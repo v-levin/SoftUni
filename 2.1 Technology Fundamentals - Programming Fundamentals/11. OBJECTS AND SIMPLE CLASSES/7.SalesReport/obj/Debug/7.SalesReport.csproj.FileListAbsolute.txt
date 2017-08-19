@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Objects and Classes\7.SalesReport\bin\Debug\7.SalesReport.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Objects and Classes\7.SalesReport\bin\Debug\7.SalesReport.exe
+C:\Users\User\documents\visual studio 2017\Projects\Objects and Classes\7.SalesReport\bin\Debug\7.SalesReport.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Objects and Classes\7.SalesReport\obj\Debug\7.SalesReport.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Objects and Classes\7.SalesReport\obj\Debug\7.SalesReport.exe
+C:\Users\User\documents\visual studio 2017\Projects\Objects and Classes\7.SalesReport\obj\Debug\7.SalesReport.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\1.Exercises\bin\Debug\1.Exercises.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\1.Exercises\bin\Debug\1.Exercises.exe
+c:\users\user\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\1.Exercises\bin\Debug\1.Exercises.pdb
+c:\users\user\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\1.Exercises\obj\Debug\1.Exercises.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\1.Exercises\obj\Debug\1.Exercises.exe
+c:\users\user\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\1.Exercises\obj\Debug\1.Exercises.pdb
