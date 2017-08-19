@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\1.ArrayContainsElement\bin\Debug\1.ArrayContainsElement.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\1.ArrayContainsElement\bin\Debug\1.ArrayContainsElement.exe
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\1.ArrayContainsElement\bin\Debug\1.ArrayContainsElement.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\1.ArrayContainsElement\obj\Debug\1.ArrayContainsElement.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\1.ArrayContainsElement\obj\Debug\1.ArrayContainsElement.exe
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\1.ArrayContainsElement\obj\Debug\1.ArrayContainsElement.pdb

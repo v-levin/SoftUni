@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\2.AverageCharacterDelimiter\bin\Debug\2.AverageCharacterDelimiter.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\2.AverageCharacterDelimiter\bin\Debug\2.AverageCharacterDelimiter.exe
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\2.AverageCharacterDelimiter\bin\Debug\2.AverageCharacterDelimiter.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\2.AverageCharacterDelimiter\obj\Debug\2.AverageCharacterDelimiter.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\2.AverageCharacterDelimiter\obj\Debug\2.AverageCharacterDelimiter.exe
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\2.AverageCharacterDelimiter\obj\Debug\2.AverageCharacterDelimiter.pdb

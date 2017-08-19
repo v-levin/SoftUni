@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\1.ShootListElements\bin\Debug\1.ShootListElements.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\1.ShootListElements\bin\Debug\1.ShootListElements.exe
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\1.ShootListElements\bin\Debug\1.ShootListElements.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\1.ShootListElements\obj\Debug\1.ShootListElements.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\1.ShootListElements\obj\Debug\1.ShootListElements.exe
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\1.ShootListElements\obj\Debug\1.ShootListElements.pdb

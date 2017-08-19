@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\3.SortArrayOfStrings\bin\Debug\3.SortArrayOfStrings.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\3.SortArrayOfStrings\bin\Debug\3.SortArrayOfStrings.exe
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\3.SortArrayOfStrings\bin\Debug\3.SortArrayOfStrings.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\3.SortArrayOfStrings\obj\Debug\3.SortArrayOfStrings.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\3.SortArrayOfStrings\obj\Debug\3.SortArrayOfStrings.exe
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\3.SortArrayOfStrings\obj\Debug\3.SortArrayOfStrings.pdb

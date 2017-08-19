@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\2.BinarySearch\bin\Debug\2.BinarySearch.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\2.BinarySearch\bin\Debug\2.BinarySearch.exe
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\2.BinarySearch\bin\Debug\2.BinarySearch.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\2.BinarySearch\obj\Debug\2.BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\2.BinarySearch\obj\Debug\2.BinarySearch.exe
+C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\2.BinarySearch\obj\Debug\2.BinarySearch.pdb
