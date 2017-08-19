@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\4.GroupContinentsCountriesAndCities\bin\Debug\4.GroupContinentsCountriesAndCities.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\4.GroupContinentsCountriesAndCities\bin\Debug\4.GroupContinentsCountriesAndCities.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\4.GroupContinentsCountriesAndCities\bin\Debug\4.GroupContinentsCountriesAndCities.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\4.GroupContinentsCountriesAndCities\obj\Debug\4.GroupContinentsCountriesAndCities.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\4.GroupContinentsCountriesAndCities\obj\Debug\4.GroupContinentsCountriesAndCities.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\4.GroupContinentsCountriesAndCities\obj\Debug\4.GroupContinentsCountriesAndCities.pdb

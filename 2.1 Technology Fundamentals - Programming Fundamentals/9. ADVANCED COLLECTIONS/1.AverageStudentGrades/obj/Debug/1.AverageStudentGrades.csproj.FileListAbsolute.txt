@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Advanced Collections\1.AverageStudentGrades\bin\Debug\1.AverageStudentGrades.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Advanced Collections\1.AverageStudentGrades\bin\Debug\1.AverageStudentGrades.exe
+c:\users\user\documents\visual studio 2017\Projects\Advanced Collections\1.AverageStudentGrades\bin\Debug\1.AverageStudentGrades.pdb
+c:\users\user\documents\visual studio 2017\Projects\Advanced Collections\1.AverageStudentGrades\obj\Debug\1.AverageStudentGrades.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Advanced Collections\1.AverageStudentGrades\obj\Debug\1.AverageStudentGrades.exe
+c:\users\user\documents\visual studio 2017\Projects\Advanced Collections\1.AverageStudentGrades\obj\Debug\1.AverageStudentGrades.pdb

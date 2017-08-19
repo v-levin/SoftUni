@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\4.FoldAndSum\bin\Debug\4.FoldAndSum.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\4.FoldAndSum\bin\Debug\4.FoldAndSum.exe
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\4.FoldAndSum\bin\Debug\4.FoldAndSum.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\4.FoldAndSum\obj\Debug\4.FoldAndSum.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\4.FoldAndSum\obj\Debug\4.FoldAndSum.exe
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\4.FoldAndSum\obj\Debug\4.FoldAndSum.pdb

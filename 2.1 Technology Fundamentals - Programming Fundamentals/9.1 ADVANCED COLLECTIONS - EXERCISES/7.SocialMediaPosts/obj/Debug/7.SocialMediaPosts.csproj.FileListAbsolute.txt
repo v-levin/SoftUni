@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\7.SocialMediaPosts\bin\Debug\7.SocialMediaPosts.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\7.SocialMediaPosts\bin\Debug\7.SocialMediaPosts.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\7.SocialMediaPosts\bin\Debug\7.SocialMediaPosts.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\7.SocialMediaPosts\obj\Debug\7.SocialMediaPosts.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\7.SocialMediaPosts\obj\Debug\7.SocialMediaPosts.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\7.SocialMediaPosts\obj\Debug\7.SocialMediaPosts.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\1.ArrayData\bin\Debug\1.ArrayData.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\1.ArrayData\bin\Debug\1.ArrayData.exe
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\1.ArrayData\bin\Debug\1.ArrayData.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\1.ArrayData\obj\Debug\1.ArrayData.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\1.ArrayData\obj\Debug\1.ArrayData.exe
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\1.ArrayData\obj\Debug\1.ArrayData.pdb

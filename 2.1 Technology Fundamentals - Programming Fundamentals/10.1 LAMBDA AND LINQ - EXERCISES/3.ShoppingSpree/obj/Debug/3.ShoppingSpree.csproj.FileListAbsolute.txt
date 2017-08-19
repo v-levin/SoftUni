@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - Exercises\3.ShoppingSpree\bin\Debug\3.ShoppingSpree.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - Exercises\3.ShoppingSpree\bin\Debug\3.ShoppingSpree.exe
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - Exercises\3.ShoppingSpree\bin\Debug\3.ShoppingSpree.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - Exercises\3.ShoppingSpree\obj\Debug\3.ShoppingSpree.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - Exercises\3.ShoppingSpree\obj\Debug\3.ShoppingSpree.exe
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - Exercises\3.ShoppingSpree\obj\Debug\3.ShoppingSpree.pdb

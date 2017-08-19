@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\3.MixedPhones\bin\Debug\3.MixedPhones.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\3.MixedPhones\bin\Debug\3.MixedPhones.exe
+c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\3.MixedPhones\bin\Debug\3.MixedPhones.pdb
+c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\3.MixedPhones\obj\Debug\3.MixedPhones.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\3.MixedPhones\obj\Debug\3.MixedPhones.exe
+c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\3.MixedPhones\obj\Debug\3.MixedPhones.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\3.RecordUniqueNames\bin\Debug\3.RecordUniqueNames.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\3.RecordUniqueNames\bin\Debug\3.RecordUniqueNames.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\3.RecordUniqueNames\bin\Debug\3.RecordUniqueNames.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\3.RecordUniqueNames\obj\Debug\3.RecordUniqueNames.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\3.RecordUniqueNames\obj\Debug\3.RecordUniqueNames.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\3.RecordUniqueNames\obj\Debug\3.RecordUniqueNames.pdb

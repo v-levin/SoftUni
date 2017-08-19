@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\2.StringDecryption\bin\Debug\2.StringDecryption.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\2.StringDecryption\bin\Debug\2.StringDecryption.exe
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\2.StringDecryption\bin\Debug\2.StringDecryption.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\2.StringDecryption\obj\Debug\2.StringDecryption.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\2.StringDecryption\obj\Debug\2.StringDecryption.exe
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\2.StringDecryption\obj\Debug\2.StringDecryption.pdb

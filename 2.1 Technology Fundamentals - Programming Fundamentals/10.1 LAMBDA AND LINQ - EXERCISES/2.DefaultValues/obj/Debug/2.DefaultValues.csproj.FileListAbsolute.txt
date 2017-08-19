@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - Exercises\2.DefaultValues\bin\Debug\2.DefaultValues.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - Exercises\2.DefaultValues\bin\Debug\2.DefaultValues.exe
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - Exercises\2.DefaultValues\bin\Debug\2.DefaultValues.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - Exercises\2.DefaultValues\obj\Debug\2.DefaultValues.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - Exercises\2.DefaultValues\obj\Debug\2.DefaultValues.exe
+c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - Exercises\2.DefaultValues\obj\Debug\2.DefaultValues.pdb

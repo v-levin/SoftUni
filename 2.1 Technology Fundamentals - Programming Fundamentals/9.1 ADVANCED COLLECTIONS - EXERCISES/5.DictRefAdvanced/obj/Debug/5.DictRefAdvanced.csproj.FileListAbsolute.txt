@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\5.DictRefAdvanced\bin\Debug\5.DictRefAdvanced.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\5.DictRefAdvanced\bin\Debug\5.DictRefAdvanced.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\5.DictRefAdvanced\bin\Debug\5.DictRefAdvanced.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\5.DictRefAdvanced\obj\Debug\5.DictRefAdvanced.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\5.DictRefAdvanced\obj\Debug\5.DictRefAdvanced.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\5.DictRefAdvanced\obj\Debug\5.DictRefAdvanced.pdb

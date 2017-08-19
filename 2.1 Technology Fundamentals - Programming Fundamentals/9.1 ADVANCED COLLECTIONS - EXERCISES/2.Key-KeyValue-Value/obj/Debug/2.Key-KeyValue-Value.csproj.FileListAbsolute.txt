@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\2.Key-KeyValue-Value\bin\Debug\2.Key-KeyValue-Value.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\2.Key-KeyValue-Value\bin\Debug\2.Key-KeyValue-Value.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\2.Key-KeyValue-Value\bin\Debug\2.Key-KeyValue-Value.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\2.Key-KeyValue-Value\obj\Debug\2.Key-KeyValue-Value.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\2.Key-KeyValue-Value\obj\Debug\2.Key-KeyValue-Value.exe
+C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\2.Key-KeyValue-Value\obj\Debug\2.Key-KeyValue-Value.pdb
