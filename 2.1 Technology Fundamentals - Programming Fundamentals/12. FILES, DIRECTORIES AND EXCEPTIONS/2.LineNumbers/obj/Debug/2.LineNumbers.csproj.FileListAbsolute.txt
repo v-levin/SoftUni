@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\2.LineNumbers\bin\Debug\2.LineNumbers.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\2.LineNumbers\bin\Debug\2.LineNumbers.exe
+C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\2.LineNumbers\bin\Debug\2.LineNumbers.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\2.LineNumbers\obj\Debug\2.LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\2.LineNumbers\obj\Debug\2.LineNumbers.exe
+C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\2.LineNumbers\obj\Debug\2.LineNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\5.FolderSize\bin\Debug\5.FolderSize.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\5.FolderSize\bin\Debug\5.FolderSize.exe
+C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\5.FolderSize\bin\Debug\5.FolderSize.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\5.FolderSize\obj\Debug\5.FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\5.FolderSize\obj\Debug\5.FolderSize.exe
+C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\5.FolderSize\obj\Debug\5.FolderSize.pdb
