@@ -86,8 +86,6 @@ namespace _5.Products
 
                 inputLine = Console.ReadLine();
             }
-
-            // Write products_db file
         }
 
         private static void Sales(List<Product> products, Dictionary<string, decimal> sales)
