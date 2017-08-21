@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\4.Re-Directory\bin\Debug\4.Re-Directory.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\4.Re-Directory\bin\Debug\4.Re-Directory.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\4.Re-Directory\bin\Debug\4.Re-Directory.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\4.Re-Directory\obj\Debug\4.Re-Directory.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\4.Re-Directory\obj\Debug\4.Re-Directory.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\4.Re-Directory\obj\Debug\4.Re-Directory.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\4.Re-Directory\obj\Debug\4.Re-Directory.pdb

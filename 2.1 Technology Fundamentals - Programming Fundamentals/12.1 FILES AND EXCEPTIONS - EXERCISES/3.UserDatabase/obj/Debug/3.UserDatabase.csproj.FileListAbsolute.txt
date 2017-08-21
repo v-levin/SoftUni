@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\3.UserDatabase\bin\Debug\3.UserDatabase.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\3.UserDatabase\bin\Debug\3.UserDatabase.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\3.UserDatabase\bin\Debug\3.UserDatabase.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\3.UserDatabase\obj\Debug\3.UserDatabase.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\3.UserDatabase\obj\Debug\3.UserDatabase.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\3.UserDatabase\obj\Debug\3.UserDatabase.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\3.UserDatabase\obj\Debug\3.UserDatabase.pdb

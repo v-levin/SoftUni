@@ -1,0 +1,46 @@
+Domestics, Product: Mopper
+Price: $10.05, Amount Left: 10000
+Domestics, Product: ToiletPaper
+Price: $5.50, Amount Left: 100000
+Electronics, Product: SamsungSmartTV
+Price: $4000.50, Amount Left: 10
+Electronics, Product: IPhone7
+Price: $1000, Amount Left: 100
+Electronics, Product: Microwave
+Price: $149.99, Amount Left: 2500
+Electronics, Product: Toster
+Price: $20.00, Amount Left: 15730
+Food, Product: Banana
+Price: $1.50, Amount Left: 10000
+Food, Product: Apple
+Price: $1, Amount Left: 100000
+Electronics: $829580.00
+Domestics: $650500.00
+Food: $115000.00
+Electronics: $2489069.00
+Food: $2190000.00
+Domestics: $650500.00
+Domestics, Product: Mopper
+Price: $10.05, Amount Left: 10000
+Domestics, Product: ToiletPaper
+Price: $5.50, Amount Left: 100000
+Electronics, Product: SamsungSmartTV
+Price: $4000.50, Amount Left: 10
+Electronics, Product: IPhone7
+Price: $1000, Amount Left: 100
+Electronics, Product: Microwave
+Price: $149.99, Amount Left: 2500
+Electronics, Product: Toster
+Price: $20.00, Amount Left: 15730
+Electronics, Product: Banana
+Price: $1000, Amount Left: 50
+Electronics, Product: ToshibaLaptop
+Price: $1500, Amount Left: 10
+Electronics, Product: LenovoLaptop
+Price: $1999.99, Amount Left: 100
+Electronics, Product: AcerLaptop
+Price: $1394.49, Amount Left: 1000
+Food, Product: Banana
+Price: $2.09, Amount Left: 1000000
+Food, Product: Apple
+Price: $1, Amount Left: 100000

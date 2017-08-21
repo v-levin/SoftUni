@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\2 HTMLContents\bin\Debug\2 HTMLContents.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\2 HTMLContents\bin\Debug\2 HTMLContents.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\2 HTMLContents\bin\Debug\2 HTMLContents.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\2 HTMLContents\obj\Debug\2 HTMLContents.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\2 HTMLContents\obj\Debug\2 HTMLContents.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\2 HTMLContents\obj\Debug\2 HTMLContents.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\2 HTMLContents\obj\Debug\2 HTMLContents.pdb
