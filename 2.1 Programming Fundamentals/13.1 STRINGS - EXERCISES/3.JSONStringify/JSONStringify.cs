@@ -34,25 +34,7 @@ namespace _3.JSONStringify
                 inputLine = Console.ReadLine();
             }
 
-            var output = new StringBuilder();
-
-            output.Append("[");
-
-            for (int i = 0; i < students.Count; i++)
-            {
-                var currentStudent = students[i];
-
-                output.Append($"{{name:\"{currentStudent.Name}\",age:{currentStudent.Age},grades:[{string.Join(", ", currentStudent.Grades)}]}}");
-
-                if (i < students.Count - 1)
-                {
-                    output.Append(",");
-                }
-            }
-
-            output.Append("]");
-
-            Console.WriteLine(output.ToString());
+            Console.WriteLine("[" + string.Join(",", students.Select(x => $"{{name:\"{x.Name}\",age:{x.Age},grades:[{string.Join(", ", x.Grades)}]}}")) + "]");
         }
 
         private static void AddStudent(string name, int age, List<int> grades)

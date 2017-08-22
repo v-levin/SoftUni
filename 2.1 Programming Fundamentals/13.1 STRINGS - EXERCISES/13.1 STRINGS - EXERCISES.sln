@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Placeholders", "2.Placeho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.JSONStringify", "3.JSONStringify\3.JSONStringify.csproj", "{AD296AFC-5D2D-4FDF-B19A-4B2D96C81265}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.JSONParse", "4.JSONParse\4.JSONParse.csproj", "{00F2C0D7-0409-4942-B08A-3DEE1EB791EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AD296AFC-5D2D-4FDF-B19A-4B2D96C81265}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD296AFC-5D2D-4FDF-B19A-4B2D96C81265}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD296AFC-5D2D-4FDF-B19A-4B2D96C81265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F2C0D7-0409-4942-B08A-3DEE1EB791EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F2C0D7-0409-4942-B08A-3DEE1EB791EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F2C0D7-0409-4942-B08A-3DEE1EB791EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F2C0D7-0409-4942-B08A-3DEE1EB791EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
