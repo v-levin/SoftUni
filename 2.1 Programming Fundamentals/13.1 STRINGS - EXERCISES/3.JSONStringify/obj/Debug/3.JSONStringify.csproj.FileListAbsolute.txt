@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\3.JSONStringify\bin\Debug\3.JSONStringify.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\3.JSONStringify\bin\Debug\3.JSONStringify.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\3.JSONStringify\bin\Debug\3.JSONStringify.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\3.JSONStringify\obj\Debug\3.JSONStringify.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\3.JSONStringify\obj\Debug\3.JSONStringify.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\3.JSONStringify\obj\Debug\3.JSONStringify.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\3.JSONStringify\obj\Debug\3.JSONStringify.pdb
