@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13. STRINGS AND TEXT PROCESSING\4.Palindromes\obj\Debug\4.Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13. STRINGS AND TEXT PROCESSING\4.Palindromes\obj\Debug\4.Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13. STRINGS AND TEXT PROCESSING\4.Palindromes\bin\Debug\4.Palindromes.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13. STRINGS AND TEXT PROCESSING\4.Palindromes\bin\Debug\4.Palindromes.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13. STRINGS AND TEXT PROCESSING\4.Palindromes\bin\Debug\4.Palindromes.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13. STRINGS AND TEXT PROCESSING\4.Palindromes\obj\Debug\4.Palindromes.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13. STRINGS AND TEXT PROCESSING\4.Palindromes\obj\Debug\4.Palindromes.pdb
