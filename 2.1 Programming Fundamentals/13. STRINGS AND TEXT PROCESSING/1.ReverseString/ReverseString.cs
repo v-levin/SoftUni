@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace _1.ReverseString
 {
@@ -13,11 +14,14 @@ namespace _1.ReverseString
 
         private static string ReverseString(string inputString)
         {
-            var charArray = inputString.ToCharArray();
+            var sb = new StringBuilder();
 
-            Array.Reverse(charArray);
+            for (int i = inputString.Length - 1; i >= 0; i--)
+            {
+                sb.Append(inputString[i]);
+            }
 
-            return new string(charArray);
+            return sb.ToString();
         }
     }
 }
