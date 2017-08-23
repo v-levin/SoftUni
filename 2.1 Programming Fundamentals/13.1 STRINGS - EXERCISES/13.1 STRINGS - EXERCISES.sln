@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.JSONParse", "4.JSONParse\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.PointsCounter", "5.PointsCounter\5.PointsCounter.csproj", "{A7C51A5C-FCF7-4064-876E-82B789BC0518}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.SentenceSplit", "6.SentenceSplit\6.SentenceSplit.csproj", "{4C2C663B-438D-40BB-80CB-3B24636A653F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A7C51A5C-FCF7-4064-876E-82B789BC0518}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7C51A5C-FCF7-4064-876E-82B789BC0518}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7C51A5C-FCF7-4064-876E-82B789BC0518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2C663B-438D-40BB-80CB-3B24636A653F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2C663B-438D-40BB-80CB-3B24636A653F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2C663B-438D-40BB-80CB-3B24636A653F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2C663B-438D-40BB-80CB-3B24636A653F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
