@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\5.PointsCounter\bin\Debug\5.PointsCounter.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\5.PointsCounter\bin\Debug\5.PointsCounter.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\5.PointsCounter\bin\Debug\5.PointsCounter.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\5.PointsCounter\obj\Debug\5.PointsCounter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\5.PointsCounter\obj\Debug\5.PointsCounter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\5.PointsCounter\obj\Debug\5.PointsCounter.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\5.PointsCounter\obj\Debug\5.PointsCounter.pdb
