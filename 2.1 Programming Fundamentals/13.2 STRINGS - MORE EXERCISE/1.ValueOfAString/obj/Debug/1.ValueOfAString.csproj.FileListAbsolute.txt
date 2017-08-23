@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\1.ValueOfAString\bin\Debug\1.ValueOfAString.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\1.ValueOfAString\bin\Debug\1.ValueOfAString.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\1.ValueOfAString\bin\Debug\1.ValueOfAString.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\1.ValueOfAString\obj\Debug\1.ValueOfAString.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\1.ValueOfAString\obj\Debug\1.ValueOfAString.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\1.ValueOfAString\obj\Debug\1.ValueOfAString.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\1.ValueOfAString\obj\Debug\1.ValueOfAString.pdb
