@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\7.CapitalizeWords\bin\Debug\7.CapitalizeWords.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\7.CapitalizeWords\bin\Debug\7.CapitalizeWords.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\7.CapitalizeWords\bin\Debug\7.CapitalizeWords.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\7.CapitalizeWords\obj\Debug\7.CapitalizeWords.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\7.CapitalizeWords\obj\Debug\7.CapitalizeWords.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\7.CapitalizeWords\obj\Debug\7.CapitalizeWords.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\7.CapitalizeWords\obj\Debug\7.CapitalizeWords.pdb
