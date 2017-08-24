@@ -29,30 +29,35 @@ namespace _2.DiamondProblem
 
                 inputLine = inputLine.Replace(tempString, string.Empty);
             }
-            
 
             if (diamonds.Count > 0)
             {
                 foreach (var diamond in diamonds)
                 {
-                    var sum = 0;
+                    var carats = 0;
+                    carats = FindCarats(diamond, carats);
 
-                    foreach (var character in diamond)
-                    {
-                        var digit = 0;
-                        if (int.TryParse(character.ToString(), out digit))
-                        {
-                            sum += digit;
-                        }
-                    }
-
-                    Console.WriteLine($"Found {sum} carat diamond");
+                    Console.WriteLine($"Found {carats} carat diamond");
                 }
             }
             else
             {
                 Console.WriteLine("Better luck next time");
             }
+        }
+
+        private static int FindCarats(string diamond, int carats)
+        {
+            foreach (var character in diamond)
+            {
+                var digit = 0;
+                if (int.TryParse(character.ToString(), out digit))
+                {
+                    carats += digit;
+                }
+            }
+
+            return carats;
         }
     }
 }
