@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.DiamondProblem", "2.Diamo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.SerializeString", "3.SerializeString\3.SerializeString.csproj", "{1978DD36-ACB2-4E6A-8E99-9409F088EC70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.DeserializeString", "4.DeserializeString\4.DeserializeString.csproj", "{BDF490CF-804B-49D2-B714-056147AC0621}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1978DD36-ACB2-4E6A-8E99-9409F088EC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1978DD36-ACB2-4E6A-8E99-9409F088EC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1978DD36-ACB2-4E6A-8E99-9409F088EC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF490CF-804B-49D2-B714-056147AC0621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF490CF-804B-49D2-B714-056147AC0621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF490CF-804B-49D2-B714-056147AC0621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF490CF-804B-49D2-B714-056147AC0621}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
