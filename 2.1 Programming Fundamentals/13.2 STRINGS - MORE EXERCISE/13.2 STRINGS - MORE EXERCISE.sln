@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.DeserializeString", "4.De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.StringCommander", "5.StringCommander\5.StringCommander.csproj", "{D00FD44E-F028-452C-A543-76DA587B85B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Stateless", "6.Stateless\6.Stateless.csproj", "{19120C12-B7C4-425D-B78B-4971B624BB09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D00FD44E-F028-452C-A543-76DA587B85B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D00FD44E-F028-452C-A543-76DA587B85B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D00FD44E-F028-452C-A543-76DA587B85B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19120C12-B7C4-425D-B78B-4971B624BB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19120C12-B7C4-425D-B78B-4971B624BB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19120C12-B7C4-425D-B78B-4971B624BB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19120C12-B7C4-425D-B78B-4971B624BB09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

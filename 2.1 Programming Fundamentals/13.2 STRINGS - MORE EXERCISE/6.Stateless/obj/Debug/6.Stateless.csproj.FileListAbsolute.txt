@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\6.Stateless\bin\Debug\6.Stateless.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\6.Stateless\bin\Debug\6.Stateless.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\6.Stateless\bin\Debug\6.Stateless.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\6.Stateless\obj\Debug\6.Stateless.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\6.Stateless\obj\Debug\6.Stateless.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\6.Stateless\obj\Debug\6.Stateless.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\6.Stateless\obj\Debug\6.Stateless.pdb
