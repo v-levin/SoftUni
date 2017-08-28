@@ -21,7 +21,7 @@ namespace _6.Stateless
                         state = state.Remove(index, fiction.Length).Trim();
                     }
 
-                    fiction = RemoveFirstAndLastElement(fiction);
+                    fiction = NewMethod(fiction);
                 }
 
                 if (state.Length > 0)
@@ -37,7 +37,7 @@ namespace _6.Stateless
             }
         }
 
-        private static string RemoveFirstAndLastElement(string fiction)
+        private static string NewMethod(string fiction)
         {
             fiction = fiction.Remove(0, 1);
 

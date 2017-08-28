@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\7.Pyramidic\bin\Debug\7.Pyramidic.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\7.Pyramidic\bin\Debug\7.Pyramidic.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\7.Pyramidic\bin\Debug\7.Pyramidic.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\7.Pyramidic\obj\Debug\7.Pyramidic.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\7.Pyramidic\obj\Debug\7.Pyramidic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\7.Pyramidic\obj\Debug\7.Pyramidic.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\7.Pyramidic\obj\Debug\7.Pyramidic.pdb
