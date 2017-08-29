@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\8.Nilapdromes\bin\Debug\8.Nilapdromes.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\8.Nilapdromes\bin\Debug\8.Nilapdromes.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\8.Nilapdromes\bin\Debug\8.Nilapdromes.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\8.Nilapdromes\obj\Debug\8.Nilapdromes.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\8.Nilapdromes\obj\Debug\8.Nilapdromes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\8.Nilapdromes\obj\Debug\8.Nilapdromes.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\8.Nilapdromes\obj\Debug\8.Nilapdromes.pdb
