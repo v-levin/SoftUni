@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\5.MatchNumbers\bin\Debug\5.MatchNumbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\5.MatchNumbers\bin\Debug\5.MatchNumbers.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\5.MatchNumbers\bin\Debug\5.MatchNumbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\5.MatchNumbers\obj\Debug\5.MatchNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\5.MatchNumbers\obj\Debug\5.MatchNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\5.MatchNumbers\obj\Debug\5.MatchNumbers.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\5.MatchNumbers\obj\Debug\5.MatchNumbers.pdb
