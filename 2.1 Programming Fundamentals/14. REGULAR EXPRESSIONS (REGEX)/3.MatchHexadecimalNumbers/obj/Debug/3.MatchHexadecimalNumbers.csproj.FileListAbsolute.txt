@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\3.MatchHexadecimalNumbers\bin\Debug\3.MatchHexadecimalNumbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\3.MatchHexadecimalNumbers\bin\Debug\3.MatchHexadecimalNumbers.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\3.MatchHexadecimalNumbers\bin\Debug\3.MatchHexadecimalNumbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\3.MatchHexadecimalNumbers\obj\Debug\3.MatchHexadecimalNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\3.MatchHexadecimalNumbers\obj\Debug\3.MatchHexadecimalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\3.MatchHexadecimalNumbers\obj\Debug\3.MatchHexadecimalNumbers.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\3.MatchHexadecimalNumbers\obj\Debug\3.MatchHexadecimalNumbers.pdb

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.MatchFullName", "1.MatchF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.MatchPhoneNumber", "2.MatchPhoneNumber\2.MatchPhoneNumber.csproj", "{EBF904A5-F7C0-427F-8637-32096A8FFE5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.MatchHexadecimalNumbers", "3.MatchHexadecimalNumbers\3.MatchHexadecimalNumbers.csproj", "{2CF804EA-A8E3-4AA0-BAE4-581F5F9EEDF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EBF904A5-F7C0-427F-8637-32096A8FFE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBF904A5-F7C0-427F-8637-32096A8FFE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBF904A5-F7C0-427F-8637-32096A8FFE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF804EA-A8E3-4AA0-BAE4-581F5F9EEDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF804EA-A8E3-4AA0-BAE4-581F5F9EEDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF804EA-A8E3-4AA0-BAE4-581F5F9EEDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF804EA-A8E3-4AA0-BAE4-581F5F9EEDF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
