@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.10
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Cards", "1.Cards\1.Cards.csproj", "{F71090A2-9ACD-4F69-9243-40AD8E2EA72D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.WordEncounter", "2.WordEncounter\2.WordEncounter.csproj", "{EB852025-9B19-438F-8E5A-79F070879952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.BoomingCannon", "3.BoomingCannon\3.BoomingCannon.csproj", "{68266057-8F5F-472C-A7CE-80631A20A3B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EB852025-9B19-438F-8E5A-79F070879952}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB852025-9B19-438F-8E5A-79F070879952}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB852025-9B19-438F-8E5A-79F070879952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68266057-8F5F-472C-A7CE-80631A20A3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68266057-8F5F-472C-A7CE-80631A20A3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68266057-8F5F-472C-A7CE-80631A20A3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68266057-8F5F-472C-A7CE-80631A20A3B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

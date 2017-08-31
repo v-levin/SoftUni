@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\3.BoomingCannon\bin\Debug\3.BoomingCannon.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\3.BoomingCannon\bin\Debug\3.BoomingCannon.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\3.BoomingCannon\bin\Debug\3.BoomingCannon.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\3.BoomingCannon\obj\Debug\3.BoomingCannon.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\3.BoomingCannon\obj\Debug\3.BoomingCannon.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\3.BoomingCannon\obj\Debug\3.BoomingCannon.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\3.BoomingCannon\obj\Debug\3.BoomingCannon.pdb
