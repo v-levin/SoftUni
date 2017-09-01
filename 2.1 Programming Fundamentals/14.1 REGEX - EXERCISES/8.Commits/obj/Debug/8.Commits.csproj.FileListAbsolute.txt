@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\8.Commits\bin\Debug\8.Commits.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\8.Commits\bin\Debug\8.Commits.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\8.Commits\bin\Debug\8.Commits.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\8.Commits\obj\Debug\8.Commits.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\8.Commits\obj\Debug\8.Commits.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\8.Commits\obj\Debug\8.Commits.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\8.Commits\obj\Debug\8.Commits.pdb
