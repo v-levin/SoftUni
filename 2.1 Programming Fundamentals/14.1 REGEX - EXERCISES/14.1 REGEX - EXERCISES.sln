@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.SoftUniMessages", "5.Soft
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.FishStatistics", "6.FishStatistics\6.FishStatistics.csproj", "{8593CBF9-E764-4B8D-B68E-43074B1E1ED4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.HappinessIndex", "7.HappinessIndex\7.HappinessIndex.csproj", "{179CEADE-2833-4CA0-AFE0-54CBFEF42A6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8593CBF9-E764-4B8D-B68E-43074B1E1ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8593CBF9-E764-4B8D-B68E-43074B1E1ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8593CBF9-E764-4B8D-B68E-43074B1E1ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179CEADE-2833-4CA0-AFE0-54CBFEF42A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179CEADE-2833-4CA0-AFE0-54CBFEF42A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179CEADE-2833-4CA0-AFE0-54CBFEF42A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179CEADE-2833-4CA0-AFE0-54CBFEF42A6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
