@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\6.FishStatistics\bin\Debug\6.FishStatistics.exe.config
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\6.FishStatistics\bin\Debug\6.FishStatistics.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\6.FishStatistics\bin\Debug\6.FishStatistics.pdb
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\6.FishStatistics\obj\Debug\6.FishStatistics.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\6.FishStatistics\obj\Debug\6.FishStatistics.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\6.FishStatistics\obj\Debug\6.FishStatistics.exe
+C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\6.FishStatistics\obj\Debug\6.FishStatistics.pdb
