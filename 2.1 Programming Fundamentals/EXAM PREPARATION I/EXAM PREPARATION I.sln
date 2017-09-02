@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SinoTheWalker", "1.SinoTheWalker\1.SinoTheWalker.csproj", "{70ED349A-7DBE-40D1-B798-1F6F80EBA526}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.SoftUniKaraoke", "2.SoftUniKaraoke\2.SoftUniKaraoke.csproj", "{EDAC47EE-3F74-4BFE-BFB3-101C83433B45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{70ED349A-7DBE-40D1-B798-1F6F80EBA526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70ED349A-7DBE-40D1-B798-1F6F80EBA526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70ED349A-7DBE-40D1-B798-1F6F80EBA526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAC47EE-3F74-4BFE-BFB3-101C83433B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAC47EE-3F74-4BFE-BFB3-101C83433B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAC47EE-3F74-4BFE-BFB3-101C83433B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAC47EE-3F74-4BFE-BFB3-101C83433B45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
