@@ -1,17 +1,6 @@
-﻿using System;
-using System.Globalization;
-
-namespace _1.DayOfWeek
-{
-    public class DayOfWeek
-    {
-        public static void Main()
-        {
-            var dateAsText = Console.ReadLine();
-
-            var date = DateTime.ParseExact(dateAsText, "d-M-yyyy", CultureInfo.InvariantCulture);
-
-            Console.WriteLine(date.DayOfWeek);
-        }
-    }
-}
+﻿4
+Windows\Temp\win.exe;5423
+Games\Wow\wow.exe;1024
+Games\Wow\patcher.cs;65212
+Games\Pirates\Start\wow.exe;2222
+exe in Games
