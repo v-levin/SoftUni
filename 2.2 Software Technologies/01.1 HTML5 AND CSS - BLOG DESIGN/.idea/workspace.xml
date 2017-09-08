@@ -32,13 +32,13 @@
       <file leaf-file-name="indexlogged.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/indexlogged.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="872">
-              <caret line="102" column="7" lean-forward="false" selection-start-line="102" selection-start-column="7" selection-end-line="102" selection-end-column="7" />
+            <state relative-caret-position="612">
+              <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
               <folding>
                 <element signature="n#p#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#2835#2842#0" expanded="true" />
-                <element signature="e#4614#4621#0" expanded="true" />
-                <element signature="e#4829#4835#0" expanded="true" />
+                <element signature="e#2896#2903#0" expanded="true" />
+                <element signature="e#4675#4682#0" expanded="true" />
+                <element signature="e#4890#4896#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -145,12 +145,12 @@
       <updated>1504818529968</updated>
       <workItem from="1504818531149" duration="272000" />
       <workItem from="1504818883984" duration="31000" />
-      <workItem from="1504866308043" duration="5508000" />
+      <workItem from="1504866308043" duration="5646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5811000" />
+    <option name="totallyTimeSpent" value="5949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -200,13 +200,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/indexlogged.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="872">
-          <caret line="102" column="7" lean-forward="false" selection-start-line="102" selection-start-column="7" selection-end-line="102" selection-end-column="7" />
+        <state relative-caret-position="612">
+          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
           <folding>
             <element signature="n#p#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#2835#2842#0" expanded="true" />
-            <element signature="e#4614#4621#0" expanded="true" />
-            <element signature="e#4829#4835#0" expanded="true" />
+            <element signature="e#2896#2903#0" expanded="true" />
+            <element signature="e#4675#4682#0" expanded="true" />
+            <element signature="e#4890#4896#0" expanded="true" />
           </folding>
         </state>
       </provider>
