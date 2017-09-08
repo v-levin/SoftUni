@@ -29,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="indexlogged.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="indexlogged.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/indexlogged.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
@@ -39,6 +39,20 @@
                 <element signature="e#2896#2903#0" expanded="true" />
                 <element signature="e#4675#4682#0" expanded="true" />
                 <element signature="e#4890#4896#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="viewpost.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/viewpost.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="59" column="75" lean-forward="false" selection-start-line="59" selection-start-column="75" selection-end-line="59" selection-end-column="75" />
+              <folding>
+                <element signature="n#p#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#2831#2838#0" expanded="true" />
+                <element signature="e#3046#3052#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,6 +72,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/indexlogged.html" />
+        <option value="$PROJECT_DIR$/viewpost.html" />
       </list>
     </option>
   </component>
@@ -113,6 +128,11 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.2 Software Technologies\01.1 HTML5 AND CSS - BLOG DESIGN" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -145,12 +165,12 @@
       <updated>1504818529968</updated>
       <workItem from="1504818531149" duration="272000" />
       <workItem from="1504818883984" duration="31000" />
-      <workItem from="1504866308043" duration="5646000" />
+      <workItem from="1504866308043" duration="5880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5949000" />
+    <option name="totallyTimeSpent" value="6183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -185,6 +205,19 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/indexlogged.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+          <folding>
+            <element signature="n#p#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#2896#2903#0" expanded="true" />
+            <element signature="e#4675#4682#0" expanded="true" />
+            <element signature="e#4890#4896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -198,15 +231,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/indexlogged.html">
+    <entry file="file://$PROJECT_DIR$/viewpost.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state relative-caret-position="549">
+          <caret line="59" column="75" lean-forward="false" selection-start-line="59" selection-start-column="75" selection-end-line="59" selection-end-column="75" />
           <folding>
             <element signature="n#p#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#2896#2903#0" expanded="true" />
-            <element signature="e#4675#4682#0" expanded="true" />
-            <element signature="e#4890#4896#0" expanded="true" />
+            <element signature="e#2831#2838#0" expanded="true" />
+            <element signature="e#3046#3052#0" expanded="true" />
           </folding>
         </state>
       </provider>
