@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b140bf71-9f4c-4d72-bac5-ef1395c9c250" name="Default" comment="" />
-    <ignored path="5.Dump an HTTP GET Request.iws" />
+    <list default="true" id="736fb4ca-5be5-414e-943f-a5f3a670b01a" name="Default" comment="" />
+    <ignored path="6.Sum Two Numbers.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,15 +18,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="5.Dump an HTTP GET Request" />
+    <favorites_list name="6.Sum Two Numbers" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="5.DumpAnHTTP_GET_Request.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5.DumpAnHTTP_GET_Request.php">
+      <file leaf-file-name="SumTwoNumbers.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SumTwoNumbers.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3090909">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.38636363">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/5.DumpAnHTTP_GET_Request.php" />
+        <option value="$PROJECT_DIR$/SumTwoNumbers.php" />
       </list>
     </option>
   </component>
@@ -45,9 +45,6 @@
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-  </component>
-  <component name="PhpServers">
-    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1.8" />
   <component name="ProjectFrameBounds">
@@ -81,28 +78,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="5.Dump an HTTP GET Request" />
+              <option name="myItemId" value="6.Sum Two Numbers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="5.Dump an HTTP GET Request" />
+              <option name="myItemId" value="6.Sum Two Numbers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="5.Dump an HTTP GET Request" />
+              <option name="myItemId" value="6.Sum Two Numbers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,10 +135,10 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b140bf71-9f4c-4d72-bac5-ef1395c9c250" name="Default" comment="" />
-      <created>1505065382539</created>
+      <changelist id="736fb4ca-5be5-414e-943f-a5f3a670b01a" name="Default" comment="" />
+      <created>1505067066578</created>
       <option name="number" value="Default" />
-      <updated>1505065382539</updated>
+      <updated>1505067066578</updated>
     </task>
     <servers />
   </component>
@@ -177,28 +174,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5.DumpAnHTTP_GET_Request.php">
+    <entry file="file://$PROJECT_DIR$/SumTwoNumbers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3090909">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.38636363">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
