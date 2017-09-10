@@ -1,14 +1,17 @@
 <?php
 
-$msgAfterCelsius = null;
-$msgAfterFahrenheit = null;
-
+$msgAfterCelsius = "";
 if (isset($_GET["cel"])) {
     $celsius = htmlspecialchars($_GET["cel"]);
-    $msgAfterCelsius = "$celsius &deg;C = " . celsiusToFahrenheit($celsius) . "&deg;F";
-} else if (isset($_GET["fah"])) {
+    $fahrenheit = celsiusToFahrenheit($celsius);
+    $msgAfterCelsius = "$celsius &deg;C = $fahrenheit &deg;F";
+}
+
+$msgAfterFahrenheit = "";
+if (isset($_GET["fah"])) {
     $fahrenheit = htmlspecialchars($_GET["fah"]);
-    $msgAfterFahrenheit = "$fahrenheit &deg;F = " . fahrenheitToCelsius($fahrenheit) . "&deg;C";
+    $celsius = fahrenheitToCelsius($fahrenheit);
+    $msgAfterFahrenheit = "$fahrenheit &deg;F = $celsius &deg;C";
 }
 
 function celsiusToFahrenheit(float $celsius) : float {
