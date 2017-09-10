@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="736fb4ca-5be5-414e-943f-a5f3a670b01a" name="Default" comment="" />
-    <ignored path="6.Sum Two Numbers.iws" />
+    <list default="true" id="774a7443-672e-4dc3-b495-2e959d5a1799" name="Default" comment="" />
+    <ignored path="7.From Celsius to Fahrenheit and Vice Versa.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,16 +18,19 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="6.Sum Two Numbers" />
+    <favorites_list name="7.From Celsius to Fahrenheit and Vice Versa" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SumTwoNumbers.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SumTwoNumbers.php">
+      <file leaf-file-name="7.FromCelsiusToFahrenheitAndViceVersa.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7.FromCelsiusToFahrenheitAndViceVersa.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3284091">
-              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-              <folding />
+            <state vertical-scroll-proportion="0.59886366">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <marker date="1505071808344" expanded="true" signature="602:628" placeholder="..." />
+                <marker date="1505071808344" expanded="true" signature="733:762" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,7 +40,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SumTwoNumbers.php" />
+        <option value="$PROJECT_DIR$/7.FromCelsiusToFahrenheitAndViceVersa.php" />
       </list>
     </option>
   </component>
@@ -78,28 +81,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="6.Sum Two Numbers" />
+              <option name="myItemId" value="7.From Celsius to Fahrenheit and Vice Versa" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="6.Sum Two Numbers" />
+              <option name="myItemId" value="7.From Celsius to Fahrenheit and Vice Versa" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="6.Sum Two Numbers" />
+              <option name="myItemId" value="7.From Celsius to Fahrenheit and Vice Versa" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,10 +138,10 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="736fb4ca-5be5-414e-943f-a5f3a670b01a" name="Default" comment="" />
-      <created>1505067066578</created>
+      <changelist id="774a7443-672e-4dc3-b495-2e959d5a1799" name="Default" comment="" />
+      <created>1505070803986</created>
       <option name="number" value="Default" />
-      <updated>1505067066578</updated>
+      <updated>1505070803986</updated>
     </task>
     <servers />
   </component>
@@ -174,11 +177,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SumTwoNumbers.php">
+    <entry file="file://$PROJECT_DIR$/7.FromCelsiusToFahrenheitAndViceVersa.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3284091">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding />
+        <state vertical-scroll-proportion="0.59886366">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1505071808344" expanded="true" signature="602:628" placeholder="..." />
+            <marker date="1505071808344" expanded="true" signature="733:762" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
