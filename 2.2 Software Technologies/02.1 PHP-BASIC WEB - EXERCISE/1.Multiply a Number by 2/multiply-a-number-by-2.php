@@ -10,12 +10,14 @@
     N: <input type="text" name="num" />
     <input type="submit" />
 </form>
-</body>
-</html>
-
 <?php
 
 if (isset($_GET["num"])) {
     $num = intval($_GET["num"]);
     echo  $num * 2;
 }
+
+?>
+</body>
+</html>
+
