@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d61a1bcf-8fc6-482d-bb21-d755fe3f72de" name="Default" comment="" />
-    <ignored path="17.RGB Table.iws" />
+    <list default="true" id="a7277a70-8349-4fa0-826d-1dbf9e78bd2b" name="Default" comment="" />
+    <ignored path="18.50 Shades of Grey.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,19 +18,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="17.RGB Table" />
+    <favorites_list name="18.50 Shades of Grey" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RGB-table.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RGB-table.php">
+      <file leaf-file-name="50-shadesof-grey.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/50-shadesof-grey.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77272725">
-              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.5215909">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
-                <marker date="1505216977419" expanded="true" signature="544:589" placeholder="..." />
-                <marker date="1505216977419" expanded="true" signature="624:669" placeholder="..." />
-                <marker date="1505216977419" expanded="true" signature="704:749" placeholder="..." />
+                <marker date="1505220110311" expanded="true" signature="427:465" placeholder="..." />
+                <marker date="1505220110311" expanded="true" signature="427:472" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -41,7 +40,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RGB-table.php" />
+        <option value="$PROJECT_DIR$/50-shadesof-grey.php" />
       </list>
     </option>
   </component>
@@ -82,27 +81,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="17.RGB Table" />
+              <option name="myItemId" value="18.50 Shades of Grey" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="17.RGB Table" />
+              <option name="myItemId" value="18.50 Shades of Grey" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="17.RGB Table" />
+              <option name="myItemId" value="18.50 Shades of Grey" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -139,10 +138,10 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d61a1bcf-8fc6-482d-bb21-d755fe3f72de" name="Default" comment="" />
-      <created>1505216465958</created>
+      <changelist id="a7277a70-8349-4fa0-826d-1dbf9e78bd2b" name="Default" comment="" />
+      <created>1505218519371</created>
       <option name="number" value="Default" />
-      <updated>1505216465958</updated>
+      <updated>1505218519371</updated>
     </task>
     <servers />
   </component>
@@ -178,14 +177,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RGB-table.php">
+    <entry file="file://$PROJECT_DIR$/50-shadesof-grey.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77272725">
-          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.5215909">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <marker date="1505216977419" expanded="true" signature="544:589" placeholder="..." />
-            <marker date="1505216977419" expanded="true" signature="624:669" placeholder="..." />
-            <marker date="1505216977419" expanded="true" signature="704:749" placeholder="..." />
+            <marker date="1505220110311" expanded="true" signature="427:465" placeholder="..." />
+            <marker date="1505220110311" expanded="true" signature="427:472" placeholder="..." />
           </folding>
         </state>
       </provider>
