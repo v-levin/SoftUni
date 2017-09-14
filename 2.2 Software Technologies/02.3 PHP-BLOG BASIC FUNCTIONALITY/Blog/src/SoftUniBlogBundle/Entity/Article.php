@@ -154,8 +154,8 @@ class Article
      */
     public function setSummary()
     {
-        if (strlen($this->getContent()) > 100) {
-            $this->summary = substr($this->getContent(), 0, strlen($this->getContent()) / 2) . "...";
+        if (strlen($this->getContent()) > 400) {
+            $this->summary = substr($this->getContent(), 0, 400) . "...";
         }
         else {
             $this->summary = $this->getContent();
