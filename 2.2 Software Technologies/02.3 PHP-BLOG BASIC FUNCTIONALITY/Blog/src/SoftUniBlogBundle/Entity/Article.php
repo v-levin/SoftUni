@@ -47,6 +47,19 @@ class Article
      */
     private $summary;
 
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="authorId", type="integer")
+     */
+    private $authorId;
+
+    /**
+     * @var User
+     * @ORM\ManyToOne(targetEntity="SoftUniBlogBundle\Entity\User", inversedBy="articles")
+     * @ORM\JoinColumn(name="authorId", referencedColumnName="id")
+     */
+    private $author;
 
     /**
      * Get id
@@ -154,6 +167,46 @@ class Article
         }
 
         return $this->summary;
+    }
+
+    /**
+     * @return int
+     */
+    public function getAuthorId(): int
+    {
+        return $this->authorId;
+    }
+
+    /**
+     * @param int $authorId
+     *
+     * @return Article
+     */
+    public function setAuthorId(int $authorId)
+    {
+        $this->authorId = $authorId;
+
+        return $this;
+    }
+
+    /**
+     * @return User
+     */
+    public function getAuthor(): User
+    {
+        return $this->author;
+    }
+
+    /**
+     * @param User $author
+     *
+     * @return Article
+     */
+    public function setAuthor(User $author = null)
+    {
+        $this->author = $author;
+
+        return $this;
     }
 
 

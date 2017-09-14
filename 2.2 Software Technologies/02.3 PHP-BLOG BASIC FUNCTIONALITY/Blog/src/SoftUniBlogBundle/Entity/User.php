@@ -2,6 +2,7 @@
 
 namespace SoftUniBlogBundle\Entity;
 
+use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Security\Core\User\UserInterface;
 
@@ -42,6 +43,13 @@ class User implements UserInterface
      * @ORM\Column(name="password", type="string", length=255)
      */
     private $password;
+
+    /**
+     * @var ArrayCollection
+     *
+     * @ORM\OneToMany(targetEntity="SoftUniBlogBundle\Entity\Article", mappedBy="author")
+     */
+    private $articles;
 
 
     /**
@@ -127,6 +135,27 @@ class User implements UserInterface
     }
 
     /**
+     * @return ArrayCollection
+     */
+    public function getArticles(): ArrayCollection
+    {
+        return $this->articles;
+    }
+
+    /**
+     * @param \SoftUniBlogBundle\Entity\Article $article
+     *
+     * @return User
+     */
+    public function addPost(Article $article)
+    {
+        $this->articles[] = $article;
+
+        return $this;
+    }
+
+
+    /**
      * Returns the roles granted to the user.
      *
      * <code>
@@ -142,6 +171,7 @@ class User implements UserInterface
      *
      * @return (Role|string)[] The user roles
      */
+
     public function getRoles()
     {
         return ['ROLE_USER'];
