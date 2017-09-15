@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Sum-Two-Numbers.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.Sum Two Numbers/Sum-Two-Numbers.js">
+      <file leaf-file-name="Three-Integers-Sum.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.Three Integers Sum/Three-Integers-Sum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="380">
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -41,6 +41,7 @@
         <option value="$PROJECT_DIR$/1.Sum Numbers with HTML and JS/Sum-Numbers-with-HTML-and-JS.html" />
         <option value="$PROJECT_DIR$/2.Calculate Expression/Calculate-Expression.js" />
         <option value="$PROJECT_DIR$/3.Sum Two Numbers/Sum-Two-Numbers.js" />
+        <option value="$PROJECT_DIR$/4.Three Integers Sum/Three-Integers-Sum.js" />
       </list>
     </option>
   </component>
@@ -114,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Sum-Two-Numbers.js">
+  <component name="RunManager" selected="Node.js.Three-Integers-Sum.js">
     <configuration name="Calculate-Expression.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Calculate-Expression.js" working-dir="$PROJECT_DIR$/2.Calculate Expression">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -161,14 +162,39 @@
         </option>
       </EXTENSION>
     </configuration>
-    <list size="2">
+    <configuration name="Three-Integers-Sum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Three-Integers-Sum.js" working-dir="$PROJECT_DIR$/4.Three Integers Sum">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Calculate-Expression.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.Sum-Two-Numbers.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Three-Integers-Sum.js" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Sum-Two-Numbers.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Calculate-Expression.js" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Three-Integers-Sum.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Sum-Two-Numbers.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Calculate-Expression.js" />
       </list>
     </recent_temporary>
   </component>
@@ -182,12 +208,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505474475267</updated>
-      <workItem from="1505474476534" duration="5345000" />
+      <workItem from="1505474476534" duration="8193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5345000" />
+    <option name="totallyTimeSpent" value="8193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -200,7 +226,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -218,7 +244,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -250,6 +278,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Three Integers Sum/Three-Integers-Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding />
         </state>
       </provider>
