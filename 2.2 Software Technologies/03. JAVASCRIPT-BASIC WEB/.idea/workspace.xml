@@ -24,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Largest-3-Numbers.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Largest-3-Numbers.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7.Largest 3 Numbers/Largest-3-Numbers.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
               <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Extract-Capital-Case-Words.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8.Extract Capital-Case Words/Extract-Capital-Case-Words.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -56,6 +66,7 @@
         <option value="$PROJECT_DIR$/../02.2 PHP-MVC &amp; SYMFONY OVERVIEW/Sums-by-Town.js" />
         <option value="$PROJECT_DIR$/6.Sums by Town/Sums-by-Town.js" />
         <option value="$PROJECT_DIR$/7.Largest 3 Numbers/Largest-3-Numbers.js" />
+        <option value="$PROJECT_DIR$/8.Extract Capital-Case Words/Extract-Capital-Case-Words.js" />
       </list>
     </option>
   </component>
@@ -152,8 +163,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Largest-3-Numbers.js">
+  <component name="RunManager" selected="Node.js.Extract-Capital-Case-Words.js">
     <configuration name="Calculate-Expression.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Calculate-Expression.js" working-dir="$PROJECT_DIR$/2.Calculate Expression">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
+    <configuration name="Extract-Capital-Case-Words.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="Extract-Capital-Case-Words.js" working-dir="$PROJECT_DIR$/8.Extract Capital-Case Words">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
           <list />
@@ -314,7 +348,7 @@
         </option>
       </EXTENSION>
     </configuration>
-    <list size="7">
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Symmetric-Numbers.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.Sums-by-Town.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.Sums-by-Town.js (1)" />
@@ -322,6 +356,7 @@
       <item index="4" class="java.lang.String" itemvalue="Node.js.Sum-Two-Numbers.js" />
       <item index="5" class="java.lang.String" itemvalue="Node.js.Three-Integers-Sum.js" />
       <item index="6" class="java.lang.String" itemvalue="Node.js.Largest-3-Numbers.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.Extract-Capital-Case-Words.js" />
     </list>
     <recent_temporary>
       <list size="3">
@@ -344,12 +379,12 @@
       <workItem from="1505474476534" duration="10752000" />
       <workItem from="1505572214969" duration="1929000" />
       <workItem from="1505575464537" duration="2278000" />
-      <workItem from="1505577779896" duration="1303000" />
+      <workItem from="1505577779896" duration="2406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16262000" />
+    <option name="totallyTimeSpent" value="17365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -466,6 +501,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Extract Capital-Case Words/Extract-Capital-Case-Words.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
           <folding />
         </state>
       </provider>
