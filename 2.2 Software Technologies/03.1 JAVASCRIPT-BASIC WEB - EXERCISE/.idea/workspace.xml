@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Print-Numbers-from-1-to-N.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Print-Numbers-from-1-to-N.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05.Print Numbers from 1 to N/Print-Numbers-from-1-to-N.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="20">
+              <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Print-Numbers-from-N-to-1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06.Print Numbers from N to 1/Print-Numbers-from-N-to-1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -41,6 +51,7 @@
         <option value="$PROJECT_DIR$/03.Multiply - Divide a Number by a Given Second Number/Multiply-Divide-a-Number-by-a-Given-Second-Number.js" />
         <option value="$PROJECT_DIR$/04.Product of 3 Numbers/Product-of-3-Numbers.js" />
         <option value="$PROJECT_DIR$/05.Print Numbers from 1 to N/Print-Numbers-from-1-to-N.js" />
+        <option value="$PROJECT_DIR$/06.Print Numbers from N to 1/Print-Numbers-from-N-to-1.js" />
       </list>
     </option>
   </component>
@@ -112,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Print-Numbers-from-1-to-N.js">
+  <component name="RunManager" selected="Node.js.Print-Numbers-from-N-to-1.js">
     <configuration name="Multiply-Divide-a-Number-by-a-Given-Second-Number.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="Multiply-Divide-a-Number-by-a-Given-Second-Number.js" working-dir="$PROJECT_DIR$/03.Multiply - Divide a Number by a Given Second Number">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -205,6 +216,29 @@
         </option>
       </EXTENSION>
     </configuration>
+    <configuration name="Print-Numbers-from-N-to-1.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="Print-Numbers-from-N-to-1.js" working-dir="$PROJECT_DIR$/06.Print Numbers from N to 1">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
     <configuration name="Product-of-3-Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="Product-of-3-Numbers.js" working-dir="$PROJECT_DIR$/04.Product of 3 Numbers">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -228,12 +262,13 @@
         </option>
       </EXTENSION>
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Multiply-a-Number-by-2.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.Multiply-Two-Numbers.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.Multiply-Divide-a-Number-by-a-Given-Second-Number.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.Product-of-3-Numbers.js" />
       <item index="4" class="java.lang.String" itemvalue="Node.js.Print-Numbers-from-1-to-N.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.Print-Numbers-from-N-to-1.js" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -246,12 +281,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505819451702</updated>
-      <workItem from="1505819453017" duration="3238000" />
+      <workItem from="1505819453017" duration="3460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3238000" />
+    <option name="totallyTimeSpent" value="3460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -260,7 +295,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -322,8 +357,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05.Print Numbers from 1 to N/Print-Numbers-from-1-to-N.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="20">
+          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Print Numbers from N to 1/Print-Numbers-from-N-to-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
