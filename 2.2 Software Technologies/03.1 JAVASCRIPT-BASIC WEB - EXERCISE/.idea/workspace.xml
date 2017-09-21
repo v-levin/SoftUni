@@ -14,31 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Add-Remove-Elements.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.Add - Remove Elements/Add-Remove-Elements.js">
+      <file leaf-file-name="Storing-Objects.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/13.Storing Objects/Storing-Objects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Working-with-Key-Value-Pairs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11.Working with Key-Value Pairs/Working-with-Key-Value-Pairs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Multiple-Values-for-a-Key.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12.Multiple Values for a Key/Multiple-Values-for-a-Key.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -68,6 +48,7 @@
         <option value="$PROJECT_DIR$/10.Add - Remove Elements/Add-Remove-Elements.js" />
         <option value="$PROJECT_DIR$/11.Working with Key-Value Pairs/Working-with-Key-Value-Pairs.js" />
         <option value="$PROJECT_DIR$/12.Multiple Values for a Key/Multiple-Values-for-a-Key.js" />
+        <option value="$PROJECT_DIR$/13.Storing Objects/Storing-Objects.js" />
       </list>
     </option>
   </component>
@@ -139,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Multiple-Values-for-a-Key.js">
+  <component name="RunManager" selected="Node.js.Storing-Objects.js">
     <configuration name="Add-Remove-Elements.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="Add-Remove-Elements.js" working-dir="$PROJECT_DIR$/10.Add - Remove Elements">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -393,6 +374,29 @@
         </option>
       </EXTENSION>
     </configuration>
+    <configuration name="Storing-Objects.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="Storing-Objects.js" working-dir="$PROJECT_DIR$/13.Storing Objects">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
     <configuration name="Working-with-Key-Value-Pairs.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="Working-with-Key-Value-Pairs.js" working-dir="$PROJECT_DIR$/11.Working with Key-Value Pairs">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -416,7 +420,7 @@
         </option>
       </EXTENSION>
     </configuration>
-    <list size="12">
+    <list size="13">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Multiply-a-Number-by-2.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.Multiply-Two-Numbers.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.Multiply-Divide-a-Number-by-a-Given-Second-Number.js" />
@@ -429,6 +433,7 @@
       <item index="9" class="java.lang.String" itemvalue="Node.js.Add-Remove-Elements.js" />
       <item index="10" class="java.lang.String" itemvalue="Node.js.Working-with-Key-Value-Pairs.js" />
       <item index="11" class="java.lang.String" itemvalue="Node.js.Multiple-Values-for-a-Key.js" />
+      <item index="12" class="java.lang.String" itemvalue="Node.js.Storing-Objects.js" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -443,12 +448,12 @@
       <updated>1505819451702</updated>
       <workItem from="1505819453017" duration="7419000" />
       <workItem from="1505936549938" duration="2801000" />
-      <workItem from="1505991753097" duration="2663000" />
+      <workItem from="1505991753097" duration="4882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12883000" />
+    <option name="totallyTimeSpent" value="15102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -595,7 +600,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10.Add - Remove Elements/Add-Remove-Elements.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="0">
           <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding />
         </state>
@@ -609,10 +614,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/12.Multiple Values for a Key/Multiple-Values-for-a-Key.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="40">
+          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.Storing Objects/Storing-Objects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
           <folding />
         </state>
       </provider>
