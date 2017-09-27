@@ -8,7 +8,7 @@ public class VowelOrDigit {
 
         if (isDigit(input)) {
             System.out.println("digit");
-        } else if (isVowel(input)) {
+        } else if (isVowel(input.toLowerCase())) {
             System.out.println("vowel");
         } else {
             System.out.println("other");
@@ -17,15 +17,10 @@ public class VowelOrDigit {
 
     private static boolean isVowel(String input) {
         switch (input) {
-            case "A":
             case "a":
-            case "E":
             case "e":
-            case "I":
             case "i":
-            case "O":
             case "o":
-            case "U":
             case "u":
                 return true;
             default:
