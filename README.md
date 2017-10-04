@@ -1,9 +1,9 @@
-ENTRY MODULE
+1. ENTRY MODULE
 - Programming Basics
 
     The "Programming Basics" course provides the initial programming skills required for all Technology specialties at SoftUni. This includes basic coding skills, work with development environment (IDE), use of variables and data, operators and expressions, console handling (reading input and output printing), using the Conditional constructions (if, if-else) and cycles (for, while, do-while).
 
-TECH MODULE
+2. TECH MODULE
  - Technology Fundamentals: Programming Fundamentals
  
     The "Programming Fundamentals" course extends the beginner knowledge of writing programming code from the course "Programming Basics" and introduces basic programming techniques and tools for practical programming beyond the writing of simple programming constructs.
@@ -28,7 +28,7 @@ TECH MODULE
     In the last few topics, students are introduced to Java Web development. It starts with a short introduction to the Java language - syntax, variables, conditional constructs, cycles, arrays, lists, classes and objects. Next is the introduction to Hibernate ORM and access to a MySQL database from Java. Continued with Java Web Applications (Servlets / JSP) and Java MVC Web Development Technology. Following is the development of a practical project - a simple blog system based on Java, Spring MVC, Hibernate and MySQL.
 
 
-PROFESSIONAL MODULE
+3. PROFESSIONAL MODULE
  - C# Fundamentals: C# Advanced
  
     The "C# Advanced" course examines the .NET platform, as well as working with the C# language above the startup. This includes coding skills, problem solving skills, familiarizing with standard work tools (.NET Framework), word processing tools, linear and tree collections, and working with files and directories. Particular attention is paid to the functional programming paradigm, as well as its basic tool - LINQ to process data streams. The course will also deal with asynchronous programming, and throughout the course of the course the students will be divided into teams that will have to make a practical project. The development environment to be used by the training team is Microsoft Visual Studio 2017 + JetBrains ReSharper, but each student is free to use preference tools.
