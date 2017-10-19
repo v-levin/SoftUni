@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.exe.config
+D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.exe
+D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.pdb
+D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\1. Reverse Strings\obj\Debug\1. Reverse Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\1. Reverse Strings\obj\Debug\1. Reverse Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\1. Reverse Strings\obj\Debug\_1.Reverse_Strings.exe
+D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\1. Reverse Strings\obj\Debug\_1.Reverse_Strings.pdb
