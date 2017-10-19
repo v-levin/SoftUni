@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{902658A5-35B3-46E9-94E4-B34E6DFF9142}</ProjectGuid>
+    <ProjectGuid>{0FF70756-BA41-4DDD-9626-F5CB8DC0E88E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_1.Reverse_Strings</RootNamespace>
-    <AssemblyName>_1.Reverse_Strings</AssemblyName>
+    <RootNamespace>_1.ReverseStrings</RootNamespace>
+    <AssemblyName>1.ReverseStrings</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ReverseString.cs" />
+    <Compile Include="ReverseStrings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

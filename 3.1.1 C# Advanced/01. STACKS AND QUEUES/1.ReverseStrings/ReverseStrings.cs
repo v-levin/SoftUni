@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace _1.Reverse_Strings
+namespace _1.ReverseStrings
 {
-    public class ReverseString
+    class ReverseStrings
     {
         public static void Main()
         {
