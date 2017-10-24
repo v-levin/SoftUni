@@ -11,43 +11,45 @@ namespace _03.MaximumElement
             var n = int.Parse(Console.ReadLine());
             var numbers = new Stack<int>();
             var maxNumbers = new Stack<int>();
-            var maxValue = int.MinValue;
+            var maxNumber = int.MinValue;
 
             for (int i = 0; i < n; i++)
             {
                 var input = Console.ReadLine().Split(new[] {' '}, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
-                var type = input[0];
+                var command = input[0];
 
-                switch (type)
+                switch (command)
                 {
                     case 1:
-                        var number = input[1];
-                        numbers.Push(number);
+                        var numberToPush = input[1];
+                        numbers.Push(numberToPush);
 
-                        if (maxValue < number)
+                        if (numberToPush >= maxNumber)
                         {
-                            maxValue = number;
-                            maxNumbers.Push(maxValue);
+                            maxNumber = numberToPush;
+                            maxNumbers.Push(numberToPush);
                         }
 
                         break;
                     case 2:
-                        if (numbers.Pop() == maxValue)
+                        var elementAtTop = numbers.Pop();
+                        var currentMaxNumber = maxNumbers.Peek();
+                        if (elementAtTop == currentMaxNumber)
                         {
                             maxNumbers.Pop();
 
                             if (maxNumbers.Count != 0)
                             {
-                                maxValue = maxNumbers.Peek();
+                                maxNumber = maxNumbers.Peek();
                             }
                             else
                             {
-                                maxValue = int.MinValue;
+                                maxNumber = int.MinValue;
                             }
                         }
                         break;
                     case 3:
-                        Console.WriteLine(maxValue);
+                        Console.WriteLine(maxNumbers.Peek());
                         break;
                 }
             }
