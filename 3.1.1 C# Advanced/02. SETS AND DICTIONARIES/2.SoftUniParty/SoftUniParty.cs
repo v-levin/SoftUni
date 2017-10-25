@@ -19,10 +19,7 @@
 
             while (!input.Equals("END"))
             {
-                if (questsReservations.Contains(input))
-                {
-                    questsReservations.Remove(input);
-                }
+                questsReservations.Remove(input);
 
                 input = Console.ReadLine();
             }
