@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ParkingLot", "1.ParkingLo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.SoftUniParty", "2.SoftUniParty\2.SoftUniParty.csproj", "{5CB4ED51-BC17-459E-8F17-AE1222F45906}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.CountSameValuesInArray", "3.CountSameValuesInArray\3.CountSameValuesInArray.csproj", "{9D226899-F247-461F-92C9-7E126B66D1E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5CB4ED51-BC17-459E-8F17-AE1222F45906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CB4ED51-BC17-459E-8F17-AE1222F45906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CB4ED51-BC17-459E-8F17-AE1222F45906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D226899-F247-461F-92C9-7E126B66D1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D226899-F247-461F-92C9-7E126B66D1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D226899-F247-461F-92C9-7E126B66D1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D226899-F247-461F-92C9-7E126B66D1E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

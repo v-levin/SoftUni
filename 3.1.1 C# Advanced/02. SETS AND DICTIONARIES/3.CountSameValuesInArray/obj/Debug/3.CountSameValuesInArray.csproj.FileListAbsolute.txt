@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\3.CountSameValuesInArray\bin\Debug\3.CountSameValuesInArray.exe.config
+D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\3.CountSameValuesInArray\bin\Debug\3.CountSameValuesInArray.exe
+D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\3.CountSameValuesInArray\bin\Debug\3.CountSameValuesInArray.pdb
+D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\3.CountSameValuesInArray\obj\Debug\3.CountSameValuesInArray.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\3.CountSameValuesInArray\obj\Debug\3.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\3.CountSameValuesInArray\obj\Debug\3.CountSameValuesInArray.exe
+D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\3.CountSameValuesInArray\obj\Debug\3.CountSameValuesInArray.pdb
