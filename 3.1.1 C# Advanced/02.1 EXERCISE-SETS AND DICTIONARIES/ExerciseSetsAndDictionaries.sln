@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PeriodicTable", "03.Peri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CountSymbols", "04.CountSymbols\04.CountSymbols.csproj", "{01962628-D4FB-4383-BFF2-6D423C5BE90C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Phonebook", "05.Phonebook\05.Phonebook.csproj", "{6A95D602-3901-4A57-AD77-2B5119144B7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{01962628-D4FB-4383-BFF2-6D423C5BE90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01962628-D4FB-4383-BFF2-6D423C5BE90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01962628-D4FB-4383-BFF2-6D423C5BE90C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A95D602-3901-4A57-AD77-2B5119144B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A95D602-3901-4A57-AD77-2B5119144B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A95D602-3901-4A57-AD77-2B5119144B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A95D602-3901-4A57-AD77-2B5119144B7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

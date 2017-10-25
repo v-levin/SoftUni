@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\05.Phonebook\bin\Debug\05.Phonebook.exe.config
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\05.Phonebook\bin\Debug\05.Phonebook.exe
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\05.Phonebook\bin\Debug\05.Phonebook.pdb
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\05.Phonebook\obj\Debug\05.Phonebook.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\05.Phonebook\obj\Debug\05.Phonebook.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\05.Phonebook\obj\Debug\05.Phonebook.exe
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\05.Phonebook\obj\Debug\05.Phonebook.pdb
