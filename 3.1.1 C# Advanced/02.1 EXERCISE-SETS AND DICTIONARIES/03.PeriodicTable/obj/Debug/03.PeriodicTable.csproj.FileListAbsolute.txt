@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\03.PeriodicTable\bin\Debug\03.PeriodicTable.exe.config
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\03.PeriodicTable\bin\Debug\03.PeriodicTable.exe
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\03.PeriodicTable\bin\Debug\03.PeriodicTable.pdb
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\03.PeriodicTable\obj\Debug\03.PeriodicTable.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\03.PeriodicTable\obj\Debug\03.PeriodicTable.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\03.PeriodicTable\obj\Debug\03.PeriodicTable.exe
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\03.PeriodicTable\obj\Debug\03.PeriodicTable.pdb
