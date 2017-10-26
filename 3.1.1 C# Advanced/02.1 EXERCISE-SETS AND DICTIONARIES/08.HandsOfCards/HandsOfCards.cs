@@ -8,67 +8,58 @@ namespace _08.HandsOfCards
     {
         public static void Main()
         {
-            var input = Console.ReadLine();
-            var houseOfCards = new Dictionary<string, Dictionary<int, HashSet<int>>>();
+            var handout = Console.ReadLine();
+            var handsOfCards = new Dictionary<string, HashSet<string>>();
 
-            while (!input.Equals("JOKER"))
+            while (!handout.Equals("JOKER"))
             {
-                var handInfo = input.Split(new[] { ':', ','}, StringSplitOptions.RemoveEmptyEntries);
-                var name = handInfo[0];
+                var handoutTokens = handout.Split(':');
+                var playerName = handoutTokens[0];
+                var cards = handoutTokens[1].Split(',').Select(c => c.Trim()).ToArray();
 
-                if (!houseOfCards.ContainsKey(name))
+                if (!handsOfCards.ContainsKey(playerName))
                 {
-                    houseOfCards.Add(name, new Dictionary<int, HashSet<int>>());
-
-                    for (int i = 1; i <= 4; i++)
-                    {
-                        houseOfCards[name].Add(i, new HashSet<int>());
-                    }
+                    handsOfCards.Add(playerName, new HashSet<string>());
                 }
 
-                for (int i = 1; i < handInfo.Length; i++)
-                {
-                    var currentCard = handInfo[i].Trim();
+                handsOfCards[playerName].UnionWith(cards);
 
-                    var face = 0;
-                    var suite = 0;
-                    if (currentCard.Length > 2)
-                    {
-                        face = GetFace(currentCard.Substring(0, 2));
-                        suite = GetSuite(currentCard.Substring(2));
-                    }
-                    else
-                    {
-                        face = GetFace(currentCard[0].ToString());
-                        suite = GetSuite(currentCard[1].ToString());
-                    }
-
-                    if (!houseOfCards[name][suite].Contains(face))
-                    {
-                        houseOfCards[name][suite].Add(face);
-                    }
-                }
-
-                input = Console.ReadLine();
+                handout = Console.ReadLine();
             }
 
-            foreach (var outerKvp in houseOfCards)
+            PrintPlayersAndScores(handsOfCards);
+        }
+
+        private static void PrintPlayersAndScores(Dictionary<string, HashSet<string>> handsOfCards)
+        {
+            foreach (var player in handsOfCards)
             {
-                var sum = 0;
-                foreach (var innerKvp in outerKvp.Value)
-                {
-                    sum += innerKvp.Key * innerKvp.Value.Sum();
-                }
+                var playerName = player.Key;
+                var cards = player.Value;
+                var score = CalculateScore(cards);
 
-                var name = outerKvp.Key;
-
-                Console.WriteLine($"{name}: {sum}");
+                Console.WriteLine($"{playerName}: {score}");
             }
         }
 
-        private static int GetSuite(string suite)
+        private static int CalculateScore(HashSet<string> cards)
         {
-            switch (suite)
+            var score = 0;
+
+            foreach (var card in cards)
+            {
+                var type = card.Last().ToString();
+                var power = card.Substring(0, card.Length - 1);
+
+                score += GetType(type) * GetPower(power);
+            }
+
+            return score;
+        }
+
+        private static int GetType(string type)
+        {
+            switch (type)
             {
                 case "S":
                     return 4;
@@ -87,9 +78,9 @@ namespace _08.HandsOfCards
             }
         }
 
-        private static int GetFace(string face)
+        private static int GetPower(string power)
         {
-            switch (face)
+            switch (power)
             {
                 case "J":
                     return 11;
@@ -104,7 +95,7 @@ namespace _08.HandsOfCards
                     return 14;
 
                 default:
-                    return int.Parse(face);
+                    return int.Parse(power);
             }
         }
     }
