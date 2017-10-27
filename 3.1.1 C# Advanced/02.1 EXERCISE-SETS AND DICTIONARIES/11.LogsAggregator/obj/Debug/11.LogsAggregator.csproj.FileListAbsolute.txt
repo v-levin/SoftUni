@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\11.LogsAggregator\bin\Debug\11.LogsAggregator.exe.config
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\11.LogsAggregator\bin\Debug\11.LogsAggregator.exe
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\11.LogsAggregator\bin\Debug\11.LogsAggregator.pdb
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\11.LogsAggregator\obj\Debug\11.LogsAggregator.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\11.LogsAggregator\obj\Debug\11.LogsAggregator.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\11.LogsAggregator\obj\Debug\11.LogsAggregator.exe
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\11.LogsAggregator\obj\Debug\11.LogsAggregator.pdb
