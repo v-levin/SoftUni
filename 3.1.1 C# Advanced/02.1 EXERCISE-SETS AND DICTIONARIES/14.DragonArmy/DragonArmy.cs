@@ -62,15 +62,20 @@ namespace _14.DragonArmy
                     healthSum += dragonArmy[type][name]["health"];
                     armorSum += dragonArmy[type][name]["armor"];
 
-                    dragonStats.Append($"-{name} -> damage: {dragonArmy[type][name]["damage"]}, health: {dragonArmy[type][name]["health"]}, armor: {dragonArmy[type][name]["armor"]}{Environment.NewLine}");
+                    dragonStats.Append(
+                        $"-{name} -> " +
+                        $"damage: {dragonArmy[type][name]["damage"]}, " +
+                        $"health: {dragonArmy[type][name]["health"]}, " +
+                        $"armor: {dragonArmy[type][name]["armor"]}" +
+                        $"{Environment.NewLine}"
+                        );
                 }
 
                 var averageDamage = (float)damageSum / dragonArmy[type].Count();
                 var averageHealth = (float)healthSum / dragonArmy[type].Count();
                 var averageArmor = (float)armorSum / dragonArmy[type].Count();
 
-                Console.WriteLine($"{type}::({averageDamage:F2}/{averageHealth:F2}/{averageArmor:F2})");
-                Console.Write(dragonStats);
+                Console.Write($"{type}::({averageDamage:F2}/{averageHealth:F2}/{averageArmor:F2}){Environment.NewLine}{dragonStats}");
             }
         }
     }
