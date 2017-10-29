@@ -65,6 +65,11 @@ namespace _12.LegendaryFarming
                 input = Console.ReadLine().ToLower();
             }
 
+            PrintResult(legendaryItems, junkItems, legendaryItem);
+        }
+
+        private static void PrintResult(Dictionary<string, int> legendaryItems, SortedDictionary<string, int> junkItems, string legendaryItem)
+        {
             Console.WriteLine($"{legendaryItem} obtained!");
 
             foreach (var item in legendaryItems.OrderByDescending(i => i.Value).ThenBy(i => i.Key))
