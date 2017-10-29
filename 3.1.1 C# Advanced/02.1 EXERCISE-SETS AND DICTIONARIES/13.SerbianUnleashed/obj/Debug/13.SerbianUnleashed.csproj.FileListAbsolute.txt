@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\13.SerbianUnleashed\bin\Debug\13.SerbianUnleashed.exe.config
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\13.SerbianUnleashed\bin\Debug\13.SerbianUnleashed.exe
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\13.SerbianUnleashed\bin\Debug\13.SerbianUnleashed.pdb
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\13.SerbianUnleashed\obj\Debug\13.SerbianUnleashed.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\13.SerbianUnleashed\obj\Debug\13.SerbianUnleashed.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\13.SerbianUnleashed\obj\Debug\13.SerbianUnleashed.exe
+D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\13.SerbianUnleashed\obj\Debug\13.SerbianUnleashed.pdb
