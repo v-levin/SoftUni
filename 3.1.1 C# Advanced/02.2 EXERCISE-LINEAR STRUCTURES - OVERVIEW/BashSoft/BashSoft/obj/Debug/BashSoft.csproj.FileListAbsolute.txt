@@ -1,0 +1,7 @@
+D:\Projects\StoryMode\BashSoft\bin\Debug\BashSoft.exe.config
+D:\Projects\StoryMode\BashSoft\bin\Debug\BashSoft.exe
+D:\Projects\StoryMode\BashSoft\bin\Debug\BashSoft.pdb
+D:\Projects\StoryMode\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+D:\Projects\StoryMode\BashSoft\obj\Debug\BashSoft.csproj.CoreCompileInputs.cache
+D:\Projects\StoryMode\BashSoft\obj\Debug\BashSoft.exe
+D:\Projects\StoryMode\BashSoft\obj\Debug\BashSoft.pdb
