@@ -5,3 +5,10 @@ D:\Projects\StoryMode\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference
 D:\Projects\StoryMode\BashSoft\obj\Debug\BashSoft.csproj.CoreCompileInputs.cache
 D:\Projects\StoryMode\BashSoft\obj\Debug\BashSoft.exe
 D:\Projects\StoryMode\BashSoft\obj\Debug\BashSoft.pdb
+D:\SoftUni\3.1.1 C# Advanced\02.2 EXERCISE-LINEAR STRUCTURES - OVERVIEW\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+D:\SoftUni\3.1.1 C# Advanced\02.2 EXERCISE-LINEAR STRUCTURES - OVERVIEW\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+D:\SoftUni\3.1.1 C# Advanced\02.2 EXERCISE-LINEAR STRUCTURES - OVERVIEW\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
+D:\SoftUni\3.1.1 C# Advanced\02.2 EXERCISE-LINEAR STRUCTURES - OVERVIEW\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\02.2 EXERCISE-LINEAR STRUCTURES - OVERVIEW\BashSoft\BashSoft\obj\Debug\BashSoft.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\02.2 EXERCISE-LINEAR STRUCTURES - OVERVIEW\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+D:\SoftUni\3.1.1 C# Advanced\02.2 EXERCISE-LINEAR STRUCTURES - OVERVIEW\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
