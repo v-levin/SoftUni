@@ -20,7 +20,7 @@ namespace _02.DiagonalDifference
                 matrix[i] = currentRow;
 
                 primaryDiagonalSum += matrix[i][i];
-                secondaryDiagonalSum += matrix[i][matrixSize - 1 - i];
+                secondaryDiagonalSum += matrix[i][matrix[i].Length - 1 - i];
             }
 
             var difference = Math.Abs(primaryDiagonalSum - secondaryDiagonalSum);
