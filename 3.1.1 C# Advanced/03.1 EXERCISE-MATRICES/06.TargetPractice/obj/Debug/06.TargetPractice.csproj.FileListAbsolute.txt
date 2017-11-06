@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\06.TargetPractice\bin\Debug\06.TargetPractice.exe.config
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\06.TargetPractice\bin\Debug\06.TargetPractice.exe
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\06.TargetPractice\bin\Debug\06.TargetPractice.pdb
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\06.TargetPractice\obj\Debug\06.TargetPractice.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\06.TargetPractice\obj\Debug\06.TargetPractice.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\06.TargetPractice\obj\Debug\06.TargetPractice.exe
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\06.TargetPractice\obj\Debug\06.TargetPractice.pdb
