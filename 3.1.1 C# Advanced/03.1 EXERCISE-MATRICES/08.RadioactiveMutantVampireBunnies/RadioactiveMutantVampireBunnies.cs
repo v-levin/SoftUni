@@ -60,7 +60,7 @@ namespace _08.RadioactiveMutantVampireBunnies
                     {
                         playerPosition[0] = i;
                         playerPosition[1] = j;
-                        break;
+                        return;
                     }
                 }
             }
