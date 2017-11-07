@@ -79,17 +79,16 @@ namespace _08.RadioactiveMutantVampireBunnies
                     {
                         playerPosition[0] = row - 1;
                         playerPosition[1] = col;
+                        matrix[row][col] = '.';
 
                         if (matrix[row - 1][col] == 'B')
                         {
-                            matrix[row][col] = '.';
                             playerInGame = false;
                             result = "dead";
                             return;
                         }
 
                         matrix[row - 1][col] = 'P';
-                        matrix[row][col] = '.';
                     }
                     else
                     {
@@ -106,17 +105,16 @@ namespace _08.RadioactiveMutantVampireBunnies
                     {
                         playerPosition[0] = row + 1;
                         playerPosition[1] = col;
+                        matrix[row][col] = '.';
 
                         if (matrix[row + 1][col] == 'B')
                         {
-                            matrix[row][col] = '.';
                             playerInGame = false;
                             result = "dead";
                             return;
                         }
 
                         matrix[row + 1][col] = 'P';
-                        matrix[row][col] = '.';
                     }
                     else
                     {
@@ -133,17 +131,16 @@ namespace _08.RadioactiveMutantVampireBunnies
                     {
                         playerPosition[0] = row;
                         playerPosition[1] = col - 1;
+                        matrix[row][col] = '.';
 
                         if (matrix[row][col - 1] == 'B')
                         {
-                            matrix[row][col] = '.';
                             playerInGame = false;
                             result = "dead";
                             return;
                         }
 
                         matrix[row][col - 1] = 'P';
-                        matrix[row][col] = '.';
                     }
                     else
                     {
@@ -160,17 +157,16 @@ namespace _08.RadioactiveMutantVampireBunnies
                     {
                         playerPosition[0] = row;
                         playerPosition[1] = col + 1;
+                        matrix[row][col] = '.';
 
                         if (matrix[row][col + 1] == 'B')
                         {
-                            matrix[row][col] = '.';
                             playerInGame = false;
                             result = "dead";
                             return;
                         }
 
                         matrix[row][col + 1] = 'P';
-                        matrix[row][col] = '.';
                     }
                     else
                     {
@@ -212,10 +208,11 @@ namespace _08.RadioactiveMutantVampireBunnies
                         matrix[row - 1][col] = 'B';
                         playerInGame = false;
                         result = "dead";
-                        return;
                     }
-
-                    matrix[row - 1][col] = 'B';
+                    else
+                    {
+                        matrix[row - 1][col] = 'B';
+                    }
                 }
 
                 if (row + 1 <= matrix.Length - 1)
@@ -225,10 +222,11 @@ namespace _08.RadioactiveMutantVampireBunnies
                         matrix[row + 1][col] = 'B';
                         playerInGame = false;
                         result = "dead";
-                        return;
                     }
-
-                    matrix[row + 1][col] = 'B';
+                    else
+                    {
+                        matrix[row + 1][col] = 'B';
+                    }
                 }
 
                 if (col - 1 >= 0)
@@ -238,10 +236,11 @@ namespace _08.RadioactiveMutantVampireBunnies
                         matrix[row][col - 1] = 'B';
                         playerInGame = false;
                         result = "dead";
-                        return;
                     }
-
-                    matrix[row][col - 1] = 'B';
+                    else
+                    {
+                        matrix[row][col - 1] = 'B';
+                    }
                 }
 
                 if (col + 1 <= matrix[row].Length - 1)
@@ -251,10 +250,11 @@ namespace _08.RadioactiveMutantVampireBunnies
                         matrix[row][col + 1] = 'B';
                         playerInGame = false;
                         result = "dead";
-                        return;
                     }
-
-                    matrix[row][col + 1] = 'B';
+                    else
+                    {
+                        matrix[row][col + 1] = 'B';
+                    }
                 }
             }
         }
