@@ -42,12 +42,12 @@ namespace _08.RadioactiveMutantVampireBunnies
 
             foreach (var elements in matrix)
             {
-                Console.WriteLine(string.Join("", elements));
+                Console.WriteLine(string.Join(string.Empty, elements));
             }
 
             Console.WriteLine($"{result}: {string.Join(" ", playerPosition)}");
         }
-
+        
 
         private static void FindPlayer(char[][] matrix, int[] playerPosition)
         {
@@ -69,102 +69,66 @@ namespace _08.RadioactiveMutantVampireBunnies
 
         private static void MovePlayer(char[][] matrix, char direction, ref bool playerInGame, ref string result, int[] playerPosition)
         {
-            var row = playerPosition[0];
-            var col = playerPosition[1];
-            matrix[row][col] = '.';
+            var currentRow = playerPosition[0];
+            var currentCol = playerPosition[1];
+            var nextRow = 0;
+            var nextCol = 0;
 
             switch (direction)
             {
                 case 'U':
-                    if (row - 1 >= 0)
-                    {
-                        playerPosition[0] = row - 1;
-                        playerPosition[1] = col;
-
-                        if (matrix[row - 1][col] == 'B')
-                        {
-                            playerInGame = false;
-                            result = "dead";
-                            return;
-                        }
-
-                        matrix[row - 1][col] = 'P';
-                    }
-                    else
-                    {
-                        playerInGame = false;
-                        return;
-                    }
+                    nextRow = currentRow - 1;
+                    nextCol = currentCol;
                     break;
 
                 case 'D':
-                    if (row + 1 <= matrix.Length - 1)
-                    {
-                        playerPosition[0] = row + 1;
-                        playerPosition[1] = col;
-
-                        if (matrix[row + 1][col] == 'B')
-                        {
-                            playerInGame = false;
-                            result = "dead";
-                            return;
-                        }
-
-                        matrix[row + 1][col] = 'P';
-                    }
-                    else
-                    {
-                        playerInGame = false;
-                        return;
-                    }
+                    nextRow = currentRow + 1;
+                    nextCol = currentCol;
                     break;
 
                 case 'L':
-                    if (col - 1 >= 0)
-                    {
-                        playerPosition[0] = row;
-                        playerPosition[1] = col - 1;
-
-                        if (matrix[row][col - 1] == 'B')
-                        {
-                            playerInGame = false;
-                            result = "dead";
-                            return;
-                        }
-
-                        matrix[row][col - 1] = 'P';
-                    }
-                    else
-                    {
-                        playerInGame = false;
-                        return;
-                    }
+                    nextRow = currentRow;
+                    nextCol = currentCol - 1;
                     break;
 
                 case 'R':
-                    if (col + 1 <= matrix[row].Length - 1)
-                    {
-                        playerPosition[0] = row;
-                        playerPosition[1] = col + 1;
-
-                        if (matrix[row][col + 1] == 'B')
-                        {
-                            playerInGame = false;
-                            result = "dead";
-                            return;
-                        }
-
-                        matrix[row][col + 1] = 'P';
-                    }
-                    else
-                    {
-                        playerInGame = false;
-                        return;
-                    }
+                    nextRow = currentRow;
+                    nextCol = currentCol + 1;
                     break;
+            }
+
+            if (IsPlayerInTheLayer(nextRow, nextCol, matrix))
+            {
+                playerPosition[0] = nextRow;
+                playerPosition[1] = nextCol;
+
+                if (matrix[nextRow][nextCol].Equals('.'))
+                {
+                    matrix[nextRow][nextCol] = 'P';
+                    matrix[currentRow][currentCol] = '.';
+                }
+                else if (matrix[nextRow][nextCol].Equals('B'))
+                {
+                    playerInGame = false;
+                    result = "dead";
+                }
+            }
+            else
+            {
+                matrix[currentRow][currentCol] = '.';
+                playerInGame = false;
             }
         }
 
+        private static bool IsPlayerInTheLayer(int row, int col, char[][] matrix)
+        {
+            if (row < 0 || col < 0 || row >= matrix.Length || col >= matrix[0].Length)
+            {
+                return false;
+            }
+
+            return true;
+        }
 
         private static void SpreadTheBunnies(char[][] matrix, ref bool playerInGame, ref string result)
         {
@@ -174,7 +138,7 @@ namespace _08.RadioactiveMutantVampireBunnies
             {
                 for (int j = 0; j < matrix[i].Length; j++)
                 {
-                    if (matrix[i][j] == 'B')
+                    if (matrix[i][j].Equals('B'))
                     {
                         bunniesIndexes.Add(new KeyValuePair<int, int>(i, j));
                     }
@@ -188,7 +152,7 @@ namespace _08.RadioactiveMutantVampireBunnies
 
                 if (row - 1 >= 0)
                 {
-                    if (matrix[row - 1][col] == 'P')
+                    if (matrix[row - 1][col].Equals('P'))
                     {
                         matrix[row - 1][col] = 'B';
                         playerInGame = false;
@@ -202,7 +166,7 @@ namespace _08.RadioactiveMutantVampireBunnies
 
                 if (row + 1 <= matrix.Length - 1)
                 {
-                    if (matrix[row + 1][col] == 'P')
+                    if (matrix[row + 1][col].Equals('P'))
                     {
                         matrix[row + 1][col] = 'B';
                         playerInGame = false;
@@ -216,7 +180,7 @@ namespace _08.RadioactiveMutantVampireBunnies
 
                 if (col - 1 >= 0)
                 {
-                    if (matrix[row][col - 1] == 'P')
+                    if (matrix[row][col - 1].Equals('P'))
                     {
                         matrix[row][col - 1] = 'B';
                         playerInGame = false;
@@ -230,7 +194,7 @@ namespace _08.RadioactiveMutantVampireBunnies
 
                 if (col + 1 <= matrix[row].Length - 1)
                 {
-                    if (matrix[row][col + 1] == 'P')
+                    if (matrix[row][col + 1].Equals('P'))
                     {
                         matrix[row][col + 1] = 'B';
                         playerInGame = false;
