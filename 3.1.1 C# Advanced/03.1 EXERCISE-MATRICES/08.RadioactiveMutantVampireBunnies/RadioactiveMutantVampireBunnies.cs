@@ -47,7 +47,7 @@ namespace _08.RadioactiveMutantVampireBunnies
 
             Console.WriteLine($"{result}: {string.Join(" ", playerPosition)}");
         }
-        
+
 
         private static void FindPlayer(char[][] matrix, int[] playerPosition)
         {
@@ -71,6 +71,7 @@ namespace _08.RadioactiveMutantVampireBunnies
         {
             var row = playerPosition[0];
             var col = playerPosition[1];
+            matrix[row][col] = '.';
 
             switch (direction)
             {
@@ -79,7 +80,6 @@ namespace _08.RadioactiveMutantVampireBunnies
                     {
                         playerPosition[0] = row - 1;
                         playerPosition[1] = col;
-                        matrix[row][col] = '.';
 
                         if (matrix[row - 1][col] == 'B')
                         {
@@ -92,9 +92,6 @@ namespace _08.RadioactiveMutantVampireBunnies
                     }
                     else
                     {
-                        matrix[row][col] = '.';
-                        playerPosition[0] = row;
-                        playerPosition[1] = col;
                         playerInGame = false;
                         return;
                     }
@@ -105,7 +102,6 @@ namespace _08.RadioactiveMutantVampireBunnies
                     {
                         playerPosition[0] = row + 1;
                         playerPosition[1] = col;
-                        matrix[row][col] = '.';
 
                         if (matrix[row + 1][col] == 'B')
                         {
@@ -118,9 +114,6 @@ namespace _08.RadioactiveMutantVampireBunnies
                     }
                     else
                     {
-                        matrix[row][col] = '.';
-                        playerPosition[0] = row;
-                        playerPosition[1] = col;
                         playerInGame = false;
                         return;
                     }
@@ -131,7 +124,6 @@ namespace _08.RadioactiveMutantVampireBunnies
                     {
                         playerPosition[0] = row;
                         playerPosition[1] = col - 1;
-                        matrix[row][col] = '.';
 
                         if (matrix[row][col - 1] == 'B')
                         {
@@ -144,9 +136,6 @@ namespace _08.RadioactiveMutantVampireBunnies
                     }
                     else
                     {
-                        matrix[row][col] = '.';
-                        playerPosition[0] = row;
-                        playerPosition[1] = col;
                         playerInGame = false;
                         return;
                     }
@@ -157,7 +146,6 @@ namespace _08.RadioactiveMutantVampireBunnies
                     {
                         playerPosition[0] = row;
                         playerPosition[1] = col + 1;
-                        matrix[row][col] = '.';
 
                         if (matrix[row][col + 1] == 'B')
                         {
@@ -170,9 +158,6 @@ namespace _08.RadioactiveMutantVampireBunnies
                     }
                     else
                     {
-                        matrix[row][col] = '.';
-                        playerPosition[0] = row;
-                        playerPosition[1] = col;
                         playerInGame = false;
                         return;
                     }
