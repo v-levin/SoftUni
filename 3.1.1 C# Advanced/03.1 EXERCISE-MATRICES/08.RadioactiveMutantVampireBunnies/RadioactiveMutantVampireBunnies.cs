@@ -122,7 +122,7 @@ namespace _08.RadioactiveMutantVampireBunnies
 
         private static bool IsPlayerInTheLayer(int row, int col, char[][] matrix)
         {
-            if (row < 0 || col < 0 || row >= matrix.Length || col >= matrix[0].Length)
+            if (row < 0 || col < 0 || row >= matrix.Length || col >= matrix[row].Length)
             {
                 return false;
             }
@@ -150,61 +150,36 @@ namespace _08.RadioactiveMutantVampireBunnies
                 var row = bunnieIndex.Key;
                 var col = bunnieIndex.Value;
 
-                if (row - 1 >= 0)
+                // UP
+                if (matrix[Math.Max(row - 1, 0)][col].Equals('P'))
                 {
-                    if (matrix[row - 1][col].Equals('P'))
-                    {
-                        matrix[row - 1][col] = 'B';
-                        playerInGame = false;
-                        result = "dead";
-                    }
-                    else
-                    {
-                        matrix[row - 1][col] = 'B';
-                    }
+                    playerInGame = false;
+                    result = "dead";
+                }
+                // DOWN
+                else if (matrix[Math.Min(row + 1, matrix.Length - 1)][col].Equals('P'))
+                {
+
+                    playerInGame = false;
+                    result = "dead";
+                }
+                // LEFT
+                else if (matrix[row][Math.Max(col - 1, 0)].Equals('P'))
+                {
+                    playerInGame = false;
+                    result = "dead";
+                }
+                // RIGHT
+                else if (matrix[row][Math.Min(col + 1, matrix[row].Length - 1)].Equals('P'))
+                {
+                    playerInGame = false;
+                    result = "dead";
                 }
 
-                if (row + 1 <= matrix.Length - 1)
-                {
-                    if (matrix[row + 1][col].Equals('P'))
-                    {
-                        matrix[row + 1][col] = 'B';
-                        playerInGame = false;
-                        result = "dead";
-                    }
-                    else
-                    {
-                        matrix[row + 1][col] = 'B';
-                    }
-                }
-
-                if (col - 1 >= 0)
-                {
-                    if (matrix[row][col - 1].Equals('P'))
-                    {
-                        matrix[row][col - 1] = 'B';
-                        playerInGame = false;
-                        result = "dead";
-                    }
-                    else
-                    {
-                        matrix[row][col - 1] = 'B';
-                    }
-                }
-
-                if (col + 1 <= matrix[row].Length - 1)
-                {
-                    if (matrix[row][col + 1].Equals('P'))
-                    {
-                        matrix[row][col + 1] = 'B';
-                        playerInGame = false;
-                        result = "dead";
-                    }
-                    else
-                    {
-                        matrix[row][col + 1] = 'B';
-                    }
-                }
+                matrix[Math.Max(row - 1, 0)][col] = 'B';
+                matrix[Math.Min(row + 1, matrix.Length - 1)][col] = 'B';
+                matrix[row][Math.Max(col - 1, 0)] = 'B';
+                matrix[row][Math.Min(col + 1, matrix[row].Length - 1)] = 'B';
             }
         }
     }
