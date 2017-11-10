@@ -23,7 +23,7 @@ namespace _08.RadioactiveMutantVampireBunnies
 
             var playerPosition = new int[2];
             var playerInGame = true;
-            var result = "won";
+            var result = string.Empty;
 
             while (playerInGame)
             {
@@ -33,7 +33,7 @@ namespace _08.RadioactiveMutantVampireBunnies
                     MovePlayer(matrix, direction, ref playerInGame, ref result, playerPosition);
                     SpreadTheBunnies(matrix, ref playerInGame, ref result);
 
-                    if (result == "dead")
+                    if (result == "dead" || result == "won")
                     {
                         break;
                     }
@@ -117,6 +117,7 @@ namespace _08.RadioactiveMutantVampireBunnies
             {
                 matrix[currentRow][currentCol] = '.';
                 playerInGame = false;
+                result = "won";
             }
         }
 
@@ -159,7 +160,6 @@ namespace _08.RadioactiveMutantVampireBunnies
                 // DOWN
                 else if (matrix[Math.Min(row + 1, matrix.Length - 1)][col].Equals('P'))
                 {
-
                     playerInGame = false;
                     result = "dead";
                 }
