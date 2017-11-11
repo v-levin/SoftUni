@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2006
+VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MatrixOfPalindromes", "01.MatrixOfPalindromes\01.MatrixOfPalindromes.csproj", "{299780C7-A4BC-498C-9E2B-F5D0B2C00B5C}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.LegoBlocks", "07.LegoBlocks\07.LegoBlocks.csproj", "{0691B0DF-15A0-45BE-9086-77E69591A6AF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.RadioactiveMutantVampireBunnies", "08.RadioactiveMutantVampireBunnies\08.RadioactiveMutantVampireBunnies.csproj", "{D6DECF6B-A565-4340-AC0C-F037C4430C70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Crossfire", "09.Crossfire\09.Crossfire.csproj", "{1C023BCE-7234-488B-8090-9CAA700A99F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{D6DECF6B-A565-4340-AC0C-F037C4430C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6DECF6B-A565-4340-AC0C-F037C4430C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6DECF6B-A565-4340-AC0C-F037C4430C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C023BCE-7234-488B-8090-9CAA700A99F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C023BCE-7234-488B-8090-9CAA700A99F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C023BCE-7234-488B-8090-9CAA700A99F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C023BCE-7234-488B-8090-9CAA700A99F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
