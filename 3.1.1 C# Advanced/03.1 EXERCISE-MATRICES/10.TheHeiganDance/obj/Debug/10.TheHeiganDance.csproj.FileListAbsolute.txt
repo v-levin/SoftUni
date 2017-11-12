@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\10.TheHeiganDance\bin\Debug\10.TheHeiganDance.exe.config
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\10.TheHeiganDance\bin\Debug\10.TheHeiganDance.exe
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\10.TheHeiganDance\bin\Debug\10.TheHeiganDance.pdb
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.exe
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.pdb
