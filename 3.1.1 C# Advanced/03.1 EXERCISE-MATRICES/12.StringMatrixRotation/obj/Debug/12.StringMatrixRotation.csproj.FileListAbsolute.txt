@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\12.StringMatrixRotation\bin\Debug\12.StringMatrixRotation.exe.config
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\12.StringMatrixRotation\bin\Debug\12.StringMatrixRotation.exe
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\12.StringMatrixRotation\bin\Debug\12.StringMatrixRotation.pdb
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.exe
+D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.pdb
