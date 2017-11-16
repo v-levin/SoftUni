@@ -1,6 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\2. LineNumbers\bin\Debug\_2.LineNumbers.exe.config
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\2. LineNumbers\bin\Debug\_2.LineNumbers.exe
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\2. LineNumbers\bin\Debug\_2.LineNumbers.pdb
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\2. LineNumbers\obj\Debug\2. LineNumbers.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\2. LineNumbers\obj\Debug\_2.LineNumbers.exe
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\2. LineNumbers\obj\Debug\_2.LineNumbers.pdb
