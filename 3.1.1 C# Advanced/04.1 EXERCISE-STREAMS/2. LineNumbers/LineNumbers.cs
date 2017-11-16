@@ -11,16 +11,14 @@ namespace _2.LineNumbers
             var filePath = Console.ReadLine();
 
             using (var reader = new StreamReader(filePath))
+            using (var writer = new StreamWriter("../../result.txt"))
             {
-                using (var writer = new StreamWriter("../../result.txt"))
+                var readLine = string.Empty;
+                var counter = 1;
+                while ((readLine = reader.ReadLine()) != null)
                 {
-                    var readLine = string.Empty;
-                    var counter = 1;
-                    while ((readLine = reader.ReadLine()) != null)
-                    {
-                        writer.WriteLine($"{counter} {readLine}");
-                        counter++;
-                    }
+                    writer.WriteLine($"{counter} {readLine}");
+                    counter++;
                 }
             }
         }
