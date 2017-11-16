@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\4. CopyBinaryFile\bin\Debug\_4.CopyBinaryFile.exe.config
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\4. CopyBinaryFile\bin\Debug\_4.CopyBinaryFile.exe
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\4. CopyBinaryFile\bin\Debug\_4.CopyBinaryFile.pdb
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\4. CopyBinaryFile\obj\Debug\4. CopyBinaryFile.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\4. CopyBinaryFile\obj\Debug\4. CopyBinaryFile.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\4. CopyBinaryFile\obj\Debug\_4.CopyBinaryFile.exe
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\4. CopyBinaryFile\obj\Debug\_4.CopyBinaryFile.pdb
