@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\5. SlicingFile\bin\Debug\_5.SlicingFile.exe.config
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\5. SlicingFile\bin\Debug\_5.SlicingFile.exe
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\5. SlicingFile\bin\Debug\_5.SlicingFile.pdb
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\5. SlicingFile\obj\Debug\5. SlicingFile.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\5. SlicingFile\obj\Debug\5. SlicingFile.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\5. SlicingFile\obj\Debug\_5.SlicingFile.exe
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\5. SlicingFile\obj\Debug\_5.SlicingFile.pdb
