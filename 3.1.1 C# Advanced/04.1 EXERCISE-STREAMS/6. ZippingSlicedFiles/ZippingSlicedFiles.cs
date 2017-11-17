@@ -1,10 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.IO.Compression;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace _5.SlicingFile
+namespace _6.ZippingSlicedFiles
 {
-    public class SlicingFile
+    public class ZippingSlicedFiles
     {
         public static void Main()
         {
@@ -76,25 +80,31 @@ namespace _5.SlicingFile
             using (var reader = new FileStream(sourceFile, FileMode.Open))
             {
                 var extension = sourceFile.Substring(sourceFile.LastIndexOf('.'));
+                var partSize = reader.Length / parts + reader.Length % parts;
 
                 for (int i = 1; i <= parts; i++)
                 {
-                    var partSize = reader.Length / parts + reader.Length % parts;
-                    var outputFile = dir + $"/File {i}{extension}";
+                    var outputFile = dir + $"/File {i}{extension}.gz";
+
                     using (var writer = new FileStream(outputFile, FileMode.Create))
                     {
-                        var buffer = new byte[4096];
-
-                        while (writer.Length < partSize)
+                        using (var compressStream = new GZipStream(writer, CompressionMode.Compress, false))
                         {
-                            var readBytes = reader.Read(buffer, 0, buffer.Length);
+                            var currentPieceSize = 0L;
+                            var buffer = new byte[4096];
 
-                            if (readBytes == 0)
+                            while (currentPieceSize < partSize)
                             {
-                                break;
-                            }
+                                var readBytes = reader.Read(buffer, 0, buffer.Length);
 
-                            writer.Write(buffer, 0, readBytes);
+                                if (readBytes == 0)
+                                {
+                                    break;
+                                }
+
+                                compressStream.Write(buffer, 0, readBytes);
+                                currentPieceSize += readBytes;
+                            }
                         }
                     }
                 }
@@ -109,7 +119,9 @@ namespace _5.SlicingFile
             var fileToAssemble = "Random File";
             while (!string.IsNullOrEmpty(fileToAssemble = Console.ReadLine()))
             {
-                if (File.Exists(fileToAssemble))
+                var zipExtension = fileToAssemble.Substring(fileToAssemble.LastIndexOf('.'));
+
+                if (zipExtension == ".gz" && File.Exists(fileToAssemble))
                 {
                     files.Add(fileToAssemble);
                 }
@@ -121,9 +133,10 @@ namespace _5.SlicingFile
                 Console.WriteLine("Enter another file or press ENTER to Assemble");
             }
 
-            var extension = files[0].Substring(files[0].LastIndexOf('.'));
+            var parts = files[0].Split('.');
+            var extension = parts[parts.Length - 2];
             var dir = files[0].Substring(0, files[0].LastIndexOf('/'));
-            var outputFile = $"{dir}/output" + extension;
+            var outputFile = $"{dir}/output.{extension}";
 
             using (var writer = new FileStream(outputFile, FileMode.Create))
             {
@@ -131,15 +144,17 @@ namespace _5.SlicingFile
                 {
                     using (var reader = new FileStream(file, FileMode.Open))
                     {
-                        var buffer = new byte[4096];
-                        var readBytes = reader.Read(buffer, 0, buffer.Length);
-
-                        while (readBytes != 0)
+                        using (var decmpressionStream = new GZipStream(reader, CompressionMode.Decompress, false))
                         {
-                            writer.Write(buffer, 0, readBytes);
-                            readBytes = reader.Read(buffer, 0, buffer.Length);
-                        }
+                            var buffer = new byte[4096];
+                            var readBytes = decmpressionStream.Read(buffer, 0, buffer.Length);
 
+                            while (readBytes != 0)
+                            {
+                                writer.Write(buffer, 0, readBytes);
+                                readBytes = decmpressionStream.Read(buffer, 0, buffer.Length);
+                            }
+                        }
                     }
                 }
             }
