@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\8. FullDirectoryTraversal\bin\Debug\_8.FullDirectoryTraversal.exe.config
+D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\8. FullDirectoryTraversal\bin\Debug\_8.FullDirectoryTraversal.exe
+D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\8. FullDirectoryTraversal\bin\Debug\_8.FullDirectoryTraversal.pdb
+D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\8. FullDirectoryTraversal\obj\Debug\8. FullDirectoryTraversal.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\8. FullDirectoryTraversal\obj\Debug\8. FullDirectoryTraversal.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\8. FullDirectoryTraversal\obj\Debug\_8.FullDirectoryTraversal.exe
+D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\8. FullDirectoryTraversal\obj\Debug\_8.FullDirectoryTraversal.pdb
