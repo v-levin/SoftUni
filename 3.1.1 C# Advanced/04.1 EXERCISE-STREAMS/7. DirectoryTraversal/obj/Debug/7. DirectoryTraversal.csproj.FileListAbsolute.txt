@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\7. DirectoryTraversal\bin\Debug\_7.DirectoryTraversal.exe.config
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\7. DirectoryTraversal\bin\Debug\_7.DirectoryTraversal.exe
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\7. DirectoryTraversal\bin\Debug\_7.DirectoryTraversal.pdb
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\7. DirectoryTraversal\obj\Debug\7. DirectoryTraversal.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\7. DirectoryTraversal\obj\Debug\7. DirectoryTraversal.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\7. DirectoryTraversal\obj\Debug\_7.DirectoryTraversal.exe
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\7. DirectoryTraversal\obj\Debug\_7.DirectoryTraversal.pdb

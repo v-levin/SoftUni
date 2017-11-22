@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\9. HTTPServer\bin\Debug\_9.HTTPServer.exe.config
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\9. HTTPServer\bin\Debug\_9.HTTPServer.exe
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\9. HTTPServer\bin\Debug\_9.HTTPServer.pdb
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\9. HTTPServer\obj\Debug\9. HTTPServer.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\9. HTTPServer\obj\Debug\9. HTTPServer.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\9. HTTPServer\obj\Debug\_9.HTTPServer.exe
-D:\SoftUni\3.1.1 C# Advanced\04.1 EXERCISE-STREAMS\9. HTTPServer\obj\Debug\_9.HTTPServer.pdb
