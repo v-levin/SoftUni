@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\4.MatchingBrackets\bin\Debug\4.MatchingBrackets.exe.config
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\4.MatchingBrackets\bin\Debug\4.MatchingBrackets.exe
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\4.MatchingBrackets\bin\Debug\4.MatchingBrackets.pdb
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\4.MatchingBrackets\obj\Debug\4.MatchingBrackets.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\4.MatchingBrackets\obj\Debug\4.MatchingBrackets.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\4.MatchingBrackets\obj\Debug\4.MatchingBrackets.exe
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\4.MatchingBrackets\obj\Debug\4.MatchingBrackets.pdb

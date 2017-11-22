@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\09.Crossfire\bin\Debug\09.Crossfire.exe.config
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\09.Crossfire\bin\Debug\09.Crossfire.exe
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\09.Crossfire\bin\Debug\09.Crossfire.pdb
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\09.Crossfire\obj\Debug\09.Crossfire.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\09.Crossfire\obj\Debug\09.Crossfire.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\09.Crossfire\obj\Debug\09.Crossfire.exe
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\09.Crossfire\obj\Debug\09.Crossfire.pdb

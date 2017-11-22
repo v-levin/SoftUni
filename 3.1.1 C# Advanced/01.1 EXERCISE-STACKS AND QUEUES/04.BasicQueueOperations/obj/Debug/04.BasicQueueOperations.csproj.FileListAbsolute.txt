@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\01.1 EXERCISE-STACKS AND QUEUES\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe.config
-D:\SoftUni\3.1.1 C# Advanced\01.1 EXERCISE-STACKS AND QUEUES\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe
-D:\SoftUni\3.1.1 C# Advanced\01.1 EXERCISE-STACKS AND QUEUES\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.pdb
-D:\SoftUni\3.1.1 C# Advanced\01.1 EXERCISE-STACKS AND QUEUES\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\01.1 EXERCISE-STACKS AND QUEUES\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\01.1 EXERCISE-STACKS AND QUEUES\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.exe
-D:\SoftUni\3.1.1 C# Advanced\01.1 EXERCISE-STACKS AND QUEUES\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.pdb

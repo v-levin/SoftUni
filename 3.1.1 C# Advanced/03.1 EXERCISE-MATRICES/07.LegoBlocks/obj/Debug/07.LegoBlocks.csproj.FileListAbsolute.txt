@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\07.LegoBlocks\bin\Debug\07.LegoBlocks.exe.config
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\07.LegoBlocks\bin\Debug\07.LegoBlocks.exe
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\07.LegoBlocks\bin\Debug\07.LegoBlocks.pdb
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\07.LegoBlocks\obj\Debug\07.LegoBlocks.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\07.LegoBlocks\obj\Debug\07.LegoBlocks.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\07.LegoBlocks\obj\Debug\07.LegoBlocks.exe
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\07.LegoBlocks\obj\Debug\07.LegoBlocks.pdb

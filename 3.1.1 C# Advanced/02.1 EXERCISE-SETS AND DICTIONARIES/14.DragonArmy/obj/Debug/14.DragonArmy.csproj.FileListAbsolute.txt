@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\14.DragonArmy\bin\Debug\14.DragonArmy.exe.config
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\14.DragonArmy\bin\Debug\14.DragonArmy.exe
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\14.DragonArmy\bin\Debug\14.DragonArmy.pdb
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\14.DragonArmy\obj\Debug\14.DragonArmy.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\14.DragonArmy\obj\Debug\14.DragonArmy.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\14.DragonArmy\obj\Debug\14.DragonArmy.exe
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\14.DragonArmy\obj\Debug\14.DragonArmy.pdb

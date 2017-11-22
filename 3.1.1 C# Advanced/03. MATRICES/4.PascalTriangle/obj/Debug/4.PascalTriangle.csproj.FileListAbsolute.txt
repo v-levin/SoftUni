@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\4.PascalTriangle\bin\Debug\4.PascalTriangle.exe.config
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\4.PascalTriangle\bin\Debug\4.PascalTriangle.exe
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\4.PascalTriangle\bin\Debug\4.PascalTriangle.pdb
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\4.PascalTriangle\obj\Debug\4.PascalTriangle.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\4.PascalTriangle\obj\Debug\4.PascalTriangle.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\4.PascalTriangle\obj\Debug\4.PascalTriangle.exe
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\4.PascalTriangle\obj\Debug\4.PascalTriangle.pdb

@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\4.AcademyGraduation\bin\Debug\4.AcademyGraduation.exe.config
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\4.AcademyGraduation\bin\Debug\4.AcademyGraduation.exe
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\4.AcademyGraduation\bin\Debug\4.AcademyGraduation.pdb
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\4.AcademyGraduation\obj\Debug\4.AcademyGraduation.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\4.AcademyGraduation\obj\Debug\4.AcademyGraduation.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\4.AcademyGraduation\obj\Debug\4.AcademyGraduation.exe
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\4.AcademyGraduation\obj\Debug\4.AcademyGraduation.pdb

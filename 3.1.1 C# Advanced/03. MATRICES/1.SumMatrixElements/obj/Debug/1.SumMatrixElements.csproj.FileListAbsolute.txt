@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\1.SumMatrixElements\bin\Debug\1.SumMatrixElements.exe.config
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\1.SumMatrixElements\bin\Debug\1.SumMatrixElements.exe
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\1.SumMatrixElements\bin\Debug\1.SumMatrixElements.pdb
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\1.SumMatrixElements\obj\Debug\1.SumMatrixElements.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\1.SumMatrixElements\obj\Debug\1.SumMatrixElements.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\1.SumMatrixElements\obj\Debug\1.SumMatrixElements.exe
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\1.SumMatrixElements\obj\Debug\1.SumMatrixElements.pdb

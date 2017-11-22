@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\02.SetsOfElements\bin\Debug\02.SetsOfElements.exe.config
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\02.SetsOfElements\bin\Debug\02.SetsOfElements.exe
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\02.SetsOfElements\bin\Debug\02.SetsOfElements.pdb
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\02.SetsOfElements\obj\Debug\02.SetsOfElements.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\02.SetsOfElements\obj\Debug\02.SetsOfElements.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\02.SetsOfElements\obj\Debug\02.SetsOfElements.exe
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\02.SetsOfElements\obj\Debug\02.SetsOfElements.pdb

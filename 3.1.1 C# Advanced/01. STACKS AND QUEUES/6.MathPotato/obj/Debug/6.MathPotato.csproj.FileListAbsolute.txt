@@ -1,6 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\6.MathPotato\bin\Debug\6.MathPotato.exe.config
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\6.MathPotato\bin\Debug\6.MathPotato.exe
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\6.MathPotato\bin\Debug\6.MathPotato.pdb
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\6.MathPotato\obj\Debug\6.MathPotato.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\6.MathPotato\obj\Debug\6.MathPotato.exe
-D:\SoftUni\3.1.1 C# Advanced\01. STACKS AND QUEUES\6.MathPotato\obj\Debug\6.MathPotato.pdb

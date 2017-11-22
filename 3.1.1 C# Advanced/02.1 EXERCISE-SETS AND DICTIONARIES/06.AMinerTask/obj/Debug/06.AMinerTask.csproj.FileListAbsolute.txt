@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\06.AMinerTask\bin\Debug\06.AMinerTask.exe.config
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\06.AMinerTask\bin\Debug\06.AMinerTask.exe
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\06.AMinerTask\bin\Debug\06.AMinerTask.pdb
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\06.AMinerTask\obj\Debug\06.AMinerTask.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\06.AMinerTask\obj\Debug\06.AMinerTask.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\06.AMinerTask\obj\Debug\06.AMinerTask.exe
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\06.AMinerTask\obj\Debug\06.AMinerTask.pdb

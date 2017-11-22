@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\08.RadioactiveMutantVampireBunnies\bin\Debug\08.RadioactiveMutantVampireBunnies.exe.config
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\08.RadioactiveMutantVampireBunnies\bin\Debug\08.RadioactiveMutantVampireBunnies.exe
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\08.RadioactiveMutantVampireBunnies\bin\Debug\08.RadioactiveMutantVampireBunnies.pdb
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\08.RadioactiveMutantVampireBunnies\obj\Debug\08.RadioactiveMutantVampireBunnies.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\08.RadioactiveMutantVampireBunnies\obj\Debug\08.RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\08.RadioactiveMutantVampireBunnies\obj\Debug\08.RadioactiveMutantVampireBunnies.exe
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\08.RadioactiveMutantVampireBunnies\obj\Debug\08.RadioactiveMutantVampireBunnies.pdb

@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\11.ParkingSystem\bin\Debug\11.ParkingSystem.exe.config
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\11.ParkingSystem\bin\Debug\11.ParkingSystem.exe
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\11.ParkingSystem\bin\Debug\11.ParkingSystem.pdb
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\11.ParkingSystem\obj\Debug\11.ParkingSystem.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\11.ParkingSystem\obj\Debug\11.ParkingSystem.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\11.ParkingSystem\obj\Debug\11.ParkingSystem.exe
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\11.ParkingSystem\obj\Debug\11.ParkingSystem.pdb

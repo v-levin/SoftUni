@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\1.ParkingLot\bin\Debug\1.ParkingLot.exe.config
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\1.ParkingLot\bin\Debug\1.ParkingLot.exe
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\1.ParkingLot\bin\Debug\1.ParkingLot.pdb
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\1.ParkingLot\obj\Debug\1.ParkingLot.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\1.ParkingLot\obj\Debug\1.ParkingLot.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\1.ParkingLot\obj\Debug\1.ParkingLot.exe
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\1.ParkingLot\obj\Debug\1.ParkingLot.pdb

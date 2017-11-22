@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\03.2x2SquaresInMatrix\bin\Debug\03.2x2SquaresInMatrix.exe.config
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\03.2x2SquaresInMatrix\bin\Debug\03.2x2SquaresInMatrix.exe
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\03.2x2SquaresInMatrix\bin\Debug\03.2x2SquaresInMatrix.pdb
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\03.2x2SquaresInMatrix\obj\Debug\03.2x2SquaresInMatrix.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\03.2x2SquaresInMatrix\obj\Debug\03.2x2SquaresInMatrix.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\03.2x2SquaresInMatrix\obj\Debug\03.2x2SquaresInMatrix.exe
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\03.2x2SquaresInMatrix\obj\Debug\03.2x2SquaresInMatrix.pdb

@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\3.GroupNumbers\bin\Debug\3.GroupNumbers.exe.config
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\3.GroupNumbers\bin\Debug\3.GroupNumbers.exe
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\3.GroupNumbers\bin\Debug\3.GroupNumbers.pdb
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\3.GroupNumbers\obj\Debug\3.GroupNumbers.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\3.GroupNumbers\obj\Debug\3.GroupNumbers.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\3.GroupNumbers\obj\Debug\3.GroupNumbers.exe
-D:\SoftUni\3.1.1 C# Advanced\03. MATRICES\3.GroupNumbers\obj\Debug\3.GroupNumbers.pdb

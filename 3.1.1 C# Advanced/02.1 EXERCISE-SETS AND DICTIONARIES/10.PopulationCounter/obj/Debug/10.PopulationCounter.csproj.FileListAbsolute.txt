@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\10.PopulationCounter\bin\Debug\10.PopulationCounter.exe.config
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\10.PopulationCounter\bin\Debug\10.PopulationCounter.exe
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\10.PopulationCounter\bin\Debug\10.PopulationCounter.pdb
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\10.PopulationCounter\obj\Debug\10.PopulationCounter.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\10.PopulationCounter\obj\Debug\10.PopulationCounter.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\10.PopulationCounter\obj\Debug\10.PopulationCounter.exe
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\10.PopulationCounter\obj\Debug\10.PopulationCounter.pdb

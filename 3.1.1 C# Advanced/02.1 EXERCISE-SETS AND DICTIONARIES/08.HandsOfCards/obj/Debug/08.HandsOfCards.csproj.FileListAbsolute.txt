@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\08.HandsOfCards\bin\Debug\08.HandsOfCards.exe.config
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\08.HandsOfCards\bin\Debug\08.HandsOfCards.exe
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\08.HandsOfCards\bin\Debug\08.HandsOfCards.pdb
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\08.HandsOfCards\obj\Debug\08.HandsOfCards.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\08.HandsOfCards\obj\Debug\08.HandsOfCards.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\08.HandsOfCards\obj\Debug\08.HandsOfCards.exe
-D:\SoftUni\3.1.1 C# Advanced\02.1 EXERCISE-SETS AND DICTIONARIES\08.HandsOfCards\obj\Debug\08.HandsOfCards.pdb

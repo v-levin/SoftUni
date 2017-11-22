@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\2.SoftUniParty\bin\Debug\2.SoftUniParty.exe.config
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\2.SoftUniParty\bin\Debug\2.SoftUniParty.exe
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\2.SoftUniParty\bin\Debug\2.SoftUniParty.pdb
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\2.SoftUniParty\obj\Debug\2.SoftUniParty.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\2.SoftUniParty\obj\Debug\2.SoftUniParty.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\2.SoftUniParty\obj\Debug\2.SoftUniParty.exe
-D:\SoftUni\3.1.1 C# Advanced\02. SETS AND DICTIONARIES\2.SoftUniParty\obj\Debug\2.SoftUniParty.pdb

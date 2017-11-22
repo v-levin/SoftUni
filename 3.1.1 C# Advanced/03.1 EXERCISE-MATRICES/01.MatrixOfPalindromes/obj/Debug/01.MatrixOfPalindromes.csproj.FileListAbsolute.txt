@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\01.MatrixOfPalindromes\bin\Debug\01.MatrixOfPalindromes.exe.config
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\01.MatrixOfPalindromes\bin\Debug\01.MatrixOfPalindromes.exe
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\01.MatrixOfPalindromes\bin\Debug\01.MatrixOfPalindromes.pdb
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\01.MatrixOfPalindromes\obj\Debug\01.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\01.MatrixOfPalindromes\obj\Debug\01.MatrixOfPalindromes.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\01.MatrixOfPalindromes\obj\Debug\01.MatrixOfPalindromes.exe
-D:\SoftUni\3.1.1 C# Advanced\03.1 EXERCISE-MATRICES\01.MatrixOfPalindromes\obj\Debug\01.MatrixOfPalindromes.pdb
