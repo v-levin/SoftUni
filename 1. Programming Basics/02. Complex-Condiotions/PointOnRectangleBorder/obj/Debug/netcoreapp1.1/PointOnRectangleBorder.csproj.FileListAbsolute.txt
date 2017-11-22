@@ -1,9 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointOnRectangleBorder\bin\Debug\netcoreapp1.1\PointOnRectangleBorder.deps.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointOnRectangleBorder\bin\Debug\netcoreapp1.1\PointOnRectangleBorder.runtimeconfig.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointOnRectangleBorder\bin\Debug\netcoreapp1.1\PointOnRectangleBorder.runtimeconfig.dev.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointOnRectangleBorder\bin\Debug\netcoreapp1.1\PointOnRectangleBorder.dll
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointOnRectangleBorder\bin\Debug\netcoreapp1.1\PointOnRectangleBorder.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointOnRectangleBorder\obj\Debug\netcoreapp1.1\PointOnRectangleBorder.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointOnRectangleBorder\obj\Debug\netcoreapp1.1\PointOnRectangleBorder.AssemblyInfo.cs
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointOnRectangleBorder\obj\Debug\netcoreapp1.1\PointOnRectangleBorder.dll
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\PointOnRectangleBorder\obj\Debug\netcoreapp1.1\PointOnRectangleBorder.pdb

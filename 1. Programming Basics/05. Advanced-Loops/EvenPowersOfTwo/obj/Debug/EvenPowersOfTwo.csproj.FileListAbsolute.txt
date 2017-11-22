@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.pdb
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.exe
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.pdb

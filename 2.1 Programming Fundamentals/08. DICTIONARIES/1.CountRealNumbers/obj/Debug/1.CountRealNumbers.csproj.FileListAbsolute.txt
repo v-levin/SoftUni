@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries\1.CountRealNumbers\bin\Debug\1.CountRealNumbers.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries\1.CountRealNumbers\bin\Debug\1.CountRealNumbers.exe
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries\1.CountRealNumbers\bin\Debug\1.CountRealNumbers.pdb
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries\1.CountRealNumbers\obj\Debug\1.CountRealNumbers.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries\1.CountRealNumbers\obj\Debug\1.CountRealNumbers.exe
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries\1.CountRealNumbers\obj\Debug\1.CountRealNumbers.pdb

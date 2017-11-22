@@ -1,7 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\3.WordCount\bin\Debug\3.WordCount.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\3.WordCount\bin\Debug\3.WordCount.exe
-C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\3.WordCount\bin\Debug\3.WordCount.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\3.WordCount\obj\Debug\3.WordCount.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\3.WordCount\obj\Debug\3.WordCount.csproj.CoreCompileInputs.cache
-C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\3.WordCount\obj\Debug\3.WordCount.exe
-C:\Users\User\documents\visual studio 2017\Projects\Files, Directories and Exceptions\3.WordCount\obj\Debug\3.WordCount.pdb

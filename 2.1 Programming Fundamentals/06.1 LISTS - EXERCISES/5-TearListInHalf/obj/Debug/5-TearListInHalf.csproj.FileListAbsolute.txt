@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\5-TearListInHalf\bin\Debug\5-TearListInHalf.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\5-TearListInHalf\bin\Debug\5-TearListInHalf.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\5-TearListInHalf\bin\Debug\5-TearListInHalf.pdb
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\5-TearListInHalf\obj\Debug\5-TearListInHalf.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\5-TearListInHalf\obj\Debug\5-TearListInHalf.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\5-TearListInHalf\obj\Debug\5-TearListInHalf.pdb

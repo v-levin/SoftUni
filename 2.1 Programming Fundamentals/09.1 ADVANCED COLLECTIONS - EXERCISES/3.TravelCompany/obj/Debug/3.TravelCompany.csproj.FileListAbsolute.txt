@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\3.TravelCompany\bin\Debug\3.TravelCompany.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\3.TravelCompany\bin\Debug\3.TravelCompany.exe
-C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\3.TravelCompany\bin\Debug\3.TravelCompany.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\3.TravelCompany\obj\Debug\3.TravelCompany.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\3.TravelCompany\obj\Debug\3.TravelCompany.exe
-C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections - Exercises\3.TravelCompany\obj\Debug\3.TravelCompany.pdb

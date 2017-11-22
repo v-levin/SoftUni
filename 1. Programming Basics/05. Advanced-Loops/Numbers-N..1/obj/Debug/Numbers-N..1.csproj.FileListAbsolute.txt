@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\Numbers-N..1\bin\Debug\Numbers_N._._1.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\Numbers-N..1\bin\Debug\Numbers_N._._1.exe
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\Numbers-N..1\bin\Debug\Numbers_N._._1.pdb
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\Numbers-N..1\obj\Debug\Numbers_N._._1.exe
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\Numbers-N..1\obj\Debug\Numbers_N._._1.pdb

@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TravelingAtLightSpeed\bin\Debug\TravelingAtLightSpeed.exe.config
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TravelingAtLightSpeed\bin\Debug\TravelingAtLightSpeed.exe
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TravelingAtLightSpeed\bin\Debug\TravelingAtLightSpeed.pdb
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TravelingAtLightSpeed\obj\Debug\TravelingAtLightSpeed.exe
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TravelingAtLightSpeed\obj\Debug\TravelingAtLightSpeed.pdb
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\TravelingAtLightSpeed\obj\Debug\TravelingAtLightSpeed.csprojResolveAssemblyReference.cache

@@ -1,8 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\AreaOfFigures\bin\Debug\netcoreapp1.1\AreaOfFigures.deps.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\AreaOfFigures\bin\Debug\netcoreapp1.1\AreaOfFigures.runtimeconfig.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\AreaOfFigures\bin\Debug\netcoreapp1.1\AreaOfFigures.runtimeconfig.dev.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\AreaOfFigures\bin\Debug\netcoreapp1.1\AreaOfFigures.dll
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\AreaOfFigures\bin\Debug\netcoreapp1.1\AreaOfFigures.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\AreaOfFigures\obj\Debug\netcoreapp1.1\AreaOfFigures.AssemblyInfo.cs
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\AreaOfFigures\obj\Debug\netcoreapp1.1\AreaOfFigures.dll
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\AreaOfFigures\obj\Debug\netcoreapp1.1\AreaOfFigures.pdb

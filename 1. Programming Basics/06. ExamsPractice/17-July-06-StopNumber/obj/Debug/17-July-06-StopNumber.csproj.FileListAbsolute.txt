@@ -1,5 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\17-July-06-StopNumber\bin\Debug\17-July-06-StopNumber.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\17-July-06-StopNumber\bin\Debug\17-July-06-StopNumber.exe
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\17-July-06-StopNumber\bin\Debug\17-July-06-StopNumber.pdb
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\17-July-06-StopNumber\obj\Debug\17-July-06-StopNumber.exe
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\17-July-06-StopNumber\obj\Debug\17-July-06-StopNumber.pdb

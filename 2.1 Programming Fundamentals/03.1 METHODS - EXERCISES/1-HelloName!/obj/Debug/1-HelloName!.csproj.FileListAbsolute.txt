@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\1-HelloName!\bin\Debug\1-HelloName!.exe.config
-c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\1-HelloName!\bin\Debug\1-HelloName!.exe
-c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\1-HelloName!\bin\Debug\1-HelloName!.pdb
-c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\1-HelloName!\obj\Debug\1-HelloName!.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\1-HelloName!\obj\Debug\1-HelloName!.exe
-c:\users\user\documents\visual studio 2017\Projects\ExercisesMethods\1-HelloName!\obj\Debug\1-HelloName!.pdb

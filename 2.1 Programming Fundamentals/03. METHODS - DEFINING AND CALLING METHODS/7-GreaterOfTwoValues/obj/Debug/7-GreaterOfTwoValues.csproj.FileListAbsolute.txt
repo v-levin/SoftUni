@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\7-GreaterOfTwoValues\bin\Debug\7-GreaterOfTwoValues.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\7-GreaterOfTwoValues\bin\Debug\7-GreaterOfTwoValues.exe
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\7-GreaterOfTwoValues\bin\Debug\7-GreaterOfTwoValues.pdb
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\7-GreaterOfTwoValues\obj\Debug\7-GreaterOfTwoValues.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\7-GreaterOfTwoValues\obj\Debug\7-GreaterOfTwoValues.exe
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\7-GreaterOfTwoValues\obj\Debug\7-GreaterOfTwoValues.pdb

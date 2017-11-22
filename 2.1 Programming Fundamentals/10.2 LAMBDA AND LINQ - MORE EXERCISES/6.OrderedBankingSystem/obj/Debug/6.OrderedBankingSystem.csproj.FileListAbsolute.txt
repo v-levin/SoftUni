@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\6.OrderedBankingSystem\bin\Debug\6.OrderedBankingSystem.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\6.OrderedBankingSystem\bin\Debug\6.OrderedBankingSystem.exe
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\6.OrderedBankingSystem\bin\Debug\6.OrderedBankingSystem.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\6.OrderedBankingSystem\obj\Debug\6.OrderedBankingSystem.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\6.OrderedBankingSystem\obj\Debug\6.OrderedBankingSystem.exe
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\6.OrderedBankingSystem\obj\Debug\6.OrderedBankingSystem.pdb

@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\1.SumMinMaxAverage\bin\Debug\1.SumMinMaxAverage.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\1.SumMinMaxAverage\bin\Debug\1.SumMinMaxAverage.exe
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\1.SumMinMaxAverage\bin\Debug\1.SumMinMaxAverage.pdb
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\1.SumMinMaxAverage\obj\Debug\1.SumMinMaxAverage.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\1.SumMinMaxAverage\obj\Debug\1.SumMinMaxAverage.exe
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\1.SumMinMaxAverage\obj\Debug\1.SumMinMaxAverage.pdb

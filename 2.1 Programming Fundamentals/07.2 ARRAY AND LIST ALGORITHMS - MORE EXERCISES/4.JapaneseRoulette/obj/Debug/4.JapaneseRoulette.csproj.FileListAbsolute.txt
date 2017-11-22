@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\4.JapaneseRoulette\bin\Debug\4.JapaneseRoulette.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\4.JapaneseRoulette\bin\Debug\4.JapaneseRoulette.exe
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\4.JapaneseRoulette\bin\Debug\4.JapaneseRoulette.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\4.JapaneseRoulette\obj\Debug\4.JapaneseRoulette.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\4.JapaneseRoulette\obj\Debug\4.JapaneseRoulette.exe
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\4.JapaneseRoulette\obj\Debug\4.JapaneseRoulette.pdb

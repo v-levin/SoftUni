@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\4.MatchDates\bin\Debug\4.MatchDates.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\4.MatchDates\bin\Debug\4.MatchDates.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\4.MatchDates\bin\Debug\4.MatchDates.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\4.MatchDates\obj\Debug\4.MatchDates.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\4.MatchDates\obj\Debug\4.MatchDates.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\4.MatchDates\obj\Debug\4.MatchDates.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\4.MatchDates\obj\Debug\4.MatchDates.pdb

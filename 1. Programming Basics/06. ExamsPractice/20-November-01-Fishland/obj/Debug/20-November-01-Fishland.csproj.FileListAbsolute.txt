@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-01-Fishland\bin\Debug\20-November-01-Fishland.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-01-Fishland\bin\Debug\20-November-01-Fishland.exe
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-01-Fishland\bin\Debug\20-November-01-Fishland.pdb
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-01-Fishland\obj\Debug\20-November-01-Fishland.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-01-Fishland\obj\Debug\20-November-01-Fishland.exe
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-01-Fishland\obj\Debug\20-November-01-Fishland.pdb

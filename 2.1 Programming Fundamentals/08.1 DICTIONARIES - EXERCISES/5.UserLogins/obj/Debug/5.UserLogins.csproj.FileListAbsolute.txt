@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Dictionaries-Exercises\5.UserLogins\bin\Debug\5.UserLogins.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Dictionaries-Exercises\5.UserLogins\bin\Debug\5.UserLogins.exe
-C:\Users\User\documents\visual studio 2017\Projects\Dictionaries-Exercises\5.UserLogins\bin\Debug\5.UserLogins.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Dictionaries-Exercises\5.UserLogins\obj\Debug\5.UserLogins.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Dictionaries-Exercises\5.UserLogins\obj\Debug\5.UserLogins.exe
-C:\Users\User\documents\visual studio 2017\Projects\Dictionaries-Exercises\5.UserLogins\obj\Debug\5.UserLogins.pdb

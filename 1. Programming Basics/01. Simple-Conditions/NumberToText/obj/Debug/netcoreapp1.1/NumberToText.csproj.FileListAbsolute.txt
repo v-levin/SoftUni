@@ -1,9 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\NumberToText\bin\Debug\netcoreapp1.1\NumberToText.deps.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\NumberToText\bin\Debug\netcoreapp1.1\NumberToText.runtimeconfig.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\NumberToText\bin\Debug\netcoreapp1.1\NumberToText.runtimeconfig.dev.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\NumberToText\bin\Debug\netcoreapp1.1\NumberToText.dll
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\NumberToText\bin\Debug\netcoreapp1.1\NumberToText.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\NumberToText\obj\Debug\netcoreapp1.1\NumberToText.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\NumberToText\obj\Debug\netcoreapp1.1\NumberToText.AssemblyInfo.cs
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\NumberToText\obj\Debug\netcoreapp1.1\NumberToText.dll
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\NumberToText\obj\Debug\netcoreapp1.1\NumberToText.pdb

@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\4.RoliTheCoder\bin\Debug\4.RoliTheCoder.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\4.RoliTheCoder\bin\Debug\4.RoliTheCoder.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\4.RoliTheCoder\bin\Debug\4.RoliTheCoder.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\4.RoliTheCoder\obj\Debug\4.RoliTheCoder.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\4.RoliTheCoder\obj\Debug\4.RoliTheCoder.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\4.RoliTheCoder\obj\Debug\4.RoliTheCoder.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\4.RoliTheCoder\obj\Debug\4.RoliTheCoder.pdb

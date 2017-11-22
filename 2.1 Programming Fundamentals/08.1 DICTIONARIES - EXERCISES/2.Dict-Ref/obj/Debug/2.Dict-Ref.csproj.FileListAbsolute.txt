@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\2.Dict-Ref\bin\Debug\2.Dict-Ref.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\2.Dict-Ref\bin\Debug\2.Dict-Ref.exe
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\2.Dict-Ref\bin\Debug\2.Dict-Ref.pdb
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\2.Dict-Ref\obj\Debug\2.Dict-Ref.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\2.Dict-Ref\obj\Debug\2.Dict-Ref.exe
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\2.Dict-Ref\obj\Debug\2.Dict-Ref.pdb

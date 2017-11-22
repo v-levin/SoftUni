@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\6-OddNumbersAtOddPositions\bin\Debug\6-OddNumbersAtOddPositions.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\6-OddNumbersAtOddPositions\bin\Debug\6-OddNumbersAtOddPositions.exe
-c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\6-OddNumbersAtOddPositions\bin\Debug\6-OddNumbersAtOddPositions.pdb
-c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\6-OddNumbersAtOddPositions\obj\Debug\6-OddNumbersAtOddPositions.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\6-OddNumbersAtOddPositions\obj\Debug\6-OddNumbersAtOddPositions.exe
-c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\6-OddNumbersAtOddPositions\obj\Debug\6-OddNumbersAtOddPositions.pdb

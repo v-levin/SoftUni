@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\5.StringCommander\bin\Debug\5.StringCommander.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\5.StringCommander\bin\Debug\5.StringCommander.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\5.StringCommander\bin\Debug\5.StringCommander.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\5.StringCommander\obj\Debug\5.StringCommander.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\5.StringCommander\obj\Debug\5.StringCommander.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\5.StringCommander\obj\Debug\5.StringCommander.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\5.StringCommander\obj\Debug\5.StringCommander.pdb

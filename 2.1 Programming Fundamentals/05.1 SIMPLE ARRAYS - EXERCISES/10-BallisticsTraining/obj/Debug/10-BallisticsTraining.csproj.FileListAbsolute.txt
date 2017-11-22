@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\10-BallisticsTraining\bin\Debug\10-BallisticsTraining.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\10-BallisticsTraining\bin\Debug\10-BallisticsTraining.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\10-BallisticsTraining\bin\Debug\10-BallisticsTraining.pdb
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\10-BallisticsTraining\obj\Debug\10-BallisticsTraining.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\10-BallisticsTraining\obj\Debug\10-BallisticsTraining.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\10-BallisticsTraining\obj\Debug\10-BallisticsTraining.pdb

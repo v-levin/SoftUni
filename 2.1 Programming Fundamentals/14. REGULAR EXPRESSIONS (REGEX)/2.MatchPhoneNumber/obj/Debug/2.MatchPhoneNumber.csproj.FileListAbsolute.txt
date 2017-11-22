@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\2.MatchPhoneNumber\bin\Debug\2.MatchPhoneNumber.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\2.MatchPhoneNumber\bin\Debug\2.MatchPhoneNumber.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\2.MatchPhoneNumber\bin\Debug\2.MatchPhoneNumber.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\2.MatchPhoneNumber\obj\Debug\2.MatchPhoneNumber.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\2.MatchPhoneNumber\obj\Debug\2.MatchPhoneNumber.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\2.MatchPhoneNumber\obj\Debug\2.MatchPhoneNumber.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\2.MatchPhoneNumber\obj\Debug\2.MatchPhoneNumber.pdb

@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-02-WorkHours\bin\Debug\18-March-02-WorkHours.exe.config
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-02-WorkHours\bin\Debug\18-March-02-WorkHours.exe
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-02-WorkHours\bin\Debug\18-March-02-WorkHours.pdb
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-02-WorkHours\obj\Debug\18-March-02-WorkHours.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-02-WorkHours\obj\Debug\18-March-02-WorkHours.exe
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-02-WorkHours\obj\Debug\18-March-02-WorkHours.pdb

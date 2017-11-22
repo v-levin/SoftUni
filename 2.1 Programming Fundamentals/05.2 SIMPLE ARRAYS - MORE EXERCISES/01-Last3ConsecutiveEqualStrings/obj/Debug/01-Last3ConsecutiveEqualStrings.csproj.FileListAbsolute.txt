@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\01-Last3ConsecutiveEqualStrings\bin\Debug\01-Last3ConsecutiveEqualStrings.exe.config
-c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\01-Last3ConsecutiveEqualStrings\bin\Debug\01-Last3ConsecutiveEqualStrings.exe
-c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\01-Last3ConsecutiveEqualStrings\bin\Debug\01-Last3ConsecutiveEqualStrings.pdb
-c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\01-Last3ConsecutiveEqualStrings\obj\Debug\01-Last3ConsecutiveEqualStrings.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\01-Last3ConsecutiveEqualStrings\obj\Debug\01-Last3ConsecutiveEqualStrings.exe
-c:\users\user\documents\visual studio 2017\Projects\MoreExercises-Arrays\01-Last3ConsecutiveEqualStrings\obj\Debug\01-Last3ConsecutiveEqualStrings.pdb

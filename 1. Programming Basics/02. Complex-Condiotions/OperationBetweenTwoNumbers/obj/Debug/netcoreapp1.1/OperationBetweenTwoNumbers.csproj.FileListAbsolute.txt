@@ -1,9 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OperationBetweenTwoNumbers\bin\Debug\netcoreapp1.1\OperationBetweenTwoNumbers.deps.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OperationBetweenTwoNumbers\bin\Debug\netcoreapp1.1\OperationBetweenTwoNumbers.runtimeconfig.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OperationBetweenTwoNumbers\bin\Debug\netcoreapp1.1\OperationBetweenTwoNumbers.runtimeconfig.dev.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OperationBetweenTwoNumbers\bin\Debug\netcoreapp1.1\OperationBetweenTwoNumbers.dll
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OperationBetweenTwoNumbers\bin\Debug\netcoreapp1.1\OperationBetweenTwoNumbers.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OperationBetweenTwoNumbers\obj\Debug\netcoreapp1.1\OperationBetweenTwoNumbers.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OperationBetweenTwoNumbers\obj\Debug\netcoreapp1.1\OperationBetweenTwoNumbers.AssemblyInfo.cs
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OperationBetweenTwoNumbers\obj\Debug\netcoreapp1.1\OperationBetweenTwoNumbers.dll
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OperationBetweenTwoNumbers\obj\Debug\netcoreapp1.1\OperationBetweenTwoNumbers.pdb

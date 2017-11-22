@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\9-Altitude\bin\Debug\9-Altitude.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\9-Altitude\bin\Debug\9-Altitude.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\9-Altitude\bin\Debug\9-Altitude.pdb
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\9-Altitude\obj\Debug\9-Altitude.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\9-Altitude\obj\Debug\9-Altitude.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\9-Altitude\obj\Debug\9-Altitude.pdb

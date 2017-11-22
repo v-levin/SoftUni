@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Exercises-Lists\6-StuckZipper\bin\Debug\6-StuckZipper.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Exercises-Lists\6-StuckZipper\bin\Debug\6-StuckZipper.exe
-C:\Users\User\documents\visual studio 2017\Projects\Exercises-Lists\6-StuckZipper\bin\Debug\6-StuckZipper.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Exercises-Lists\6-StuckZipper\obj\Debug\6-StuckZipper.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Exercises-Lists\6-StuckZipper\obj\Debug\6-StuckZipper.exe
-C:\Users\User\documents\visual studio 2017\Projects\Exercises-Lists\6-StuckZipper\obj\Debug\6-StuckZipper.pdb

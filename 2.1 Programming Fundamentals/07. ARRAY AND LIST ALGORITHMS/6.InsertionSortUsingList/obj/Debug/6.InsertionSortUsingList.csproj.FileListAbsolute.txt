@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\6.InsertionSortUsingList\bin\Debug\6.InsertionSortUsingList.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\6.InsertionSortUsingList\bin\Debug\6.InsertionSortUsingList.exe
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\6.InsertionSortUsingList\bin\Debug\6.InsertionSortUsingList.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\6.InsertionSortUsingList\obj\Debug\6.InsertionSortUsingList.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\6.InsertionSortUsingList\obj\Debug\6.InsertionSortUsingList.exe
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\6.InsertionSortUsingList\obj\Debug\6.InsertionSortUsingList.pdb

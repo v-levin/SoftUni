@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\4.ExamShopping\bin\Debug\4.ExamShopping.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\4.ExamShopping\bin\Debug\4.ExamShopping.exe
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\4.ExamShopping\bin\Debug\4.ExamShopping.pdb
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\4.ExamShopping\obj\Debug\4.ExamShopping.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\4.ExamShopping\obj\Debug\4.ExamShopping.exe
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\4.ExamShopping\obj\Debug\4.ExamShopping.pdb

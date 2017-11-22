@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Advanced Collections - Exercises\1.Wardrobe\bin\Debug\1.Wardrobe.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Advanced Collections - Exercises\1.Wardrobe\bin\Debug\1.Wardrobe.exe
-c:\users\user\documents\visual studio 2017\Projects\Advanced Collections - Exercises\1.Wardrobe\bin\Debug\1.Wardrobe.pdb
-c:\users\user\documents\visual studio 2017\Projects\Advanced Collections - Exercises\1.Wardrobe\obj\Debug\1.Wardrobe.exe
-c:\users\user\documents\visual studio 2017\Projects\Advanced Collections - Exercises\1.Wardrobe\obj\Debug\1.Wardrobe.pdb
-c:\users\user\documents\visual studio 2017\Projects\Advanced Collections - Exercises\1.Wardrobe\obj\Debug\1.Wardrobe.csprojResolveAssemblyReference.cache

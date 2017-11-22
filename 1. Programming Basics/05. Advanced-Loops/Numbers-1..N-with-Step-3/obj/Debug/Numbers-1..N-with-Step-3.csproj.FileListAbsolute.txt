@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\Numbers-1..N-with-Step-3\bin\Debug\Numbers_1._.N_with_Step_3.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\Numbers-1..N-with-Step-3\bin\Debug\Numbers_1._.N_with_Step_3.exe
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\Numbers-1..N-with-Step-3\bin\Debug\Numbers_1._.N_with_Step_3.pdb
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\Numbers-1..N-with-Step-3\obj\Debug\Numbers-1..N-with-Step-3.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\Numbers-1..N-with-Step-3\obj\Debug\Numbers_1._.N_with_Step_3.exe
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\Numbers-1..N-with-Step-3\obj\Debug\Numbers_1._.N_with_Step_3.pdb

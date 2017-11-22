@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\1.LetterRepetition\bin\Debug\1.LetterRepetition.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\1.LetterRepetition\bin\Debug\1.LetterRepetition.exe
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\1.LetterRepetition\bin\Debug\1.LetterRepetition.pdb
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\1.LetterRepetition\obj\Debug\1.LetterRepetition.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\1.LetterRepetition\obj\Debug\1.LetterRepetition.exe
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries-Exercises\1.LetterRepetition\obj\Debug\1.LetterRepetition.pdb

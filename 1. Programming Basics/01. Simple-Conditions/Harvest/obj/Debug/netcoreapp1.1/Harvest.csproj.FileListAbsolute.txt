@@ -1,8 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Harvest\bin\Debug\netcoreapp1.1\Harvest.deps.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Harvest\bin\Debug\netcoreapp1.1\Harvest.runtimeconfig.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Harvest\bin\Debug\netcoreapp1.1\Harvest.runtimeconfig.dev.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Harvest\bin\Debug\netcoreapp1.1\Harvest.dll
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Harvest\bin\Debug\netcoreapp1.1\Harvest.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Harvest\obj\Debug\netcoreapp1.1\Harvest.AssemblyInfo.cs
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Harvest\obj\Debug\netcoreapp1.1\Harvest.dll
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\Harvest\obj\Debug\netcoreapp1.1\Harvest.pdb

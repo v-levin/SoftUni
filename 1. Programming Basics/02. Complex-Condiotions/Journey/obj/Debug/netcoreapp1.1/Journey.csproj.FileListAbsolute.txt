@@ -1,9 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Journey\bin\Debug\netcoreapp1.1\Journey.deps.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Journey\bin\Debug\netcoreapp1.1\Journey.runtimeconfig.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Journey\bin\Debug\netcoreapp1.1\Journey.runtimeconfig.dev.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Journey\bin\Debug\netcoreapp1.1\Journey.dll
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Journey\bin\Debug\netcoreapp1.1\Journey.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Journey\obj\Debug\netcoreapp1.1\Journey.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Journey\obj\Debug\netcoreapp1.1\Journey.AssemblyInfo.cs
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Journey\obj\Debug\netcoreapp1.1\Journey.dll
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\Journey\obj\Debug\netcoreapp1.1\Journey.pdb

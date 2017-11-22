@@ -1,9 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\Projects\Simple-Conditions\MetricConverter\bin\Debug\netcoreapp1.1\MetricConverter.deps.json
-C:\Users\User\Documents\Visual Studio 2017\Projects\Simple-Conditions\MetricConverter\bin\Debug\netcoreapp1.1\MetricConverter.runtimeconfig.json
-C:\Users\User\Documents\Visual Studio 2017\Projects\Simple-Conditions\MetricConverter\bin\Debug\netcoreapp1.1\MetricConverter.runtimeconfig.dev.json
-C:\Users\User\Documents\Visual Studio 2017\Projects\Simple-Conditions\MetricConverter\bin\Debug\netcoreapp1.1\MetricConverter.dll
-C:\Users\User\Documents\Visual Studio 2017\Projects\Simple-Conditions\MetricConverter\bin\Debug\netcoreapp1.1\MetricConverter.pdb
-C:\Users\User\Documents\Visual Studio 2017\Projects\Simple-Conditions\MetricConverter\obj\Debug\netcoreapp1.1\MetricConverter.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\Projects\Simple-Conditions\MetricConverter\obj\Debug\netcoreapp1.1\MetricConverter.AssemblyInfo.cs
-C:\Users\User\Documents\Visual Studio 2017\Projects\Simple-Conditions\MetricConverter\obj\Debug\netcoreapp1.1\MetricConverter.dll
-C:\Users\User\Documents\Visual Studio 2017\Projects\Simple-Conditions\MetricConverter\obj\Debug\netcoreapp1.1\MetricConverter.pdb

@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-03-Vacation\bin\Debug\20-November-03-Vacation.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-03-Vacation\bin\Debug\20-November-03-Vacation.exe
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-03-Vacation\bin\Debug\20-November-03-Vacation.pdb
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-03-Vacation\obj\Debug\20-November-03-Vacation.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-03-Vacation\obj\Debug\20-November-03-Vacation.exe
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-03-Vacation\obj\Debug\20-November-03-Vacation.pdb

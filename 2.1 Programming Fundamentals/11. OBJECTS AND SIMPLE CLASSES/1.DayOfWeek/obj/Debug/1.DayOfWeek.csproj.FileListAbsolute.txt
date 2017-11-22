@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Objects and Classes\1.DayOfWeek\bin\Debug\1.DayOfWeek.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Objects and Classes\1.DayOfWeek\bin\Debug\1.DayOfWeek.exe
-c:\users\user\documents\visual studio 2017\Projects\Objects and Classes\1.DayOfWeek\bin\Debug\1.DayOfWeek.pdb
-c:\users\user\documents\visual studio 2017\Projects\Objects and Classes\1.DayOfWeek\obj\Debug\1.DayOfWeek.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Objects and Classes\1.DayOfWeek\obj\Debug\1.DayOfWeek.exe
-c:\users\user\documents\visual studio 2017\Projects\Objects and Classes\1.DayOfWeek\obj\Debug\1.DayOfWeek.pdb

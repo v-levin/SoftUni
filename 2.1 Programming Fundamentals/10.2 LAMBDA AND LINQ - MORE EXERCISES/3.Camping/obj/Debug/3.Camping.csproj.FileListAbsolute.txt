@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\3.Camping\obj\Debug\3.Camping.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\3.Camping\bin\Debug\3.Camping.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\3.Camping\bin\Debug\3.Camping.exe
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\3.Camping\bin\Debug\3.Camping.pdb
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\3.Camping\obj\Debug\3.Camping.exe
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\3.Camping\obj\Debug\3.Camping.pdb

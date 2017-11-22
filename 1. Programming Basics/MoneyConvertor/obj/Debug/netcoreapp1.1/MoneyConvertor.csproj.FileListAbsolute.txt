@@ -1,9 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\MoneyConvertor\bin\Debug\netcoreapp1.1\MoneyConvertor.deps.json
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\MoneyConvertor\bin\Debug\netcoreapp1.1\MoneyConvertor.runtimeconfig.json
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\MoneyConvertor\bin\Debug\netcoreapp1.1\MoneyConvertor.runtimeconfig.dev.json
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\MoneyConvertor\bin\Debug\netcoreapp1.1\MoneyConvertor.dll
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\MoneyConvertor\bin\Debug\netcoreapp1.1\MoneyConvertor.pdb
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\MoneyConvertor\obj\Debug\netcoreapp1.1\MoneyConvertor.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\MoneyConvertor\obj\Debug\netcoreapp1.1\MoneyConvertor.AssemblyInfo.cs
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\MoneyConvertor\obj\Debug\netcoreapp1.1\MoneyConvertor.dll
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\MoneyConvertor\obj\Debug\netcoreapp1.1\MoneyConvertor.pdb

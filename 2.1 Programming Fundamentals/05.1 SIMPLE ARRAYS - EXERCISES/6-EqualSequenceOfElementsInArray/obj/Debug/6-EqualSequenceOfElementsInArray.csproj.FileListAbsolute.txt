@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\6-EqualSequenceOfElementsInArray\bin\Debug\6-EqualSequenceOfElementsInArray.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\6-EqualSequenceOfElementsInArray\bin\Debug\6-EqualSequenceOfElementsInArray.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\6-EqualSequenceOfElementsInArray\bin\Debug\6-EqualSequenceOfElementsInArray.pdb
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\6-EqualSequenceOfElementsInArray\obj\Debug\6-EqualSequenceOfElementsInArray.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\6-EqualSequenceOfElementsInArray\obj\Debug\6-EqualSequenceOfElementsInArray.pdb

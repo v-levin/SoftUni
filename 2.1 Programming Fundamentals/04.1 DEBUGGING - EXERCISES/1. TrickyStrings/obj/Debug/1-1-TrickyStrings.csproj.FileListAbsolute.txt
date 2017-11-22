@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\DebuggingAndTroubleshooting\1-1-TrickyStrings\bin\Debug\1-1-TrickyStrings.exe.config
-c:\users\user\documents\visual studio 2017\Projects\DebuggingAndTroubleshooting\1-1-TrickyStrings\bin\Debug\1-1-TrickyStrings.exe
-c:\users\user\documents\visual studio 2017\Projects\DebuggingAndTroubleshooting\1-1-TrickyStrings\bin\Debug\1-1-TrickyStrings.pdb
-c:\users\user\documents\visual studio 2017\Projects\DebuggingAndTroubleshooting\1-1-TrickyStrings\obj\Debug\1-1-TrickyStrings.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\DebuggingAndTroubleshooting\1-1-TrickyStrings\obj\Debug\1-1-TrickyStrings.exe
-c:\users\user\documents\visual studio 2017\Projects\DebuggingAndTroubleshooting\1-1-TrickyStrings\obj\Debug\1-1-TrickyStrings.pdb

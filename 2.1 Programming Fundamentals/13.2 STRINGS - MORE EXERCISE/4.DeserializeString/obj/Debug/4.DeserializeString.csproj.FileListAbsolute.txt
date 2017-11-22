@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\4.DeserializeString\bin\Debug\4.DeserializeString.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\4.DeserializeString\bin\Debug\4.DeserializeString.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\4.DeserializeString\bin\Debug\4.DeserializeString.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\4.DeserializeString\obj\Debug\4.DeserializeString.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\4.DeserializeString\obj\Debug\4.DeserializeString.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\4.DeserializeString\obj\Debug\4.DeserializeString.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.2 STRINGS - MORE EXERCISE\4.DeserializeString\obj\Debug\4.DeserializeString.pdb

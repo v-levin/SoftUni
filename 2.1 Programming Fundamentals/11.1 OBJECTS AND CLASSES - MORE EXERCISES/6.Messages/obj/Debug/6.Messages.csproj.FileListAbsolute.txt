@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\6.Messages\bin\Debug\6.Messages.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\6.Messages\bin\Debug\6.Messages.exe
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\6.Messages\bin\Debug\6.Messages.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\6.Messages\obj\Debug\6.Messages.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\6.Messages\obj\Debug\6.Messages.exe
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\6.Messages\obj\Debug\6.Messages.pdb

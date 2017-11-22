@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Classes\3.BigFactorial\bin\Debug\3.BigFactorial.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Classes\3.BigFactorial\bin\Debug\3.BigFactorial.exe
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Classes\3.BigFactorial\bin\Debug\3.BigFactorial.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Classes\3.BigFactorial\obj\Debug\3.BigFactorial.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Classes\3.BigFactorial\obj\Debug\3.BigFactorial.exe
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Classes\3.BigFactorial\obj\Debug\3.BigFactorial.pdb

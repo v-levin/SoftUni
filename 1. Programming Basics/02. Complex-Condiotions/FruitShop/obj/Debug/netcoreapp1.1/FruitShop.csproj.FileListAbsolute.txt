@@ -1,9 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\FruitShop\bin\Debug\netcoreapp1.1\FruitShop.deps.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\FruitShop\bin\Debug\netcoreapp1.1\FruitShop.runtimeconfig.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\FruitShop\bin\Debug\netcoreapp1.1\FruitShop.runtimeconfig.dev.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\FruitShop\bin\Debug\netcoreapp1.1\FruitShop.dll
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\FruitShop\bin\Debug\netcoreapp1.1\FruitShop.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\FruitShop\obj\Debug\netcoreapp1.1\FruitShop.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\FruitShop\obj\Debug\netcoreapp1.1\FruitShop.AssemblyInfo.cs
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\FruitShop\obj\Debug\netcoreapp1.1\FruitShop.dll
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\FruitShop\obj\Debug\netcoreapp1.1\FruitShop.pdb

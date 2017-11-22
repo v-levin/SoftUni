@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\5.SoftUniMessages\bin\Debug\5.SoftUniMessages.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\5.SoftUniMessages\bin\Debug\5.SoftUniMessages.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\5.SoftUniMessages\bin\Debug\5.SoftUniMessages.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\5.SoftUniMessages\obj\Debug\5.SoftUniMessages.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\5.SoftUniMessages\obj\Debug\5.SoftUniMessages.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\5.SoftUniMessages\obj\Debug\5.SoftUniMessages.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\5.SoftUniMessages\obj\Debug\5.SoftUniMessages.pdb

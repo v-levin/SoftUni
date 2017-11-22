@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.exe.config
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.exe
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.pdb
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.exe
-c:\users\user\documents\visual studio 2017\Projects\DataTypesAndVariables-Lab\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.pdb

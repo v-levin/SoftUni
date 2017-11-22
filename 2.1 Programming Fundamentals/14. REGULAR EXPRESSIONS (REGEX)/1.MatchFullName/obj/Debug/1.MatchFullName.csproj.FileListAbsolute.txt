@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\1.MatchFullName\bin\Debug\1.MatchFullName.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\1.MatchFullName\bin\Debug\1.MatchFullName.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\1.MatchFullName\bin\Debug\1.MatchFullName.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\1.MatchFullName\obj\Debug\1.MatchFullName.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\1.MatchFullName\obj\Debug\1.MatchFullName.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\1.MatchFullName\obj\Debug\1.MatchFullName.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14. REGULAR EXPRESSIONS (REGEX)\1.MatchFullName\obj\Debug\1.MatchFullName.pdb

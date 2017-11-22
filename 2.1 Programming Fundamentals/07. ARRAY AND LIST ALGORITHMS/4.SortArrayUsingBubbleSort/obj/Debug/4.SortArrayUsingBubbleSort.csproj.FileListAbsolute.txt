@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\4.SortArrayUsingBubbleSort\bin\Debug\4.SortArrayUsingBubbleSort.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\4.SortArrayUsingBubbleSort\bin\Debug\4.SortArrayUsingBubbleSort.exe
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\4.SortArrayUsingBubbleSort\bin\Debug\4.SortArrayUsingBubbleSort.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\4.SortArrayUsingBubbleSort\obj\Debug\4.SortArrayUsingBubbleSort.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\4.SortArrayUsingBubbleSort\obj\Debug\4.SortArrayUsingBubbleSort.exe
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms\4.SortArrayUsingBubbleSort\obj\Debug\4.SortArrayUsingBubbleSort.pdb

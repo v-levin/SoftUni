@@ -1,5 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-02-Pets\bin\Debug\20-November-02-Pets.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-02-Pets\bin\Debug\20-November-02-Pets.exe
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-02-Pets\bin\Debug\20-November-02-Pets.pdb
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-02-Pets\obj\Debug\20-November-02-Pets.exe
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-02-Pets\obj\Debug\20-November-02-Pets.pdb

@@ -1,5 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\TrainingLab\bin\Debug\TrainingLab.exe.config
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\TrainingLab\bin\Debug\TrainingLab.exe
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\TrainingLab\bin\Debug\TrainingLab.pdb
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\TrainingLab\obj\Debug\TrainingLab.exe
-C:\Users\User\Documents\Visual Studio 2017\Projects\SoftUni Programming Basics\TrainingLab\obj\Debug\TrainingLab.pdb

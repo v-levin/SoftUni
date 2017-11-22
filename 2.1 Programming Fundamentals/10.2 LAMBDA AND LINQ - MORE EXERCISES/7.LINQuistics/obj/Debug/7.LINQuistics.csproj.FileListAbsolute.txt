@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\7.LINQuistics\bin\Debug\7.LINQuistics.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\7.LINQuistics\bin\Debug\7.LINQuistics.exe
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\7.LINQuistics\bin\Debug\7.LINQuistics.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\7.LINQuistics\obj\Debug\7.LINQuistics.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\7.LINQuistics\obj\Debug\7.LINQuistics.exe
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\7.LINQuistics\obj\Debug\7.LINQuistics.pdb

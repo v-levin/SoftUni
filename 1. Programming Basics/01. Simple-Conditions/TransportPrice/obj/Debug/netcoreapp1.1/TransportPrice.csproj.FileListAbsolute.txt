@@ -1,9 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TransportPrice\bin\Debug\netcoreapp1.1\TransportPrice.deps.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TransportPrice\bin\Debug\netcoreapp1.1\TransportPrice.runtimeconfig.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TransportPrice\bin\Debug\netcoreapp1.1\TransportPrice.runtimeconfig.dev.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TransportPrice\bin\Debug\netcoreapp1.1\TransportPrice.dll
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TransportPrice\bin\Debug\netcoreapp1.1\TransportPrice.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TransportPrice\obj\Debug\netcoreapp1.1\TransportPrice.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TransportPrice\obj\Debug\netcoreapp1.1\TransportPrice.AssemblyInfo.cs
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TransportPrice\obj\Debug\netcoreapp1.1\TransportPrice.dll
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\TransportPrice\obj\Debug\netcoreapp1.1\TransportPrice.pdb

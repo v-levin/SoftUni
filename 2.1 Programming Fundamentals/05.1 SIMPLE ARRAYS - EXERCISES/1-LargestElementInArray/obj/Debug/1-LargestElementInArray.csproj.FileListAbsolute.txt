@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\1-LargestElementInArray\bin\Debug\1-LargestElementInArray.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\1-LargestElementInArray\bin\Debug\1-LargestElementInArray.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\1-LargestElementInArray\bin\Debug\1-LargestElementInArray.pdb
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\1-LargestElementInArray\obj\Debug\1-LargestElementInArray.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\1-LargestElementInArray\obj\Debug\1-LargestElementInArray.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\1-LargestElementInArray\obj\Debug\1-LargestElementInArray.pdb

@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\8-ArraySymmetry\bin\Debug\8-ArraySymmetry.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\8-ArraySymmetry\bin\Debug\8-ArraySymmetry.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\8-ArraySymmetry\bin\Debug\8-ArraySymmetry.pdb
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\8-ArraySymmetry\obj\Debug\8-ArraySymmetry.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\8-ArraySymmetry\obj\Debug\8-ArraySymmetry.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\8-ArraySymmetry\obj\Debug\8-ArraySymmetry.pdb

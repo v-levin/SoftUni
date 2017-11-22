@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\5.DecodeRadioFrequencies\bin\Debug\5.DecodeRadioFrequencies.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\5.DecodeRadioFrequencies\bin\Debug\5.DecodeRadioFrequencies.exe
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\5.DecodeRadioFrequencies\bin\Debug\5.DecodeRadioFrequencies.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\5.DecodeRadioFrequencies\obj\Debug\5.DecodeRadioFrequencies.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\5.DecodeRadioFrequencies\obj\Debug\5.DecodeRadioFrequencies.exe
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\5.DecodeRadioFrequencies\obj\Debug\5.DecodeRadioFrequencies.pdb

@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\ChristmasTree\bin\Debug\ChristmasTree.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\ChristmasTree\bin\Debug\ChristmasTree.exe
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\ChristmasTree\bin\Debug\ChristmasTree.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\ChristmasTree\obj\Debug\ChristmasTree.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\ChristmasTree\obj\Debug\ChristmasTree.exe
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\ChristmasTree\obj\Debug\ChristmasTree.pdb

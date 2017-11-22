@@ -1,5 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-06-Battles\bin\Debug\20-November-06-Battles.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-06-Battles\bin\Debug\20-November-06-Battles.exe
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-06-Battles\bin\Debug\20-November-06-Battles.pdb
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-06-Battles\obj\Debug\20-November-06-Battles.exe
-C:\Users\User\documents\visual studio 2017\Projects\ExamsPractice\20-November-06-Battles\obj\Debug\20-November-06-Battles.pdb

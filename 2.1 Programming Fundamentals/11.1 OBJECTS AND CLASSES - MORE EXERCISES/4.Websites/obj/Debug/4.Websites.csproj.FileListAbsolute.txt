@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\4.Websites\bin\Debug\4.Websites.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\4.Websites\bin\Debug\4.Websites.exe
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\4.Websites\bin\Debug\4.Websites.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\4.Websites\obj\Debug\4.Websites.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\4.Websites\obj\Debug\4.Websites.exe
-C:\Users\User\documents\visual studio 2017\Projects\Objects and Simple Classes - Exercises\4.Websites\obj\Debug\4.Websites.pdb

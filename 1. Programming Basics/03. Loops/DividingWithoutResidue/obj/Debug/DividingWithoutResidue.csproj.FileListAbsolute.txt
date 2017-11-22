@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Loops\DividingWithoutResidue\bin\Debug\DividingWithoutResidue.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Loops\DividingWithoutResidue\bin\Debug\DividingWithoutResidue.exe
-C:\Users\User\documents\visual studio 2017\Projects\Loops\DividingWithoutResidue\bin\Debug\DividingWithoutResidue.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Loops\DividingWithoutResidue\obj\Debug\DividingWithoutResidue.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Loops\DividingWithoutResidue\obj\Debug\DividingWithoutResidue.exe
-C:\Users\User\documents\visual studio 2017\Projects\Loops\DividingWithoutResidue\obj\Debug\DividingWithoutResidue.pdb

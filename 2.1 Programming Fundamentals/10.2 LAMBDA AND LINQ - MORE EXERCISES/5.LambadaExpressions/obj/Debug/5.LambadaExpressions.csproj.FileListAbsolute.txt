@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\5.LambadaExpressions\bin\Debug\5.LambadaExpressions.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\5.LambadaExpressions\bin\Debug\5.LambadaExpressions.exe
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\5.LambadaExpressions\bin\Debug\5.LambadaExpressions.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\5.LambadaExpressions\obj\Debug\5.LambadaExpressions.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\5.LambadaExpressions\obj\Debug\5.LambadaExpressions.exe
-C:\Users\User\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\5.LambadaExpressions\obj\Debug\5.LambadaExpressions.pdb

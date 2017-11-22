@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\4-CountOccurrencesOfLargerNumbersInArray\bin\Debug\4-CountOccurrencesOfLargerNumbersInArray.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\4-CountOccurrencesOfLargerNumbersInArray\bin\Debug\4-CountOccurrencesOfLargerNumbersInArray.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\4-CountOccurrencesOfLargerNumbersInArray\bin\Debug\4-CountOccurrencesOfLargerNumbersInArray.pdb
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\4-CountOccurrencesOfLargerNumbersInArray\obj\Debug\4-CountOccurrencesOfLargerNumbersInArray.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\4-CountOccurrencesOfLargerNumbersInArray\obj\Debug\4-CountOccurrencesOfLargerNumbersInArray.pdb

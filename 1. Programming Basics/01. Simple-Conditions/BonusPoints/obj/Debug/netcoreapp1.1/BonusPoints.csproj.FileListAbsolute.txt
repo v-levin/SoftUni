@@ -1,9 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Simple-Conditions\BonusPoints\bin\Debug\netcoreapp1.1\BonusPoints.deps.json
-c:\users\user\documents\visual studio 2017\Projects\Simple-Conditions\BonusPoints\bin\Debug\netcoreapp1.1\BonusPoints.runtimeconfig.json
-c:\users\user\documents\visual studio 2017\Projects\Simple-Conditions\BonusPoints\bin\Debug\netcoreapp1.1\BonusPoints.runtimeconfig.dev.json
-c:\users\user\documents\visual studio 2017\Projects\Simple-Conditions\BonusPoints\bin\Debug\netcoreapp1.1\BonusPoints.dll
-c:\users\user\documents\visual studio 2017\Projects\Simple-Conditions\BonusPoints\bin\Debug\netcoreapp1.1\BonusPoints.pdb
-c:\users\user\documents\visual studio 2017\Projects\Simple-Conditions\BonusPoints\obj\Debug\netcoreapp1.1\BonusPoints.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Simple-Conditions\BonusPoints\obj\Debug\netcoreapp1.1\BonusPoints.AssemblyInfo.cs
-c:\users\user\documents\visual studio 2017\Projects\Simple-Conditions\BonusPoints\obj\Debug\netcoreapp1.1\BonusPoints.dll
-c:\users\user\documents\visual studio 2017\Projects\Simple-Conditions\BonusPoints\obj\Debug\netcoreapp1.1\BonusPoints.pdb

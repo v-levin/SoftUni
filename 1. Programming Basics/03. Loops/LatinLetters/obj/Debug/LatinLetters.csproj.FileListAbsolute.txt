@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Loops\LatinLetters\bin\Debug\LatinLetters.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Loops\LatinLetters\bin\Debug\LatinLetters.exe
-C:\Users\User\documents\visual studio 2017\Projects\Loops\LatinLetters\bin\Debug\LatinLetters.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Loops\LatinLetters\obj\Debug\LatinLetters.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Loops\LatinLetters\obj\Debug\LatinLetters.exe
-C:\Users\User\documents\visual studio 2017\Projects\Loops\LatinLetters\obj\Debug\LatinLetters.pdb

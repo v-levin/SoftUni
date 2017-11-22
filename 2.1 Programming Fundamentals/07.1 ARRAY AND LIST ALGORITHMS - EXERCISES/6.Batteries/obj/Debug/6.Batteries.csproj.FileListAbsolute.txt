@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\6.Batteries\bin\Debug\6.Batteries.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\6.Batteries\bin\Debug\6.Batteries.exe
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\6.Batteries\bin\Debug\6.Batteries.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\6.Batteries\obj\Debug\6.Batteries.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\6.Batteries\obj\Debug\6.Batteries.exe
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms - Exercises\6.Batteries\obj\Debug\6.Batteries.pdb

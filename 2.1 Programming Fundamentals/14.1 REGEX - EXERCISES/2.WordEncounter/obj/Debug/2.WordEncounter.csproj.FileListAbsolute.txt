@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\2.WordEncounter\bin\Debug\2.WordEncounter.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\2.WordEncounter\bin\Debug\2.WordEncounter.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\2.WordEncounter\bin\Debug\2.WordEncounter.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\2.WordEncounter\obj\Debug\2.WordEncounter.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\2.WordEncounter\obj\Debug\2.WordEncounter.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\2.WordEncounter\obj\Debug\2.WordEncounter.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\14.1 REGEX - EXERCISES\2.WordEncounter\obj\Debug\2.WordEncounter.pdb

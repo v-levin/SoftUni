@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-05-SoftUniLogo\bin\Debug\18-March-05-SoftUniLogo.exe.config
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-05-SoftUniLogo\bin\Debug\18-March-05-SoftUniLogo.exe
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-05-SoftUniLogo\bin\Debug\18-March-05-SoftUniLogo.pdb
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-05-SoftUniLogo\obj\Debug\18-March-05-SoftUniLogo.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-05-SoftUniLogo\obj\Debug\18-March-05-SoftUniLogo.exe
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-05-SoftUniLogo\obj\Debug\18-March-05-SoftUniLogo.pdb

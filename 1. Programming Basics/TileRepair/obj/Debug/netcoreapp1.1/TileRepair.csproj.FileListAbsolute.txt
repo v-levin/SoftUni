@@ -1,9 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\TileRepair\bin\Debug\netcoreapp1.1\TileRepair.deps.json
-C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\TileRepair\bin\Debug\netcoreapp1.1\TileRepair.runtimeconfig.json
-C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\TileRepair\bin\Debug\netcoreapp1.1\TileRepair.runtimeconfig.dev.json
-C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\TileRepair\bin\Debug\netcoreapp1.1\TileRepair.dll
-C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\TileRepair\bin\Debug\netcoreapp1.1\TileRepair.pdb
-C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\TileRepair\obj\Debug\netcoreapp1.1\TileRepair.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\TileRepair\obj\Debug\netcoreapp1.1\TileRepair.AssemblyInfo.cs
-C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\TileRepair\obj\Debug\netcoreapp1.1\TileRepair.dll
-C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\TileRepair\obj\Debug\netcoreapp1.1\TileRepair.pdb

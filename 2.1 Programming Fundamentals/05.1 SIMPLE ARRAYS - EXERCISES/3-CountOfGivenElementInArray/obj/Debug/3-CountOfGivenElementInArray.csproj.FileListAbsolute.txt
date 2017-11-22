@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\3-CountOfGivenElementInArray\bin\Debug\3-CountOfGivenElementInArray.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\3-CountOfGivenElementInArray\bin\Debug\3-CountOfGivenElementInArray.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\3-CountOfGivenElementInArray\bin\Debug\3-CountOfGivenElementInArray.pdb
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\3-CountOfGivenElementInArray\obj\Debug\3-CountOfGivenElementInArray.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Arrays-SimpleArrayProcessing\3-CountOfGivenElementInArray\obj\Debug\3-CountOfGivenElementInArray.pdb

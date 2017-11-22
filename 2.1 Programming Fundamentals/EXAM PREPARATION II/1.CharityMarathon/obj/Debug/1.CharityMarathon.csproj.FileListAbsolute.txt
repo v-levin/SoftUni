@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\1.CharityMarathon\bin\Debug\1.CharityMarathon.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\1.CharityMarathon\bin\Debug\1.CharityMarathon.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\1.CharityMarathon\bin\Debug\1.CharityMarathon.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\1.CharityMarathon\obj\Debug\1.CharityMarathon.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\1.CharityMarathon\obj\Debug\1.CharityMarathon.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\1.CharityMarathon\obj\Debug\1.CharityMarathon.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION II\1.CharityMarathon\obj\Debug\1.CharityMarathon.pdb

@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\3.EnduranceRally\bin\Debug\3.EnduranceRally.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\3.EnduranceRally\bin\Debug\3.EnduranceRally.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\3.EnduranceRally\bin\Debug\3.EnduranceRally.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\3.EnduranceRally\obj\Debug\3.EnduranceRally.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\3.EnduranceRally\obj\Debug\3.EnduranceRally.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\3.EnduranceRally\obj\Debug\3.EnduranceRally.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\3.EnduranceRally\obj\Debug\3.EnduranceRally.pdb

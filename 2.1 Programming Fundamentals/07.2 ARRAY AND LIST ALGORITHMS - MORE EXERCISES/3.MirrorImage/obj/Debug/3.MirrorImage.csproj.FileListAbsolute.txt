@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\3.MirrorImage\bin\Debug\3.MirrorImage.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\3.MirrorImage\bin\Debug\3.MirrorImage.exe
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\3.MirrorImage\bin\Debug\3.MirrorImage.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\3.MirrorImage\obj\Debug\3.MirrorImage.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\3.MirrorImage\obj\Debug\3.MirrorImage.exe
-C:\Users\User\documents\visual studio 2017\Projects\Array and List Algorithms-More Exercises\3.MirrorImage\obj\Debug\3.MirrorImage.pdb

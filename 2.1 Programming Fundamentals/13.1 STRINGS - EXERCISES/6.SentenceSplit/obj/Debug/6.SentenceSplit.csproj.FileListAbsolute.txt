@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\6.SentenceSplit\bin\Debug\6.SentenceSplit.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\6.SentenceSplit\bin\Debug\6.SentenceSplit.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\6.SentenceSplit\bin\Debug\6.SentenceSplit.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\6.SentenceSplit\obj\Debug\6.SentenceSplit.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\6.SentenceSplit\obj\Debug\6.SentenceSplit.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\6.SentenceSplit\obj\Debug\6.SentenceSplit.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\6.SentenceSplit\obj\Debug\6.SentenceSplit.pdb

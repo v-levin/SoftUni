@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries\2.OddOccurrences\bin\Debug\2.OddOccurrences.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries\2.OddOccurrences\bin\Debug\2.OddOccurrences.exe
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries\2.OddOccurrences\bin\Debug\2.OddOccurrences.pdb
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries\2.OddOccurrences\obj\Debug\2.OddOccurrences.exe
-c:\users\user\documents\visual studio 2017\Projects\Dictionaries\2.OddOccurrences\obj\Debug\2.OddOccurrences.pdb

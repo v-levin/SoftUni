@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\2.SoftUniKaraoke\bin\Debug\2.SoftUniKaraoke.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\2.SoftUniKaraoke\bin\Debug\2.SoftUniKaraoke.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\2.SoftUniKaraoke\bin\Debug\2.SoftUniKaraoke.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\2.SoftUniKaraoke\obj\Debug\2.SoftUniKaraoke.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\2.SoftUniKaraoke\obj\Debug\2.SoftUniKaraoke.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\2.SoftUniKaraoke\obj\Debug\2.SoftUniKaraoke.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\2.SoftUniKaraoke\obj\Debug\2.SoftUniKaraoke.pdb

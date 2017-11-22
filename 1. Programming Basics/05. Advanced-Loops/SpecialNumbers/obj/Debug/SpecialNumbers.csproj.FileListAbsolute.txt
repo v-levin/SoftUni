@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\SpecialNumbers\bin\Debug\SpecialNumbers.exe
-C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\SpecialNumbers\obj\Debug\SpecialNumbers.exe
-C:\Users\User\documents\visual studio 2017\Projects\Advanced-Loops\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

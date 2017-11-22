@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\5-NoteStatistics\obj\Debug\5-NoteStatistics.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\5-NoteStatistics\bin\Debug\5-NoteStatistics.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\5-NoteStatistics\bin\Debug\5-NoteStatistics.exe
-C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\5-NoteStatistics\bin\Debug\5-NoteStatistics.pdb
-C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\5-NoteStatistics\obj\Debug\5-NoteStatistics.exe
-C:\Users\User\documents\visual studio 2017\Projects\MoreExercises-Lists\5-NoteStatistics\obj\Debug\5-NoteStatistics.pdb

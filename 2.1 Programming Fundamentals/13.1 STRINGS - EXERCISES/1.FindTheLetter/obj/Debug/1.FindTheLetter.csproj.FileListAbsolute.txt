@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\1.FindTheLetter\bin\Debug\1.FindTheLetter.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\1.FindTheLetter\bin\Debug\1.FindTheLetter.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\1.FindTheLetter\bin\Debug\1.FindTheLetter.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\1.FindTheLetter\obj\Debug\1.FindTheLetter.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\1.FindTheLetter\obj\Debug\1.FindTheLetter.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\1.FindTheLetter\obj\Debug\1.FindTheLetter.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\13.1 STRINGS - EXERCISES\1.FindTheLetter\obj\Debug\1.FindTheLetter.pdb

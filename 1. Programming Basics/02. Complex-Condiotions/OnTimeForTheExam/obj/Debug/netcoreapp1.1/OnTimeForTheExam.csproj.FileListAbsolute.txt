@@ -1,9 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OnTimeForTheExam\bin\Debug\netcoreapp1.1\OnTimeForTheExam.deps.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OnTimeForTheExam\bin\Debug\netcoreapp1.1\OnTimeForTheExam.runtimeconfig.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OnTimeForTheExam\bin\Debug\netcoreapp1.1\OnTimeForTheExam.runtimeconfig.dev.json
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OnTimeForTheExam\bin\Debug\netcoreapp1.1\OnTimeForTheExam.dll
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OnTimeForTheExam\bin\Debug\netcoreapp1.1\OnTimeForTheExam.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OnTimeForTheExam\obj\Debug\netcoreapp1.1\OnTimeForTheExam.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OnTimeForTheExam\obj\Debug\netcoreapp1.1\OnTimeForTheExam.AssemblyInfo.cs
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OnTimeForTheExam\obj\Debug\netcoreapp1.1\OnTimeForTheExam.dll
-C:\Users\User\documents\visual studio 2017\Projects\Complex-Condiotions\OnTimeForTheExam\obj\Debug\netcoreapp1.1\OnTimeForTheExam.pdb

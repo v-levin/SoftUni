@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
-C:\Users\User\documents\visual studio 2017\Projects\Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
-C:\Users\User\documents\visual studio 2017\Projects\Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

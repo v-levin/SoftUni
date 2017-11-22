@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION III\3.RageQuit\bin\Debug\3.RageQuit.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION III\3.RageQuit\bin\Debug\3.RageQuit.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION III\3.RageQuit\bin\Debug\3.RageQuit.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION III\3.RageQuit\obj\Debug\3.RageQuit.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION III\3.RageQuit\obj\Debug\3.RageQuit.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION III\3.RageQuit\obj\Debug\3.RageQuit.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION III\3.RageQuit\obj\Debug\3.RageQuit.pdb

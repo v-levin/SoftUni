@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\1.FilterExtensions\bin\Debug\1.FilterExtensions.exe.config
-C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\1.FilterExtensions\bin\Debug\1.FilterExtensions.exe
-C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\1.FilterExtensions\bin\Debug\1.FilterExtensions.pdb
-C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\1.FilterExtensions\obj\Debug\1.FilterExtensions.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\1.FilterExtensions\obj\Debug\1.FilterExtensions.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\1.FilterExtensions\obj\Debug\1.FilterExtensions.exe
-C:\Users\User\Documents\Visual Studio 2017\Projects\FILES AND EXCEPTIONS - EXERCISES\1.FilterExtensions\obj\Debug\1.FilterExtensions.pdb

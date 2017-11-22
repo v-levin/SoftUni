@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\4-RotateArrayOfStrings\bin\Debug\4-RotateArrayOfStrings.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\4-RotateArrayOfStrings\bin\Debug\4-RotateArrayOfStrings.exe
-c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\4-RotateArrayOfStrings\bin\Debug\4-RotateArrayOfStrings.pdb
-c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\4-RotateArrayOfStrings\obj\Debug\4-RotateArrayOfStrings.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\4-RotateArrayOfStrings\obj\Debug\4-RotateArrayOfStrings.exe
-c:\users\user\documents\visual studio 2017\Projects\Arrays-SimpleArrayProcessing\4-RotateArrayOfStrings\obj\Debug\4-RotateArrayOfStrings.pdb

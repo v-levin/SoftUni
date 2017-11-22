@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\2.CitiesByContinentAndCountry\bin\Debug\2.CitiesByContinentAndCountry.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\2.CitiesByContinentAndCountry\bin\Debug\2.CitiesByContinentAndCountry.exe
-C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\2.CitiesByContinentAndCountry\bin\Debug\2.CitiesByContinentAndCountry.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\2.CitiesByContinentAndCountry\obj\Debug\2.CitiesByContinentAndCountry.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\2.CitiesByContinentAndCountry\obj\Debug\2.CitiesByContinentAndCountry.exe
-C:\Users\User\documents\visual studio 2017\Projects\Advanced Collections\2.CitiesByContinentAndCountry\obj\Debug\2.CitiesByContinentAndCountry.pdb

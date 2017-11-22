@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\RhombusOfStars\bin\Debug\RhombusOfStars.exe
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\RhombusOfStars\obj\Debug\RhombusOfStars.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\RhombusOfStars\obj\Debug\RhombusOfStars.exe
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

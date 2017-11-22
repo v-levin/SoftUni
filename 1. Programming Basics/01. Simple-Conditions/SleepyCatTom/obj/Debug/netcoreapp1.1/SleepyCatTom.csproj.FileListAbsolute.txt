@@ -1,9 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\SleepyCatTom\bin\Debug\netcoreapp1.1\SleepyCatTom.deps.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\SleepyCatTom\bin\Debug\netcoreapp1.1\SleepyCatTom.runtimeconfig.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\SleepyCatTom\bin\Debug\netcoreapp1.1\SleepyCatTom.runtimeconfig.dev.json
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\SleepyCatTom\bin\Debug\netcoreapp1.1\SleepyCatTom.dll
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\SleepyCatTom\bin\Debug\netcoreapp1.1\SleepyCatTom.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\SleepyCatTom\obj\Debug\netcoreapp1.1\SleepyCatTom.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\SleepyCatTom\obj\Debug\netcoreapp1.1\SleepyCatTom.AssemblyInfo.cs
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\SleepyCatTom\obj\Debug\netcoreapp1.1\SleepyCatTom.dll
-C:\Users\User\documents\visual studio 2017\Projects\Simple-Conditions\SleepyCatTom\obj\Debug\netcoreapp1.1\SleepyCatTom.pdb

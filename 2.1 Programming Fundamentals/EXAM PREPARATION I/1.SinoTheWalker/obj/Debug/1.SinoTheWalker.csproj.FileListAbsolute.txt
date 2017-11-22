@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\1.SinoTheWalker\bin\Debug\1.SinoTheWalker.exe.config
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\1.SinoTheWalker\bin\Debug\1.SinoTheWalker.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\1.SinoTheWalker\bin\Debug\1.SinoTheWalker.pdb
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\1.SinoTheWalker\obj\Debug\1.SinoTheWalker.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\1.SinoTheWalker\obj\Debug\1.SinoTheWalker.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\1.SinoTheWalker\obj\Debug\1.SinoTheWalker.exe
-C:\Users\User\Documents\Visual Studio 2017\SoftUni\2.1 Programming Fundamentals\EXAM PREPARATION I\1.SinoTheWalker\obj\Debug\1.SinoTheWalker.pdb

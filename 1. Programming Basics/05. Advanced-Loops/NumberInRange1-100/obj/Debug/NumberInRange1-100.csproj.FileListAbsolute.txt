@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\NumberInRange1-100\bin\Debug\NumberInRange1-100.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\NumberInRange1-100\bin\Debug\NumberInRange1-100.exe
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\NumberInRange1-100\bin\Debug\NumberInRange1-100.pdb
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\NumberInRange1-100\obj\Debug\NumberInRange1-100.exe
-c:\users\user\documents\visual studio 2017\Projects\Advanced-Loops\NumberInRange1-100\obj\Debug\NumberInRange1-100.pdb

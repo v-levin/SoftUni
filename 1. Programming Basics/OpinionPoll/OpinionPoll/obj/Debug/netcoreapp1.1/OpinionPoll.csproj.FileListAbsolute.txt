@@ -1,9 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\OpinionPoll\OpinionPoll\bin\Debug\netcoreapp1.1\OpinionPoll.deps.json
-c:\users\user\documents\visual studio 2017\Projects\OpinionPoll\OpinionPoll\bin\Debug\netcoreapp1.1\OpinionPoll.runtimeconfig.json
-c:\users\user\documents\visual studio 2017\Projects\OpinionPoll\OpinionPoll\bin\Debug\netcoreapp1.1\OpinionPoll.runtimeconfig.dev.json
-c:\users\user\documents\visual studio 2017\Projects\OpinionPoll\OpinionPoll\bin\Debug\netcoreapp1.1\OpinionPoll.dll
-c:\users\user\documents\visual studio 2017\Projects\OpinionPoll\OpinionPoll\bin\Debug\netcoreapp1.1\OpinionPoll.pdb
-c:\users\user\documents\visual studio 2017\Projects\OpinionPoll\OpinionPoll\obj\Debug\netcoreapp1.1\OpinionPoll.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\OpinionPoll\OpinionPoll\obj\Debug\netcoreapp1.1\OpinionPoll.AssemblyInfo.cs
-c:\users\user\documents\visual studio 2017\Projects\OpinionPoll\OpinionPoll\obj\Debug\netcoreapp1.1\OpinionPoll.dll
-c:\users\user\documents\visual studio 2017\Projects\OpinionPoll\OpinionPoll\obj\Debug\netcoreapp1.1\OpinionPoll.pdb

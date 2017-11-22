@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\4.MostValuedCustomer\bin\Debug\4.MostValuedCustomer.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\4.MostValuedCustomer\bin\Debug\4.MostValuedCustomer.exe
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\4.MostValuedCustomer\bin\Debug\4.MostValuedCustomer.pdb
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\4.MostValuedCustomer\obj\Debug\4.MostValuedCustomer.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\4.MostValuedCustomer\obj\Debug\4.MostValuedCustomer.exe
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ - More Exercises\4.MostValuedCustomer\obj\Debug\4.MostValuedCustomer.pdb

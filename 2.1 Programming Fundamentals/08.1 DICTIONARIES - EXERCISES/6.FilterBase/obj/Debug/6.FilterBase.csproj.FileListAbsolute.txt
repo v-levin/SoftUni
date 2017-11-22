@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Dictionaries-Exercises\6.FilterBase\bin\Debug\6.FilterBase.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Dictionaries-Exercises\6.FilterBase\bin\Debug\6.FilterBase.exe
-C:\Users\User\documents\visual studio 2017\Projects\Dictionaries-Exercises\6.FilterBase\bin\Debug\6.FilterBase.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Dictionaries-Exercises\6.FilterBase\obj\Debug\6.FilterBase.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Dictionaries-Exercises\6.FilterBase\obj\Debug\6.FilterBase.exe
-C:\Users\User\documents\visual studio 2017\Projects\Dictionaries-Exercises\6.FilterBase\obj\Debug\6.FilterBase.pdb

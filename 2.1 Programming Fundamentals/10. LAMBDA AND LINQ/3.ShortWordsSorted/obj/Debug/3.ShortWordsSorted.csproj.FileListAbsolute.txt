@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\3.ShortWordsSorted\bin\Debug\3.ShortWordsSorted.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\3.ShortWordsSorted\bin\Debug\3.ShortWordsSorted.exe
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\3.ShortWordsSorted\bin\Debug\3.ShortWordsSorted.pdb
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\3.ShortWordsSorted\obj\Debug\3.ShortWordsSorted.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\3.ShortWordsSorted\obj\Debug\3.ShortWordsSorted.exe
-c:\users\user\documents\visual studio 2017\Projects\Lambda and LINQ\3.ShortWordsSorted\obj\Debug\3.ShortWordsSorted.pdb

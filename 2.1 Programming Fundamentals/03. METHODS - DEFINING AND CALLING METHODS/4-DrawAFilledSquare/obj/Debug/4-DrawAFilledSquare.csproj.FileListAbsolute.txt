@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\4-DrawAFilledSquare\bin\Debug\4-DrawAFilledSquare.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\4-DrawAFilledSquare\bin\Debug\4-DrawAFilledSquare.exe
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\4-DrawAFilledSquare\bin\Debug\4-DrawAFilledSquare.pdb
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\4-DrawAFilledSquare\obj\Debug\4-DrawAFilledSquare.exe
-c:\users\user\documents\visual studio 2017\Projects\Methods-DefiningAndCallingMethods\4-DrawAFilledSquare\obj\Debug\4-DrawAFilledSquare.pdb

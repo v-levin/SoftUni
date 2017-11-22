@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-03-CarToGo\bin\Debug\18-March-03-CarToGo.exe.config
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-03-CarToGo\bin\Debug\18-March-03-CarToGo.exe
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-03-CarToGo\bin\Debug\18-March-03-CarToGo.pdb
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-03-CarToGo\obj\Debug\18-March-03-CarToGo.exe
-c:\users\user\documents\visual studio 2017\Projects\ExamsPractice\18-March-03-CarToGo\obj\Debug\18-March-03-CarToGo.pdb

@@ -1,6 +1,0 @@
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\Rectangle-of-NxN-Stars\bin\Debug\Rectangle-of-NxN-Stars.exe.config
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\Rectangle-of-NxN-Stars\bin\Debug\Rectangle-of-NxN-Stars.exe
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\Rectangle-of-NxN-Stars\bin\Debug\Rectangle-of-NxN-Stars.pdb
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\Rectangle-of-NxN-Stars\obj\Debug\Rectangle-of-NxN-Stars.csprojResolveAssemblyReference.cache
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\Rectangle-of-NxN-Stars\obj\Debug\Rectangle-of-NxN-Stars.exe
-C:\Users\User\documents\visual studio 2017\Projects\Draw-with-Loops\Rectangle-of-NxN-Stars\obj\Debug\Rectangle-of-NxN-Stars.pdb

@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\DebuggingAndTroubleshooting\1-2-TriangleFormations\bin\Debug\1-2-TriangleFormations.exe.config
-c:\users\user\documents\visual studio 2017\Projects\DebuggingAndTroubleshooting\1-2-TriangleFormations\bin\Debug\1-2-TriangleFormations.exe
-c:\users\user\documents\visual studio 2017\Projects\DebuggingAndTroubleshooting\1-2-TriangleFormations\bin\Debug\1-2-TriangleFormations.pdb
-c:\users\user\documents\visual studio 2017\Projects\DebuggingAndTroubleshooting\1-2-TriangleFormations\obj\Debug\1-2-TriangleFormations.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\DebuggingAndTroubleshooting\1-2-TriangleFormations\obj\Debug\1-2-TriangleFormations.exe
-c:\users\user\documents\visual studio 2017\Projects\DebuggingAndTroubleshooting\1-2-TriangleFormations\obj\Debug\1-2-TriangleFormations.pdb

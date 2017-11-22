@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\3-EqualSumAfterExtraction\bin\Debug\3-EqualSumAfterExtraction.exe.config
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\3-EqualSumAfterExtraction\bin\Debug\3-EqualSumAfterExtraction.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\3-EqualSumAfterExtraction\bin\Debug\3-EqualSumAfterExtraction.pdb
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\3-EqualSumAfterExtraction\obj\Debug\3-EqualSumAfterExtraction.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\3-EqualSumAfterExtraction\obj\Debug\3-EqualSumAfterExtraction.exe
-c:\users\user\documents\visual studio 2017\Projects\Exercises-Lists\3-EqualSumAfterExtraction\obj\Debug\3-EqualSumAfterExtraction.pdb

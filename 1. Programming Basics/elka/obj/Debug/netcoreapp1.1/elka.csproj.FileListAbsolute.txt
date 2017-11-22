@@ -1,9 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\elka\bin\Debug\netcoreapp1.1\elka.deps.json
-c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\elka\bin\Debug\netcoreapp1.1\elka.runtimeconfig.json
-c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\elka\bin\Debug\netcoreapp1.1\elka.runtimeconfig.dev.json
-c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\elka\bin\Debug\netcoreapp1.1\elka.dll
-c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\elka\bin\Debug\netcoreapp1.1\elka.pdb
-c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\elka\obj\Debug\netcoreapp1.1\elka.AssemblyInfo.cs
-c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\elka\obj\Debug\netcoreapp1.1\elka.dll
-c:\users\user\documents\visual studio 2017\Projects\SoftUni Programming Basics\elka\obj\Debug\netcoreapp1.1\elka.pdb
-C:\Users\User\documents\visual studio 2017\Projects\SoftUni Programming Basics\elka\obj\Debug\netcoreapp1.1\elka.csprojResolveAssemblyReference.cache
