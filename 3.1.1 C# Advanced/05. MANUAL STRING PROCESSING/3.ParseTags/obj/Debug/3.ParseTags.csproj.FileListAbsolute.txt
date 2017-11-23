@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\3.ParseTags\bin\Debug\3.ParseTags.exe.config
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\3.ParseTags\bin\Debug\3.ParseTags.exe
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\3.ParseTags\bin\Debug\3.ParseTags.pdb
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\3.ParseTags\obj\Debug\3.ParseTags.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\3.ParseTags\obj\Debug\3.ParseTags.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\3.ParseTags\obj\Debug\3.ParseTags.exe
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\3.ParseTags\obj\Debug\3.ParseTags.pdb
