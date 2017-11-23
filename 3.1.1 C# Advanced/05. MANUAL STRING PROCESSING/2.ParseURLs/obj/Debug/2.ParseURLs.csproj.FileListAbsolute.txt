@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\2.ParseURLs\bin\Debug\2.ParseURLs.exe.config
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\2.ParseURLs\bin\Debug\2.ParseURLs.exe
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\2.ParseURLs\bin\Debug\2.ParseURLs.pdb
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\2.ParseURLs\obj\Debug\2.ParseURLs.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\2.ParseURLs\obj\Debug\2.ParseURLs.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\2.ParseURLs\obj\Debug\2.ParseURLs.exe
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\2.ParseURLs\obj\Debug\2.ParseURLs.pdb
