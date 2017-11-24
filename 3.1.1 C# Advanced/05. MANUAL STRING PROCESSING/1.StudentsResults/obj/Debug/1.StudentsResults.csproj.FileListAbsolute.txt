@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\1.StudentsResults\bin\Debug\1.StudentsResults.exe.config
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\1.StudentsResults\bin\Debug\1.StudentsResults.exe
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\1.StudentsResults\bin\Debug\1.StudentsResults.pdb
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\1.StudentsResults\obj\Debug\1.StudentsResults.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\1.StudentsResults\obj\Debug\1.StudentsResults.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\1.StudentsResults\obj\Debug\1.StudentsResults.exe
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\1.StudentsResults\obj\Debug\1.StudentsResults.pdb

@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\4.SpecialWords\bin\Debug\4.SpecialWords.exe.config
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\4.SpecialWords\bin\Debug\4.SpecialWords.exe
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\4.SpecialWords\bin\Debug\4.SpecialWords.pdb
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\4.SpecialWords\obj\Debug\4.SpecialWords.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\4.SpecialWords\obj\Debug\4.SpecialWords.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\4.SpecialWords\obj\Debug\4.SpecialWords.exe
-D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\4.SpecialWords\obj\Debug\4.SpecialWords.pdb
