@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\5.ConcatenateStrings\bin\Debug\5.ConcatenateStrings.exe.config
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\5.ConcatenateStrings\bin\Debug\5.ConcatenateStrings.exe
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\5.ConcatenateStrings\bin\Debug\5.ConcatenateStrings.pdb
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\5.ConcatenateStrings\obj\Debug\5.ConcatenateStrings.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\5.ConcatenateStrings\obj\Debug\5.ConcatenateStrings.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\5.ConcatenateStrings\obj\Debug\5.ConcatenateStrings.exe
+D:\SoftUni\3.1.1 C# Advanced\05. MANUAL STRING PROCESSING\5.ConcatenateStrings\obj\Debug\5.ConcatenateStrings.pdb

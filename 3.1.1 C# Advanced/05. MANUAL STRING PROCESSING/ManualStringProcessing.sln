@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.ParseTags", "3.ParseTags\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.SpecialWords", "4.SpecialWords\4.SpecialWords.csproj", "{F8A46D9C-5A7E-4A1A-A9E9-868750522984}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.ConcatenateStrings", "5.ConcatenateStrings\5.ConcatenateStrings.csproj", "{85B6A614-60FD-4F74-AEFF-7CF9667AE8CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F8A46D9C-5A7E-4A1A-A9E9-868750522984}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8A46D9C-5A7E-4A1A-A9E9-868750522984}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8A46D9C-5A7E-4A1A-A9E9-868750522984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B6A614-60FD-4F74-AEFF-7CF9667AE8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B6A614-60FD-4F74-AEFF-7CF9667AE8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B6A614-60FD-4F74-AEFF-7CF9667AE8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B6A614-60FD-4F74-AEFF-7CF9667AE8CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
