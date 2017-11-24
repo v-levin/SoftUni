@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1ACE9965-264C-44AE-BCA7-B7A83764435F}</ProjectGuid>
+    <ProjectGuid>{B41DE8E5-E7D5-4EFE-B081-7DCD53ADDB27}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_04.ConvertFrombase10TobaseN</RootNamespace>
-    <AssemblyName>04.ConvertFrombase10TobaseN</AssemblyName>
+    <RootNamespace>_05.ConvertFromBaseNToBase10</RootNamespace>
+    <AssemblyName>05.ConvertFromBaseNToBase10</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConvertFrombase10TobaseN.cs" />
+    <Compile Include="ConvertFromBaseNToBase10.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
