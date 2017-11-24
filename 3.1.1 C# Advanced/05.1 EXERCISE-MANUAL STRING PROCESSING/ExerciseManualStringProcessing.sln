@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.StringLength", "02.Strin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FormattingNumbers", "03.FormattingNumbers\03.FormattingNumbers.csproj", "{B4C58E73-8F61-4116-9885-42B5E6AE6508}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ConvertFrombase10TobaseN", "04.ConvertFrombase10TobaseN\04.ConvertFrombase10TobaseN.csproj", "{1ACE9965-264C-44AE-BCA7-B7A83764435F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B4C58E73-8F61-4116-9885-42B5E6AE6508}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4C58E73-8F61-4116-9885-42B5E6AE6508}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4C58E73-8F61-4116-9885-42B5E6AE6508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ACE9965-264C-44AE-BCA7-B7A83764435F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACE9965-264C-44AE-BCA7-B7A83764435F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACE9965-264C-44AE-BCA7-B7A83764435F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACE9965-264C-44AE-BCA7-B7A83764435F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
