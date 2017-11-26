@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ConvertFromBaseNToBase10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CountSubstringOccurrences", "06.CountSubstringOccurrences\06.CountSubstringOccurrences.csproj", "{3FEB6A7F-DD1D-4853-8F64-C8D8BAD6255D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SumBignumbers", "07.SumBignumbers\07.SumBignumbers.csproj", "{17FDD5C9-871A-453F-A81B-1EBA4C7F70A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{3FEB6A7F-DD1D-4853-8F64-C8D8BAD6255D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FEB6A7F-DD1D-4853-8F64-C8D8BAD6255D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FEB6A7F-DD1D-4853-8F64-C8D8BAD6255D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FDD5C9-871A-453F-A81B-1EBA4C7F70A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FDD5C9-871A-453F-A81B-1EBA4C7F70A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FDD5C9-871A-453F-A81B-1EBA4C7F70A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FDD5C9-871A-453F-A81B-1EBA4C7F70A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
