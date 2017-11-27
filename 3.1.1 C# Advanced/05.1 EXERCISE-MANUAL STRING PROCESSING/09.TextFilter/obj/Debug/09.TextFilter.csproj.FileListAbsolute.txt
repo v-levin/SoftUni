@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\09.TextFilter\bin\Debug\09.TextFilter.exe.config
+D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\09.TextFilter\bin\Debug\09.TextFilter.exe
+D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\09.TextFilter\bin\Debug\09.TextFilter.pdb
+D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\09.TextFilter\obj\Debug\09.TextFilter.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\09.TextFilter\obj\Debug\09.TextFilter.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\09.TextFilter\obj\Debug\09.TextFilter.exe
+D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\09.TextFilter\obj\Debug\09.TextFilter.pdb
