@@ -16,19 +16,19 @@ namespace _08.MultiplyBigNumber
                 return;
             }
 
-            var numerInMind = 0;
+            var numberInMind = 0;
             var result = new StringBuilder();
             for (int i = firstNum.Length - 1; i >= 0; i--)
             {
-                var product = int.Parse(firstNum[i].ToString()) * secondNum + numerInMind;
+                var product = int.Parse(firstNum[i].ToString()) * secondNum + numberInMind;
                 var reminder = product % 10;
-                numerInMind = product / 10;
+                numberInMind = product / 10;
 
                 result.Insert(0, reminder);
 
-                if (i == 0 && numerInMind != 0)
+                if (i == 0 && numberInMind != 0)
                 {
-                    result.Insert(0, numerInMind);
+                    result.Insert(0, numberInMind);
                 }
             }
 
