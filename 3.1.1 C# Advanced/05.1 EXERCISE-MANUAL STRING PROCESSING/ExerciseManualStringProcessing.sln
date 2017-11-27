@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.TextFilter", "09.TextFil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.UnicodeCharacters", "10.UnicodeCharacters\10.UnicodeCharacters.csproj", "{8D0F3863-42FF-4834-A2C8-85BD7F8B8300}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Palindromes", "11.Palindromes\11.Palindromes.csproj", "{804F1B61-66C9-46CA-9325-63362F6B1FE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{8D0F3863-42FF-4834-A2C8-85BD7F8B8300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D0F3863-42FF-4834-A2C8-85BD7F8B8300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D0F3863-42FF-4834-A2C8-85BD7F8B8300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804F1B61-66C9-46CA-9325-63362F6B1FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804F1B61-66C9-46CA-9325-63362F6B1FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804F1B61-66C9-46CA-9325-63362F6B1FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804F1B61-66C9-46CA-9325-63362F6B1FE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
