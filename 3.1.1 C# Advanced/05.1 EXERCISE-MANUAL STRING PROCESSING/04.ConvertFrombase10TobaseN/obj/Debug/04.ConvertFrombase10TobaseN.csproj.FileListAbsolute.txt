@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\04.ConvertFrombase10TobaseN\bin\Debug\04.ConvertFrombase10TobaseN.exe.config
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\04.ConvertFrombase10TobaseN\bin\Debug\04.ConvertFrombase10TobaseN.exe
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\04.ConvertFrombase10TobaseN\bin\Debug\04.ConvertFrombase10TobaseN.pdb
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\04.ConvertFrombase10TobaseN\obj\Debug\04.ConvertFrombase10TobaseN.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\04.ConvertFrombase10TobaseN\obj\Debug\04.ConvertFrombase10TobaseN.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\04.ConvertFrombase10TobaseN\obj\Debug\04.ConvertFrombase10TobaseN.exe
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\04.ConvertFrombase10TobaseN\obj\Debug\04.ConvertFrombase10TobaseN.pdb

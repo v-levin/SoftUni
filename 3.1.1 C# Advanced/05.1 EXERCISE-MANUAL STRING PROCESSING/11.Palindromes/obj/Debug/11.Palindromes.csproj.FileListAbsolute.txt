@@ -1,6 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\11.Palindromes\bin\Debug\11.Palindromes.exe.config
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\11.Palindromes\bin\Debug\11.Palindromes.exe
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\11.Palindromes\bin\Debug\11.Palindromes.pdb
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\11.Palindromes\obj\Debug\11.Palindromes.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\11.Palindromes\obj\Debug\11.Palindromes.exe
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\11.Palindromes\obj\Debug\11.Palindromes.pdb

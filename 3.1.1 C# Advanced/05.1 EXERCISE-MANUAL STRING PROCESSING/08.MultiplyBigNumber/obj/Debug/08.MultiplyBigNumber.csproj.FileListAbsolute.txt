@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\08.MultiplyBigNumber\bin\Debug\08.MultiplyBigNumber.exe.config
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\08.MultiplyBigNumber\bin\Debug\08.MultiplyBigNumber.exe
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\08.MultiplyBigNumber\bin\Debug\08.MultiplyBigNumber.pdb
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\08.MultiplyBigNumber\obj\Debug\08.MultiplyBigNumber.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\08.MultiplyBigNumber\obj\Debug\08.MultiplyBigNumber.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\08.MultiplyBigNumber\obj\Debug\08.MultiplyBigNumber.exe
-D:\SoftUni\3.1.1 C# Advanced\05.1 EXERCISE-MANUAL STRING PROCESSING\08.MultiplyBigNumber\obj\Debug\08.MultiplyBigNumber.pdb
