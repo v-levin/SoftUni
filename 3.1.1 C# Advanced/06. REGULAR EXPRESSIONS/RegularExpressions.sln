@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.ValidUsernames", "6.Valid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.ValidTime", "7.ValidTime\7.ValidTime.csproj", "{AD7CE6AD-81F8-4350-BBA4-A90F757AA4D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.ExtractQuotations", "8.ExtractQuotations\8.ExtractQuotations.csproj", "{981EDE99-A3A5-493E-BB4F-FAF86E81E6D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{AD7CE6AD-81F8-4350-BBA4-A90F757AA4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD7CE6AD-81F8-4350-BBA4-A90F757AA4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD7CE6AD-81F8-4350-BBA4-A90F757AA4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981EDE99-A3A5-493E-BB4F-FAF86E81E6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981EDE99-A3A5-493E-BB4F-FAF86E81E6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981EDE99-A3A5-493E-BB4F-FAF86E81E6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981EDE99-A3A5-493E-BB4F-FAF86E81E6D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
