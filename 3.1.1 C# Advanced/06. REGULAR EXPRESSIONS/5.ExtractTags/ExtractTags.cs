@@ -10,10 +10,10 @@ namespace _5.ExtractTags
             var input = Console.ReadLine();
 
             var pattern = @"<.+?>";
+            var regex = new Regex(pattern);
 
             while (input != "END")
             {
-                var regex = new Regex(pattern);
                 var matches = regex.Matches(input);
 
                 foreach (var match in matches)
