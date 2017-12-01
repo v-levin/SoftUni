@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SeriesOfLetters", "03.Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ReplaceATag", "04.ReplaceATag\04.ReplaceATag.csproj", "{21AF6910-247F-4EA2-B135-8EC98AB5375F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ExtractEmails", "05.ExtractEmails\05.ExtractEmails.csproj", "{EC81A534-AFF1-40AD-BA2E-CFD850D51167}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{21AF6910-247F-4EA2-B135-8EC98AB5375F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21AF6910-247F-4EA2-B135-8EC98AB5375F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21AF6910-247F-4EA2-B135-8EC98AB5375F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC81A534-AFF1-40AD-BA2E-CFD850D51167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC81A534-AFF1-40AD-BA2E-CFD850D51167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC81A534-AFF1-40AD-BA2E-CFD850D51167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC81A534-AFF1-40AD-BA2E-CFD850D51167}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
