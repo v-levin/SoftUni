@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E9A2C6D2-662D-4138-BFC0-0F1A5CC4FB21}</ProjectGuid>
+    <ProjectGuid>{2FDD8049-BF10-4D42-BEEA-25BDA20A27F4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_08.ExtractHyperlinks</RootNamespace>
-    <AssemblyName>08.ExtractHyperlinks</AssemblyName>
+    <RootNamespace>_09.QueryMess</RootNamespace>
+    <AssemblyName>09.QueryMess</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ExtractHyperlinks.cs" />
+    <Compile Include="QueryMess.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
