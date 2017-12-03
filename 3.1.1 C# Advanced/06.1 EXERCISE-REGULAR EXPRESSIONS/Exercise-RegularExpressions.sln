@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.ExtractHyperlinks", "08.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.QueryMess", "09.QueryMess\09.QueryMess.csproj", "{2FDD8049-BF10-4D42-BEEA-25BDA20A27F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.UseYourChainsBuddy", "10.UseYourChainsBuddy\10.UseYourChainsBuddy.csproj", "{F2E4CAED-0259-431F-83A7-574985795888}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{2FDD8049-BF10-4D42-BEEA-25BDA20A27F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FDD8049-BF10-4D42-BEEA-25BDA20A27F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FDD8049-BF10-4D42-BEEA-25BDA20A27F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E4CAED-0259-431F-83A7-574985795888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E4CAED-0259-431F-83A7-574985795888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E4CAED-0259-431F-83A7-574985795888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E4CAED-0259-431F-83A7-574985795888}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
