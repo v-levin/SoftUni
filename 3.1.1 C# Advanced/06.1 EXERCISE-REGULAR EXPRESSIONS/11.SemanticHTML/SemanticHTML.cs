@@ -11,10 +11,10 @@ namespace _11.SemanticHTML
             var inputLine = Console.ReadLine();
 
             var openDivPattern = @"<(div\s+)(?:.+?|)((?:\s*id|\s*class)\s*=\s*['""](main|header|nav|article|section|aside|footer)['""])";
-            var closeDivPattenr = @"</div>\s*<!--\s*(\w+)\s*-->";
+            var closeDivPattern = @"</div>\s*<!--\s*(\w+)\s*-->";
 
             var openDivRegex = new Regex(openDivPattern);
-            var closeDivRegex = new Regex(closeDivPattenr);
+            var closeDivRegex = new Regex(closeDivPattern);
 
             var result = new StringBuilder();
 
