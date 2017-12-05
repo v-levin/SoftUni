@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.QueryMess", "09.QueryMes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.UseYourChainsBuddy", "10.UseYourChainsBuddy\10.UseYourChainsBuddy.csproj", "{F2E4CAED-0259-431F-83A7-574985795888}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.SemanticHTML", "11.SemanticHTML\11.SemanticHTML.csproj", "{B7C96A34-542B-4D88-B0A6-B0719868F05A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{F2E4CAED-0259-431F-83A7-574985795888}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2E4CAED-0259-431F-83A7-574985795888}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2E4CAED-0259-431F-83A7-574985795888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C96A34-542B-4D88-B0A6-B0719868F05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C96A34-542B-4D88-B0A6-B0719868F05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C96A34-542B-4D88-B0A6-B0719868F05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C96A34-542B-4D88-B0A6-B0719868F05A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
