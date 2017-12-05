@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.1 C# Advanced\06.2 EXERCISE-OVERALL STRING PROCESSING\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+D:\SoftUni\3.1.1 C# Advanced\06.2 EXERCISE-OVERALL STRING PROCESSING\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+D:\SoftUni\3.1.1 C# Advanced\06.2 EXERCISE-OVERALL STRING PROCESSING\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
+D:\SoftUni\3.1.1 C# Advanced\06.2 EXERCISE-OVERALL STRING PROCESSING\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\06.2 EXERCISE-OVERALL STRING PROCESSING\BashSoft\BashSoft\obj\Debug\BashSoft.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\06.2 EXERCISE-OVERALL STRING PROCESSING\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+D:\SoftUni\3.1.1 C# Advanced\06.2 EXERCISE-OVERALL STRING PROCESSING\BashSoft\BashSoft\obj\Debug\BashSoft.pdb

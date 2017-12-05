@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IO\CommandInterpreter.cs" />
     <Compile Include="IO\InputReader.cs" />
     <Compile Include="Static data\SessionData.cs" />
     <Compile Include="Static data\ExceptionMessages.cs" />
