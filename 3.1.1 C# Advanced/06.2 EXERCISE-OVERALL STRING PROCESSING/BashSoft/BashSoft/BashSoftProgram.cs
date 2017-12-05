@@ -41,7 +41,7 @@ namespace BashSoft
             //IOManager.ChangeCurrentDirectoryRelative("..");
 
             // Lab 5 Test
-            //InputReader.StartReadingCommands();
+            InputReader.StartReadingCommands();
         }
     }
 }
