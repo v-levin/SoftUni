@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{61E7E100-742D-4652-85D3-871BD2D9ACE8}</ProjectGuid>
+    <ProjectGuid>{35AA20D4-59B5-420B-AA94-B99C390D124C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_09.ListOfPredicates</RootNamespace>
-    <AssemblyName>09.ListOfPredicates</AssemblyName>
+    <RootNamespace>_10.PredicateParty</RootNamespace>
+    <AssemblyName>10.PredicateParty</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ListOfPredicates.cs" />
+    <Compile Include="PredicateParty.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
