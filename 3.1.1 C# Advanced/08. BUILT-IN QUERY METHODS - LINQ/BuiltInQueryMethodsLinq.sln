@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.TakeTwo", "1.TakeTwo\1.TakeTwo.csproj", "{7FD882D2-1349-421B-B4ED-C1B1D2FDCD20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.UpperStrings", "2.UpperStrings\2.UpperStrings.csproj", "{5C5F0CA2-EB1E-4E17-AC6F-40DE91D5BCEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7FD882D2-1349-421B-B4ED-C1B1D2FDCD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FD882D2-1349-421B-B4ED-C1B1D2FDCD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FD882D2-1349-421B-B4ED-C1B1D2FDCD20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5F0CA2-EB1E-4E17-AC6F-40DE91D5BCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5F0CA2-EB1E-4E17-AC6F-40DE91D5BCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5F0CA2-EB1E-4E17-AC6F-40DE91D5BCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5F0CA2-EB1E-4E17-AC6F-40DE91D5BCEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
