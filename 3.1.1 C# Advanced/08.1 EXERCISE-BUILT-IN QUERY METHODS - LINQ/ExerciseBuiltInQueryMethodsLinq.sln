@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.WeakStudents", "08.WeakS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.StudentsEnrolledIn2014Or2015", "09.StudentsEnrolledIn2014Or2015\09.StudentsEnrolledIn2014Or2015.csproj", "{1ED47E52-1474-4786-B78B-3784BA2FDF11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.GroupByGroup", "10.GroupByGroup\10.GroupByGroup.csproj", "{8C4AA0E0-0F5D-4A1A-9FEF-480481E163FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1ED47E52-1474-4786-B78B-3784BA2FDF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ED47E52-1474-4786-B78B-3784BA2FDF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ED47E52-1474-4786-B78B-3784BA2FDF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4AA0E0-0F5D-4A1A-9FEF-480481E163FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4AA0E0-0F5D-4A1A-9FEF-480481E163FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4AA0E0-0F5D-4A1A-9FEF-480481E163FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4AA0E0-0F5D-4A1A-9FEF-480481E163FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
