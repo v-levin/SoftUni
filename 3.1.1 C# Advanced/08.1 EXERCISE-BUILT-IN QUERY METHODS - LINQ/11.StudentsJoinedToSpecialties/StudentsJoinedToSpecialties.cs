@@ -65,15 +65,16 @@ namespace _11.StudentsJoinedToSpecialties
                 input = Console.ReadLine();
             }
 
-            var result = from sp in specialties
-                         join st in students on sp.facultyNumber equals st.facultyNumber
-                         orderby st.studentName
-                         select new { st.studentName, st.facultyNumber, sp.specialtyName };
-
-            foreach (var student in result)
-            {
-                Console.WriteLine($"{student.studentName} {student.facultyNumber} {student.specialtyName}");
-            }
+            specialties.Join(students, sp => sp.facultyNumber, st => st.facultyNumber,
+                (sp, st) => new
+                {
+                    Name = st.studentName,
+                    FacNumber = st.facultyNumber,
+                    Spec = sp.specialtyName
+                })
+                .OrderBy(s => s.Name)
+                .ToList()
+                .ForEach(s => Console.WriteLine($"{s.Name} {s.FacNumber} {s.Spec}"));
         }
     }
 }

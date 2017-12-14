@@ -1,0 +1,6 @@
+D:\SoftUni\3.1.1 C# Advanced\08.1 EXERCISE-BUILT-IN QUERY METHODS - LINQ\11.StudentsJoinedToSpecialties\bin\Debug\11.StudentsJoinedToSpecialties.exe.config
+D:\SoftUni\3.1.1 C# Advanced\08.1 EXERCISE-BUILT-IN QUERY METHODS - LINQ\11.StudentsJoinedToSpecialties\bin\Debug\11.StudentsJoinedToSpecialties.exe
+D:\SoftUni\3.1.1 C# Advanced\08.1 EXERCISE-BUILT-IN QUERY METHODS - LINQ\11.StudentsJoinedToSpecialties\bin\Debug\11.StudentsJoinedToSpecialties.pdb
+D:\SoftUni\3.1.1 C# Advanced\08.1 EXERCISE-BUILT-IN QUERY METHODS - LINQ\11.StudentsJoinedToSpecialties\obj\Debug\11.StudentsJoinedToSpecialties.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\08.1 EXERCISE-BUILT-IN QUERY METHODS - LINQ\11.StudentsJoinedToSpecialties\obj\Debug\11.StudentsJoinedToSpecialties.exe
+D:\SoftUni\3.1.1 C# Advanced\08.1 EXERCISE-BUILT-IN QUERY METHODS - LINQ\11.StudentsJoinedToSpecialties\obj\Debug\11.StudentsJoinedToSpecialties.pdb
