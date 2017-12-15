@@ -8,14 +8,28 @@ namespace BashSoft
 {
     class RepositoryFilters
     {
-        public static void FilterAndTake(Dictionary<string, List<int>> wantedData, string wantedFilter, int sstudentsToTake)
+        public static void FilterAndTake(Dictionary<string, List<int>> wantedData, string wantedFilter, int studentsToTake)
         {
 
         }
 
-        private static void FilterAndTake(Dictionary<string, Predicate<double>> givenFilter, int sstudentsToTake)
+        private static void FilterAndTake(Dictionary<string, List<int>> wantedData, Predicate<double> givenFilter, int studentsToTake)
         {
+            int counterForPrinted = 0;
+            foreach (var userName_Points in wantedData)
+            {
+                if (counterForPrinted == studentsToTake)
+                {
+                    break;
+                }
 
+                double averageMark = Average(userName_Points.Value);
+                if (givenFilter(averageMark))
+                {
+                    OutputWriter.PrintStudent(userName_Points);
+                    counterForPrinted++;
+                }
+            }
         }
 
         private static bool ExcellentFilter(double mark)
