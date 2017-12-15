@@ -56,7 +56,44 @@ namespace BashSoft
         private static Dictionary<string, List<int>> GetSortedStudents(Dictionary<string, List<int>> studentsWanted, int takeCount,
             Func<KeyValuePair<string, List<int>>, KeyValuePair<string, List<int>>, int> Comparison)
         {
-            return null;
+            int valuesTaken = 0;
+            Dictionary<string, List<int>> studentsSorted = new Dictionary<string, List<int>>();
+            KeyValuePair<string, List<int>> nextInOrder = new KeyValuePair<string, List<int>>();
+            bool isSorted = false;
+
+            while (valuesTaken < takeCount)
+            {
+                isSorted = true;
+                foreach (var studentWithScore in studentsWanted)
+                {
+                    if (!string.IsNullOrEmpty(nextInOrder.Key))
+                    {
+                        int comparisonResult = Comparison(studentWithScore, nextInOrder);
+                        if (comparisonResult >= 0 && !studentsSorted.ContainsKey(studentWithScore.Key))
+                        {
+                            nextInOrder = studentWithScore;
+                            isSorted = false;
+                        }
+                    }
+                    else
+                    {
+                        if (!studentsSorted.ContainsKey(studentWithScore.Key))
+                        {
+                            nextInOrder = studentWithScore;
+                            isSorted = false;
+                        }
+                    }
+                }
+
+                if (!isSorted)
+                {
+                    studentsSorted.Add(nextInOrder.Key, nextInOrder.Value);
+                    valuesTaken++;
+                    nextInOrder = new KeyValuePair<string, List<int>>();
+                }
+            }
+
+            return studentsSorted;
         }
     }
 }
