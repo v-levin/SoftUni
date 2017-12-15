@@ -52,5 +52,11 @@ namespace BashSoft
 
             return totalOdFirstMarks.CompareTo(totalOfSecondMarks);
         }
+
+        private static Dictionary<string, List<int>> GetSortedStudents(Dictionary<string, List<int>> studentsWanted, int takeCount,
+            Func<KeyValuePair<string, List<int>>, KeyValuePair<string, List<int>>, int> Comparison)
+        {
+            return null;
+        }
     }
 }
