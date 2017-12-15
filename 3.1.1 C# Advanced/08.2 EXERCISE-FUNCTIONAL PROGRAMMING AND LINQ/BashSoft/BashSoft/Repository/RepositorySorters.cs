@@ -10,7 +10,19 @@ namespace BashSoft
     {
         public static void OrderAndTake(Dictionary<string, List<int>> wantedData, string comparison, int studentsToTake)
         {
-
+            comparison = comparison.ToLower();
+            if (comparison == "ascending")
+            {
+                OrderAndTake(wantedData, studentsToTake, CompareInOrder);
+            }
+            else if (comparison == "descending")
+            {
+                OrderAndTake(wantedData, studentsToTake, CompareDescendingOrder);
+            }
+            else
+            {
+                OutputWriter.DisplayException(ExceptionMessages.InvalidComparisonQuery);
+            }
         }
 
         private static void OrderAndTake(Dictionary<string, List<int>> wantedData, int studentsToTake, 
