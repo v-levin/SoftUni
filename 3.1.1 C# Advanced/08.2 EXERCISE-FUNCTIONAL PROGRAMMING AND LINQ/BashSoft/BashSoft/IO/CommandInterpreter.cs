@@ -40,10 +40,10 @@ namespace BashSoft
                     TryGetHelp(input, data);
                     break;
                 case "filter":
-                    //TODO: implement after functionality is implemented
+                    TryFilterAndTake(input, data);
                     break;
                 case "order":
-                    //TODO: implement after functionality is implemented
+                    TryOrderAndTake(input, data);
                     break;
                 case "decOrder":
                     //TODO: implement after functionality is implemented
@@ -208,6 +208,96 @@ namespace BashSoft
         private static void DisplayInvalidCommandMessage(string input)
         {
             OutputWriter.DisplayException($"The command '{input}' is invalid");
+        }
+
+        private static void TryFilterAndTake(string input, string[] data)
+        {
+            if (data.Length == 5)
+            {
+                string courseName = data[1];
+                string filter = data[2].ToLower();
+                string takeCommand = data[3].ToLower();
+                string takeQuantity = data[4].ToLower();
+
+                TryParseParametersForFilterAndTake(takeCommand, takeQuantity, courseName, filter);
+            }
+            else
+            {
+                DisplayInvalidCommandMessage(input);
+            }
+        }
+
+        private static void TryParseParametersForFilterAndTake(string takeCommand, string takeQuantity, string courseName, string filter)
+        {
+            if (takeCommand == "take")
+            {
+                if (takeQuantity == "all")
+                {
+                    StudentsRepository.FilterAndTake(courseName, filter);
+                }
+                else
+                {
+                    int studentsToTake;
+                    bool hasParsed = int.TryParse(takeQuantity, out studentsToTake);
+                    if (hasParsed)
+                    {
+                        StudentsRepository.FilterAndTake(courseName, filter, studentsToTake);
+                    }
+                    else
+                    {
+                        OutputWriter.DisplayException(ExceptionMessages.InvalidTakeQuantityParameter);
+                    }
+                }
+            }
+            else
+            {
+                OutputWriter.DisplayException(ExceptionMessages.InvalidTakeQuantityParameter);
+            }
+        }
+
+        private static void TryOrderAndTake(string input, string[] data)
+        {
+            if (data.Length == 5)
+            {
+                string courseName = data[1];
+                string filter = data[2].ToLower();
+                string takeCommand = data[3].ToLower();
+                string takeQuantity = data[4].ToLower();
+
+                TryParseParametersForOrderAndTake(takeCommand, takeQuantity, courseName, filter);
+            }
+            else
+            {
+                DisplayInvalidCommandMessage(input);
+            }
+        }
+
+        private static void TryParseParametersForOrderAndTake(string takeCommand, string takeQuantity, string courseName, string filter)
+        {
+            if (takeCommand == "take")
+            {
+                if (takeQuantity == "all")
+                {
+                    StudentsRepository.OrderAndTake(courseName, filter);
+                }
+                else
+                {
+                    int studentsToTake;
+                    bool hasParsed = int.TryParse(takeQuantity, out studentsToTake);
+                    if (hasParsed)
+                    {
+                        StudentsRepository.OrderAndTake(courseName, filter, studentsToTake);
+                    }
+                    else
+                    {
+                        OutputWriter.DisplayException(ExceptionMessages.InvalidTakeQuantityParameter);
+                    }
+                }
+            }
+            else
+            {
+                OutputWriter.DisplayException(ExceptionMessages.InvalidTakeQuantityParameter);
+            }
         }
     }
 }

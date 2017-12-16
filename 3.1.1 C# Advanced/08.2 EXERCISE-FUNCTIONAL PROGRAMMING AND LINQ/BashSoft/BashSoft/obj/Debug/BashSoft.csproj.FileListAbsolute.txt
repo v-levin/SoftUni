@@ -5,3 +5,10 @@ D:\SoftUni\3.1.1 C# Advanced\06.2 EXERCISE-OVERALL STRING PROCESSING\BashSoft\Ba
 D:\SoftUni\3.1.1 C# Advanced\06.2 EXERCISE-OVERALL STRING PROCESSING\BashSoft\BashSoft\obj\Debug\BashSoft.csproj.CoreCompileInputs.cache
 D:\SoftUni\3.1.1 C# Advanced\06.2 EXERCISE-OVERALL STRING PROCESSING\BashSoft\BashSoft\obj\Debug\BashSoft.exe
 D:\SoftUni\3.1.1 C# Advanced\06.2 EXERCISE-OVERALL STRING PROCESSING\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
+D:\SoftUni\3.1.1 C# Advanced\08.2 EXERCISE-FUNCTIONAL PROGRAMMING AND LINQ\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+D:\SoftUni\3.1.1 C# Advanced\08.2 EXERCISE-FUNCTIONAL PROGRAMMING AND LINQ\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+D:\SoftUni\3.1.1 C# Advanced\08.2 EXERCISE-FUNCTIONAL PROGRAMMING AND LINQ\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
+D:\SoftUni\3.1.1 C# Advanced\08.2 EXERCISE-FUNCTIONAL PROGRAMMING AND LINQ\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.1 C# Advanced\08.2 EXERCISE-FUNCTIONAL PROGRAMMING AND LINQ\BashSoft\BashSoft\obj\Debug\BashSoft.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.1 C# Advanced\08.2 EXERCISE-FUNCTIONAL PROGRAMMING AND LINQ\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+D:\SoftUni\3.1.1 C# Advanced\08.2 EXERCISE-FUNCTIONAL PROGRAMMING AND LINQ\BashSoft\BashSoft\obj\Debug\BashSoft.pdb

@@ -28,7 +28,12 @@ namespace BashSoft
         private static void OrderAndTake(Dictionary<string, List<int>> wantedData, int studentsToTake, 
             Func<KeyValuePair<string, List<int>>, KeyValuePair<string, List<int>>, int> comparisonFunc)
         {
+            Dictionary<string, List<int>> studentsSorted = GetSortedStudents(wantedData, studentsToTake, comparisonFunc);
 
+            foreach (var student in studentsSorted)
+            {
+                OutputWriter.PrintStudent(student);
+            }
         }
 
         private static int CompareInOrder(KeyValuePair<string, List<int>> firstValue, KeyValuePair<string, List<int>> secondValue)
@@ -50,10 +55,10 @@ namespace BashSoft
 
         private static int CompareDescendingOrder(KeyValuePair<string, List<int>> firstValue, KeyValuePair<string, List<int>> secondValue)
         {
-            int totalOdFirstMarks = 0;
+            int totalOfFirstMarks = 0;
             foreach (var i in firstValue.Value)
             {
-                totalOdFirstMarks += i;
+                totalOfFirstMarks += i;
             }
 
             int totalOfSecondMarks = 0;
@@ -62,7 +67,7 @@ namespace BashSoft
                 totalOfSecondMarks += i;
             }
 
-            return totalOdFirstMarks.CompareTo(totalOfSecondMarks);
+            return totalOfFirstMarks.CompareTo(totalOfSecondMarks);
         }
 
         private static Dictionary<string, List<int>> GetSortedStudents(Dictionary<string, List<int>> studentsWanted, int takeCount,
