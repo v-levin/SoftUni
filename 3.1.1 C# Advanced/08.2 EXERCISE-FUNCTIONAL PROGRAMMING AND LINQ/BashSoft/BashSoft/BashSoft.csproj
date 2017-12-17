@@ -52,7 +52,7 @@
     <Compile Include="IO\OutputWriter.cs" />
     <Compile Include="BashSoftProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SimpleJudge\Tester.cs" />
+    <Compile Include="Judge\Tester.cs" />
     <Compile Include="Repository\StudentsRepository.cs" />
   </ItemGroup>
   <ItemGroup>
