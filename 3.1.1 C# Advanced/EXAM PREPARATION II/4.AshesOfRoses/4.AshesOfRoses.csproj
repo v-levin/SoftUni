@@ -7,7 +7,7 @@
     <ProjectGuid>{1B8174B6-9097-47E7-9B5C-CDB6ADC9A95D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_4.AshesOfRoses</RootNamespace>
-    <AssemblyName>_4.AshesOfRoses</AssemblyName>
+    <AssemblyName>4.AshesOfRoses</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="AshesOfRoses.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

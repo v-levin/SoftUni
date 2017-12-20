@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.NaturesProphet", "2.Natur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.NMS", "3.NMS\3.NMS.csproj", "{5EEFCFAF-DF76-4E2F-8D6D-95AFCF99CFD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.AshesOfRoses", "4.AshesOfRoses\4.AshesOfRoses.csproj", "{1B8174B6-9097-47E7-9B5C-CDB6ADC9A95D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5EEFCFAF-DF76-4E2F-8D6D-95AFCF99CFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EEFCFAF-DF76-4E2F-8D6D-95AFCF99CFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EEFCFAF-DF76-4E2F-8D6D-95AFCF99CFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8174B6-9097-47E7-9B5C-CDB6ADC9A95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8174B6-9097-47E7-9B5C-CDB6ADC9A95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8174B6-9097-47E7-9B5C-CDB6ADC9A95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8174B6-9097-47E7-9B5C-CDB6ADC9A95D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
