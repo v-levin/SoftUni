@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.1 C# Advanced\EXAM PREPARATION II\4.AshesOfRoses\bin\Debug\4.AshesOfRoses.exe.config
-D:\SoftUni\3.1.1 C# Advanced\EXAM PREPARATION II\4.AshesOfRoses\bin\Debug\4.AshesOfRoses.exe
-D:\SoftUni\3.1.1 C# Advanced\EXAM PREPARATION II\4.AshesOfRoses\bin\Debug\4.AshesOfRoses.pdb
-D:\SoftUni\3.1.1 C# Advanced\EXAM PREPARATION II\4.AshesOfRoses\obj\Debug\4.AshesOfRoses.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.1 C# Advanced\EXAM PREPARATION II\4.AshesOfRoses\obj\Debug\4.AshesOfRoses.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.1 C# Advanced\EXAM PREPARATION II\4.AshesOfRoses\obj\Debug\4.AshesOfRoses.exe
-D:\SoftUni\3.1.1 C# Advanced\EXAM PREPARATION II\4.AshesOfRoses\obj\Debug\4.AshesOfRoses.pdb
