@@ -1,19 +1,16 @@
-﻿namespace RawData
+﻿public class Cargo
 {
-    public class Cargo
+    private int weight;
+    private string type;
+
+    public Cargo(int weight, string type)
     {
-        private int weight;
-        private string type;
+        this.weight = weight;
+        this.type = type;
+    }
 
-        public Cargo(int weight, string type)
-        {
-            this.weight = weight;
-            this.type = type;
-        }
-
-        public string Type
-        {
-            get { return this.type; }
-        }
+    public string Type
+    {
+        get { return this.type; }
     }
 }

@@ -1,0 +1,6 @@
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\06.CompanyRoster\bin\Debug\06.CompanyRoster.exe.config
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\06.CompanyRoster\bin\Debug\06.CompanyRoster.exe
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\06.CompanyRoster\bin\Debug\06.CompanyRoster.pdb
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\06.CompanyRoster\obj\Debug\06.CompanyRoster.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\06.CompanyRoster\obj\Debug\06.CompanyRoster.exe
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\06.CompanyRoster\obj\Debug\06.CompanyRoster.pdb

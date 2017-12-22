@@ -1,19 +1,16 @@
-﻿namespace RawData
+﻿public class Tire
 {
-    public class Tire
+    private double pressure;
+    private int age;
+
+    public Tire(double pressure, int age)
     {
-        private double pressure;
-        private int age;
+        this.pressure = pressure;
+        this.age = age;
+    }
 
-        public Tire(double pressure, int age)
-        {
-            this.pressure = pressure;
-            this.age = age;
-        }
-
-        public double Pressure
-        {
-            get { return this.pressure; }
-        }
+    public double Pressure
+    {
+        get { return this.pressure; }
     }
 }

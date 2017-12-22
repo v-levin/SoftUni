@@ -1,0 +1,7 @@
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\03.OldestFamilyMember\bin\Debug\03.OldestFamilyMember.exe.config
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\03.OldestFamilyMember\bin\Debug\03.OldestFamilyMember.exe
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\03.OldestFamilyMember\bin\Debug\03.OldestFamilyMember.pdb
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\03.OldestFamilyMember\obj\Debug\03.OldestFamilyMember.csprojResolveAssemblyReference.cache
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\03.OldestFamilyMember\obj\Debug\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\03.OldestFamilyMember\obj\Debug\03.OldestFamilyMember.exe
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\03.OldestFamilyMember\obj\Debug\03.OldestFamilyMember.pdb
