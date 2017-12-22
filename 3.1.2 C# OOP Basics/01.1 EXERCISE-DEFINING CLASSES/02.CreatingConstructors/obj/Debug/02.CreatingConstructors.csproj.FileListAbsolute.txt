@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.exe.config
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.exe
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.pdb
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.exe
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.pdb
