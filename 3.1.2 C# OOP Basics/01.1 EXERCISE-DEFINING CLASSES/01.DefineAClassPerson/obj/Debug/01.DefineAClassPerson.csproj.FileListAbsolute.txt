@@ -1,7 +1,0 @@
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\01.DefineAClassPerson\bin\Debug\01.DefineAClassPerson.exe.config
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\01.DefineAClassPerson\bin\Debug\01.DefineAClassPerson.exe
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\01.DefineAClassPerson\bin\Debug\01.DefineAClassPerson.pdb
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\01.DefineAClassPerson\obj\Debug\01.DefineAClassPerson.csprojResolveAssemblyReference.cache
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\01.DefineAClassPerson\obj\Debug\01.DefineAClassPerson.csproj.CoreCompileInputs.cache
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\01.DefineAClassPerson\obj\Debug\01.DefineAClassPerson.exe
-D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\01.DefineAClassPerson\obj\Debug\01.DefineAClassPerson.pdb
