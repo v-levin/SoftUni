@@ -1,0 +1,6 @@
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\07.SpeedRacing\bin\Debug\07.SpeedRacing.exe.config
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\07.SpeedRacing\bin\Debug\07.SpeedRacing.exe
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\07.SpeedRacing\bin\Debug\07.SpeedRacing.pdb
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\07.SpeedRacing\obj\Debug\07.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\07.SpeedRacing\obj\Debug\07.SpeedRacing.exe
+D:\SoftUni\3.1.2 C# OOP Basics\01.1 EXERCISE-DEFINING CLASSES\07.SpeedRacing\obj\Debug\07.SpeedRacing.pdb
