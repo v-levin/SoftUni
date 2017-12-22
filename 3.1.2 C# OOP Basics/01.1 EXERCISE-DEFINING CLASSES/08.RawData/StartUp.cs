@@ -6,7 +6,7 @@ namespace RawData
 {
     public class StartUp
     {
-        private const int numberOfTyres = 4;
+        private const int numberOfTires = 4;
         private const int maxPressure = 1;
         private const int minPower = 250;
 
@@ -24,24 +24,24 @@ namespace RawData
                 var enginePower = int.Parse(carInfo[2]);
                 var cargoWeight = int.Parse(carInfo[3]);
                 var cargoType = carInfo[4];
-                var tyre1Pressure = double.Parse(carInfo[5]);
-                var tyre1Age = int.Parse(carInfo[6]);
-                var tyre2Pressure = double.Parse(carInfo[7]);
-                var tyre2Age = int.Parse(carInfo[8]);
-                var tyre3Pressure = double.Parse(carInfo[9]);
-                var tyre3Age = int.Parse(carInfo[10]);
-                var tyre4Pressure = double.Parse(carInfo[11]);
-                var tyre4Age = int.Parse(carInfo[12]);
+                var tire1Pressure = double.Parse(carInfo[5]);
+                var tire1Age = int.Parse(carInfo[6]);
+                var tire2Pressure = double.Parse(carInfo[7]);
+                var tire2Age = int.Parse(carInfo[8]);
+                var tire3Pressure = double.Parse(carInfo[9]);
+                var tire3Age = int.Parse(carInfo[10]);
+                var tire4Pressure = double.Parse(carInfo[11]);
+                var tire4Age = int.Parse(carInfo[12]);
 
                 var engine = new Engine(engineSpeed, enginePower);
                 var cargo = new Cargo(cargoWeight, cargoType);
-                var tyres = new Tyre[numberOfTyres];
-                tyres[0] = new Tyre(tyre1Pressure, tyre1Age);
-                tyres[1] = new Tyre(tyre2Pressure, tyre2Age);
-                tyres[2] = new Tyre(tyre3Pressure, tyre3Age);
-                tyres[3] = new Tyre(tyre4Pressure, tyre4Age);
+                var tires = new Tire[numberOfTires];
+                tires[1] = new Tire(tire2Pressure, tire2Age);
+                tires[0] = new Tire(tire1Pressure, tire1Age);
+                tires[2] = new Tire(tire3Pressure, tire3Age);
+                tires[3] = new Tire(tire4Pressure, tire4Age);
 
-                var car = new Car(carModel, engine, cargo, tyres);
+                var car = new Car(carModel, engine, cargo, tires);
 
                 cars.Add(car);
             }
@@ -50,7 +50,7 @@ namespace RawData
 
             if (command == "fragile")
             {
-                cars.Where(c => c.Cargo.Type == command && c.Tyres.Any(p => p.Pressure < maxPressure))
+                cars.Where(c => c.Cargo.Type == command && c.Tires.Any(p => p.Pressure < maxPressure))
                     .Select(c => c.Model)
                     .ToList()
                     .ForEach(m => Console.WriteLine(m));

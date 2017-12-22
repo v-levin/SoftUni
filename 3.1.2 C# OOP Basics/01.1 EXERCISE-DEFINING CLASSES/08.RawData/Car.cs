@@ -5,14 +5,14 @@
         private string model;
         private Engine engine;
         private Cargo cargo;
-        private Tyre[] tyres;
+        private Tire[] tires;
 
-        public Car(string model, Engine engine, Cargo cargo, Tyre[] tyres)
+        public Car(string model, Engine engine, Cargo cargo, Tire[] tires)
         {
             this.model = model;
             this.engine = engine;
             this.cargo = cargo;
-            this.tyres = tyres;
+            this.tires = tires;
         }
 
         public string Model
@@ -30,9 +30,9 @@
             get { return this.cargo; }
         }
 
-        public Tyre[] Tyres
+        public Tire[] Tires
         {
-            get { return this.tyres; }
+            get { return this.tires; }
         }
     }
 }
