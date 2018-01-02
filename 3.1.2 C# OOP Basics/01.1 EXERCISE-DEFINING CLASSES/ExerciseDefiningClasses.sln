@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Google", "12.Google\12.G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.FamilyTree", "13.FamilyTree\13.FamilyTree.csproj", "{81C32681-52CA-43A3-9ACC-1130D787BCE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.CatLady", "14.CatLady\14.CatLady.csproj", "{F7BC4A2B-EA08-481B-BE6B-627F81E65D85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{81C32681-52CA-43A3-9ACC-1130D787BCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81C32681-52CA-43A3-9ACC-1130D787BCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81C32681-52CA-43A3-9ACC-1130D787BCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7BC4A2B-EA08-481B-BE6B-627F81E65D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BC4A2B-EA08-481B-BE6B-627F81E65D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BC4A2B-EA08-481B-BE6B-627F81E65D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BC4A2B-EA08-481B-BE6B-627F81E65D85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
