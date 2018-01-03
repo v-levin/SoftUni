@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.FamilyTree", "13.FamilyT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.CatLady", "14.CatLady\14.CatLady.csproj", "{F7BC4A2B-EA08-481B-BE6B-627F81E65D85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.DrawingTool", "15.DrawingTool\15.DrawingTool.csproj", "{0FE01835-87E8-4305-95D0-EDE6396DA074}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{F7BC4A2B-EA08-481B-BE6B-627F81E65D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7BC4A2B-EA08-481B-BE6B-627F81E65D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7BC4A2B-EA08-481B-BE6B-627F81E65D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE01835-87E8-4305-95D0-EDE6396DA074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE01835-87E8-4305-95D0-EDE6396DA074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE01835-87E8-4305-95D0-EDE6396DA074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE01835-87E8-4305-95D0-EDE6396DA074}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
