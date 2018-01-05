@@ -21,7 +21,6 @@ public class StartUp
             }
             catch (ArgumentException ex)
             {
-
                 Console.WriteLine(ex.Message);
             }
             
