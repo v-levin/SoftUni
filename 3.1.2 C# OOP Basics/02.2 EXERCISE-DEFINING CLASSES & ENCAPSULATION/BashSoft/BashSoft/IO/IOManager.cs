@@ -59,7 +59,7 @@ namespace BashSoft
             }
             catch (ArgumentException)
             {
-                OutputWriter.DisplayException(ExceptionMessages.ForbiddenSymbolContainedInName);
+                throw new ArgumentException(ExceptionMessages.ForbiddenSymbolContainedInName);
             }
         }
 
@@ -76,7 +76,7 @@ namespace BashSoft
                 }
                 catch (ArgumentOutOfRangeException)
                 {
-                    OutputWriter.DisplayException(ExceptionMessages.UnableToGoHigherInPartitionHierarchy);
+                    throw new ArgumentOutOfRangeException("indexOfLastSlash", ExceptionMessages.UnableToGoHigherInPartitionHierarchy);
                 }
                 
             }
@@ -92,8 +92,7 @@ namespace BashSoft
         {
             if (!Directory.Exists(absolutePath))
             {
-                OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
-                return;
+                throw new DirectoryNotFoundException(ExceptionMessages.InvalidPath);
             }
 
             SessionData.currentPath = absolutePath;

@@ -11,27 +11,25 @@ namespace BashSoft
     {
         public void CompareContent(string userOutputPath, string expectedOutputPath)
         {
-            OutputWriter.WriteMessageOnNewLine("Reading files...");
-
             try
             {
-                string mismatchPath = GetMismatchPath(expectedOutputPath);
+                OutputWriter.WriteMessageOnNewLine("Reading files...");
+                string mismatchPath = this.GetMismatchPath(expectedOutputPath);
 
                 string[] actualOutputLines = File.ReadAllLines(userOutputPath);
                 string[] expectedOutputLines = File.ReadAllLines(expectedOutputPath);
 
                 bool hasMismatch;
+                string[] mismatches = this.GetLinesWithPossibleMismatches(actualOutputLines, expectedOutputLines, out hasMismatch);
 
-                string[] mismatches = GetLinesWithPossibleMismatches(actualOutputLines, expectedOutputLines, out hasMismatch);
-
-                PrintOutput(mismatches, hasMismatch, mismatchPath);
+                this.PrintOutput(mismatches, hasMismatch, mismatchPath);
                 OutputWriter.WriteMessageOnNewLine("Files read!");
             }
-            catch (FileNotFoundException)
+            catch (IOException)
             {
-                OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
+                throw new IOException(ExceptionMessages.InvalidPath);
             }
-            
+
         }
 
         private void PrintOutput(string[] mismatches, bool hasMismatch, string mismatchPath)
@@ -43,15 +41,7 @@ namespace BashSoft
                     OutputWriter.WriteMessageOnNewLine(line);
                 }
 
-                try
-                {
-                    File.WriteAllLines(mismatchPath, mismatches);
-                }
-                catch (DirectoryNotFoundException)
-                {
-                    OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
-                }
-
+                File.WriteAllLines(mismatchPath, mismatches);
                 return;
             }
 

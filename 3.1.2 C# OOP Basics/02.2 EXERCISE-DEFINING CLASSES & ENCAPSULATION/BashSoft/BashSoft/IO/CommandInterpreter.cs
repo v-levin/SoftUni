@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -24,6 +25,32 @@ namespace BashSoft
         {
             string[] data = input.Split(' ');
             string command = data[0];
+            command = command.ToLower();
+
+            try
+            {
+                this.ParseCommand(input, data, command);
+            }
+            catch (DirectoryNotFoundException dnfe)
+            {
+                OutputWriter.DisplayException(dnfe.Message);
+            }
+            catch (ArgumentOutOfRangeException aoore)
+            {
+                OutputWriter.DisplayException(aoore.Message);
+            }
+            catch (ArgumentException ae)
+            {
+                OutputWriter.DisplayException(ae.Message);
+            }
+            catch (Exception e)
+            {
+                OutputWriter.DisplayException(e.Message);
+            }
+        }
+
+        private void ParseCommand(string input, string[] data, string command)
+        {
             switch (command)
             {
                 case "open":
@@ -38,13 +65,13 @@ namespace BashSoft
                 case "cmp":
                     TryCompareFiles(input, data);
                     break;
-                case "cdRel":
+                case "cdrel":
                     TryChangePathRelatively(input, data);
                     break;
-                case "cdAbs":
+                case "cdabs":
                     TryChangePathAbsolute(input, data);
                     break;
-                case "readDb":
+                case "readdb":
                     TryReadDatabaseFromFile(input, data);
                     break;
                 case "help":
@@ -56,13 +83,13 @@ namespace BashSoft
                 case "order":
                     TryOrderAndTake(input, data);
                     break;
-                case "decOrder":
+                case "decorder":
                     //TODO: implement after functionality is implemented
                     break;
                 case "download":
                     //TODO: implement after functionality is implemented
                     break;
-                case "downloadAsynch":
+                case "downloadasynch":
                     //TODO: implement after functionality is implemented
                     break;
                 case "show":
