@@ -1,16 +1,19 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 public class CarManager
 {
     private Dictionary<int, Car> cars;
     private Dictionary<int, Race> races;
     private Garage garage;
+    private List<int> racesClosed;
 
     public CarManager()
     {
         this.cars = new Dictionary<int, Car>();
         this.races = new Dictionary<int, Race>();
         this.garage = new Garage();
+        this.racesClosed = new List<int>();
     }
 
     public void Register(int id, string type, string brand, string model, int yearOfProduction, int horsepower, int acceleration, int suspension, int durability)
@@ -50,20 +53,31 @@ public class CarManager
     {
         if (!this.garage.ParkedCars.Contains(carId))
         {
-            this.races[raceId].Participants.Add(carId, cars[carId]);
+            if (!racesClosed.Contains(raceId))
+            {
+                this.races[raceId].Participants.Add(carId, cars[carId]);
+            }
         }
     }
 
     public string Start(int id)
     {
-        return races[id].StartRace();
+        if (races[id].Participants.Count == 0)
+        {
+            return "Cannot start the race with zero participants.";
+        }
+
+        var result = races[id].StartRace();
+        racesClosed.Add(id);
+
+        return result;
     }
 
     public void Park(int id)
     {
-        foreach (var race in this.races.Values)
+        foreach (var race in this.races.Where(r => !racesClosed.Contains(r.Key)))
         {
-            if (race.Participants.ContainsKey(id))
+            if (race.Value.Participants.ContainsKey(id))
             {
                 return;
             }
