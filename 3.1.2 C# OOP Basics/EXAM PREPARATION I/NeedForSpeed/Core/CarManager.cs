@@ -64,7 +64,7 @@ public class CarManager
     {
         if (races[id].Participants.Count == 0)
         {
-            return "Cannot start the race with zero participants.";
+            return Constants.RACE_HAS_NO_PARTICIPANTS_MESSAGE;
         }
 
         var result = races[id].StartRace();

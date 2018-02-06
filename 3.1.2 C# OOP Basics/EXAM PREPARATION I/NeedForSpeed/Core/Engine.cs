@@ -13,7 +13,7 @@ public class Engine
     {
         string command;
 
-        while ((command = Console.ReadLine()) != "Cops Are Here")
+        while ((command = Console.ReadLine()) != Constants.INPUT_TERMINATING_COMMAND)
         {
             var cmdArgs = command.Split();
             ExecuteCommand(cmdArgs);

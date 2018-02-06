@@ -77,6 +77,6 @@ public abstract class Car
     public virtual void Tune(int tuneIndex, string addOn)
     {
         this.Horsepower += tuneIndex;
-        this.Suspension += tuneIndex * 50 / 100;
+        this.Suspension += tuneIndex / Constants.TUNING_SUSPENSION_MODIFIER;
     }
 }

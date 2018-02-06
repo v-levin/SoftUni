@@ -61,9 +61,9 @@ public abstract class Race
     public List<int> GetPrizes()
     {
         var result = new List<int>();
-        result.Add((this.PrizePool * 50) / 100);
-        result.Add((this.PrizePool * 30) / 100);
-        result.Add((this.PrizePool * 20) / 100);
+        result.Add((this.PrizePool * Constants.FIRST_PLACE_PRIZE_PERCENTAGE) / Constants.MAXIMUM_PERCENTAGE);
+        result.Add((this.PrizePool * Constants.SECOND_PLACE_PRIZE_PERCENTAGE) / Constants.MAXIMUM_PERCENTAGE);
+        result.Add((this.PrizePool * Constants.THIRD_PLACE_PRIZE_PERCENTAGE) / Constants.MAXIMUM_PERCENTAGE);
 
         return result;
     }
