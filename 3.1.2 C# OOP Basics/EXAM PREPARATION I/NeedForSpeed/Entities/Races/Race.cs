@@ -51,6 +51,11 @@ public abstract class Race
 
     public abstract int GetPerformance(int id);
 
+    public virtual void AddParticipant(int carId, Car car)
+    {
+        this.Participants.Add(carId, car);
+    }
+
     public Dictionary<int, Car> GetWinners()
     {
         var winners = this.Participants.OrderByDescending(n => GetPerformance(n.Key)).Take(3).ToDictionary(n => n.Key, m => m.Value);
@@ -68,7 +73,7 @@ public abstract class Race
         return result;
     }
 
-    public string StartRace()
+    public virtual string StartRace()
     {
         var winners = GetWinners();
         var prizes = GetPrizes();
