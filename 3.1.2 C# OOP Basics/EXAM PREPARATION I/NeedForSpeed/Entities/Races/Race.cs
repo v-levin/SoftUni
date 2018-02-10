@@ -56,14 +56,14 @@ public abstract class Race
         this.Participants.Add(carId, car);
     }
 
-    public Dictionary<int, Car> GetWinners()
+    public virtual Dictionary<int, Car> GetWinners()
     {
         var winners = this.Participants.OrderByDescending(n => GetPerformance(n.Key)).Take(3).ToDictionary(n => n.Key, m => m.Value);
 
         return winners;
     }
 
-    public List<int> GetPrizes()
+    public virtual List<int> GetPrizes()
     {
         var result = new List<int>();
         result.Add((this.PrizePool * Constants.FIRST_PLACE_PRIZE_PERCENTAGE) / Constants.MAXIMUM_PERCENTAGE);

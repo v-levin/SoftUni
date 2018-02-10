@@ -63,6 +63,11 @@ public abstract class Car
         private set { this.durability = value; }
     }
 
+    public void BreakDown(int lapLength)
+    {
+        this.Durability = this.Durability - lapLength;
+    }
+
     public override string ToString()
     {
         StringBuilder sb = new StringBuilder();

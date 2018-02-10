@@ -56,11 +56,12 @@ public class CarManager
             case "TimeLimit":
                 this.races.Add(id, new TimeLimitRace(length, route, prizePool, specialRaceParameter));
                 break;
-            //case "CircuitRace":
-            //    this.races.Add(id, new DragRace(length, route, prizePool));
-            //    break;
+            case "Circuit":
+                this.races.Add(id, new CircuitRace(length, route, prizePool, specialRaceParameter));
+                break;
         }
     }
+
     public void Participate(int carId, int raceId)
     {
         if (!this.garage.ParkedCars.Contains(carId))
