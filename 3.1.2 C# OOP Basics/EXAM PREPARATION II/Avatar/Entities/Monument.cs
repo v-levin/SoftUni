@@ -13,4 +13,5 @@
         private set { this.name = value; }
     }
 
+    public abstract int GetAffinity();
 }

@@ -12,4 +12,6 @@
         get { return this.earthAffinity; }
         private set { this.earthAffinity = value; }
     }
+
+    public override int GetAffinity() => this.EarthAffinity;
 }

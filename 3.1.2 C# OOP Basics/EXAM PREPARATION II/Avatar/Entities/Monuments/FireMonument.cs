@@ -12,4 +12,6 @@
         get { return this.fireAffinity; }
         private set { this.fireAffinity = value; }
     }
+
+    public override int GetAffinity() => this.FireAffinity;
 }

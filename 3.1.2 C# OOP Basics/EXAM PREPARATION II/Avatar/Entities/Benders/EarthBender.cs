@@ -12,4 +12,9 @@
         get { return this.groundSaturation; }
         private set { this.groundSaturation = value; }
     }
+
+    public override double GetPower()
+    {
+        return this.Power * this.GroundSaturation;
+    }
 }

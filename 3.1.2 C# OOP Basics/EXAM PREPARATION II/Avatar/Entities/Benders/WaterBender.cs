@@ -12,4 +12,9 @@
         get { return this.waterClarity; }
         private set { this.waterClarity = value; }
     }
+
+    public override double GetPower()
+    {
+        return this.Power * this.WaterClarity;
+    }
 }

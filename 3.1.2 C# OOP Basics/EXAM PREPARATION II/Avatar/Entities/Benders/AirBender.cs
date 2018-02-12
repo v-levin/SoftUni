@@ -12,4 +12,9 @@
         get { return this.aerialIntegrity; }
         private set { this.aerialIntegrity = value; }
     }
+
+    public override double GetPower()
+    {
+        return this.Power * this.AerialIntegrity;
+    }
 }

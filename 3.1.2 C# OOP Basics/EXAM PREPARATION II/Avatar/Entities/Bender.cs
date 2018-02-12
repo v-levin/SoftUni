@@ -20,4 +20,6 @@
         get { return this.power; }
         private set { this.power = value; }
     }
+
+    public abstract double GetPower();
 }

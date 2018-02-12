@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\NationsBuilder.cs" />
     <Compile Include="Entities\Bender.cs" />
     <Compile Include="Entities\Benders\AirBender.cs" />
     <Compile Include="Entities\Benders\EarthBender.cs" />
@@ -52,6 +53,7 @@
     <Compile Include="Entities\Monuments\EarthMonument.cs" />
     <Compile Include="Entities\Monuments\FireMonument.cs" />
     <Compile Include="Entities\Monuments\WaterMonument.cs" />
+    <Compile Include="Entities\Nation.cs" />
     <Compile Include="StartUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

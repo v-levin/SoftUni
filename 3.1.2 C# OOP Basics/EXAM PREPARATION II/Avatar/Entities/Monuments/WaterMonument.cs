@@ -12,4 +12,6 @@
         get { return this.waterAffinity; }
         private set { this.waterAffinity = value; }
     }
+
+    public override int GetAffinity() => this.WaterAffinity;
 }

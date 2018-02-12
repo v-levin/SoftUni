@@ -12,4 +12,6 @@
         get { return this.airAffinity; }
         private set { this.airAffinity = value; }
     }
+
+    public override int GetAffinity() => this.AirAffinity;
 }
