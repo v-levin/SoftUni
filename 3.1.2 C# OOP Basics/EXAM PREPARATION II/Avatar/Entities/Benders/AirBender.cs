@@ -17,4 +17,6 @@
     {
         return this.Power * this.AerialIntegrity;
     }
+
+    public override string ToString() => $"{base.ToString()}, Aerial Integrity: {this.AerialIntegrity:f2}";
 }

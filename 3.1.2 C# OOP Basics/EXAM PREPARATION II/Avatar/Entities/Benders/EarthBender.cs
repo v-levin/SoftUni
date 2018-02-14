@@ -2,7 +2,7 @@
 {
     private float groundSaturation;
 
-    public EarthBender(string name, int power) : base(name, power)
+    public EarthBender(string name, int power, float groundSaturation) : base(name, power)
     {
         this.GroundSaturation = groundSaturation;
     }
@@ -17,4 +17,6 @@
     {
         return this.Power * this.GroundSaturation;
     }
+
+    public override string ToString() => $"{base.ToString()}, Ground Saturation: {this.GroundSaturation:f2}";
 }

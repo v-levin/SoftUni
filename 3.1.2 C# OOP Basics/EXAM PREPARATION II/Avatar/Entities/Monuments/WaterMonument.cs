@@ -14,4 +14,6 @@
     }
 
     public override int GetAffinity() => this.WaterAffinity;
+    
+    public override string ToString() => $"{base.ToString()}, Water Affinity: {this.WaterAffinity}";
 }

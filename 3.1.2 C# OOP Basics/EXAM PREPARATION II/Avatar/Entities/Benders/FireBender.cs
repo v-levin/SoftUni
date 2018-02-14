@@ -17,4 +17,6 @@
     {
         return this.Power * this.HeatAggression;
     }
+
+    public override string ToString() => $"{base.ToString()}, Heat Aggression: {this.HeatAggression:f2}";
 }

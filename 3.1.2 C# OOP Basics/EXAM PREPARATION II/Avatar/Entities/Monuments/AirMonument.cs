@@ -14,4 +14,6 @@
     }
 
     public override int GetAffinity() => this.AirAffinity;
+
+    public override string ToString() => $"{base.ToString()}, Air Affinity: {this.AirAffinity}";
 }

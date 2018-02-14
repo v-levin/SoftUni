@@ -17,4 +17,6 @@
     {
         return this.Power * this.WaterClarity;
     }
+
+    public override string ToString() => $"{base.ToString()}, Water Clarity: {this.WaterClarity:f2}";
 }
