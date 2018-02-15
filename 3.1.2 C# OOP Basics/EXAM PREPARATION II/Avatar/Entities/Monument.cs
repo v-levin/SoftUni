@@ -2,7 +2,7 @@
 {
     private string name;
 
-    public Monument(string name)
+    protected Monument(string name)
     {
         this.Name = name;
     }
