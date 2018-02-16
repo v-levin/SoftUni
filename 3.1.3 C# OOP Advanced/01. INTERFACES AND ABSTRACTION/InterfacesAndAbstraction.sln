@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Shapes", "1.Shapes\1.Shapes.csproj", "{8FCF2171-C843-4F4A-ACCD-121C736DD4BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Cars", "2.Cars\2.Cars.csproj", "{E5D8C773-9608-46D3-AAA7-9BDA79B39236}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8FCF2171-C843-4F4A-ACCD-121C736DD4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FCF2171-C843-4F4A-ACCD-121C736DD4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FCF2171-C843-4F4A-ACCD-121C736DD4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D8C773-9608-46D3-AAA7-9BDA79B39236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D8C773-9608-46D3-AAA7-9BDA79B39236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D8C773-9608-46D3-AAA7-9BDA79B39236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D8C773-9608-46D3-AAA7-9BDA79B39236}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
