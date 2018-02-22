@@ -1,6 +1,6 @@
 ﻿namespace Ferrari
 {
-    public interface IDrivable
+    public interface ICar
     {
         string Accelerate();
 

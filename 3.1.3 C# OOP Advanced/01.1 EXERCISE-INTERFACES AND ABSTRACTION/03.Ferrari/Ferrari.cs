@@ -1,6 +1,6 @@
 ﻿namespace Ferrari
 {
-    public class Ferrari : IDrivable
+    public class Ferrari : ICar
     {
         private string driverName;
         private string model;
