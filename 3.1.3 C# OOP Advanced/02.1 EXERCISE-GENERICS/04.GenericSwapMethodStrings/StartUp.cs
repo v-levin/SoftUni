@@ -30,9 +30,9 @@ namespace GenericSwapMethodStrings
             }
         }
 
-        private static void SwapElements<T>(List<Box<T>> listOfBoxes, int firstIndex, int secondIndex)
+        private static void SwapElements<T>(List<T> listOfBoxes, int firstIndex, int secondIndex)
         {
-            Box<T> tempBox = listOfBoxes[firstIndex];
+            T tempBox = listOfBoxes[firstIndex];
             listOfBoxes[firstIndex] = listOfBoxes[secondIndex];
             listOfBoxes[secondIndex] = tempBox;
         }
