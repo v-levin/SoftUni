@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.GenericCountMethodDouble
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CustomList", "08.CustomList\08.CustomList.csproj", "{B9596102-32AD-4767-9DAA-7594F6C0CDC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.CustomListSorter", "09.CustomListSorter\09.CustomListSorter.csproj", "{7388F4A1-AD16-4ED2-B860-8E4C7923B69A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{B9596102-32AD-4767-9DAA-7594F6C0CDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9596102-32AD-4767-9DAA-7594F6C0CDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9596102-32AD-4767-9DAA-7594F6C0CDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7388F4A1-AD16-4ED2-B860-8E4C7923B69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7388F4A1-AD16-4ED2-B860-8E4C7923B69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7388F4A1-AD16-4ED2-B860-8E4C7923B69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7388F4A1-AD16-4ED2-B860-8E4C7923B69A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
