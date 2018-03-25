@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.CustomListIterator", "10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Tuple", "11.Tuple\11.Tuple.csproj", "{9B3155C2-B2A0-4EB7-A0B1-CDC42EF6D4A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Threeuple", "12.Threeuple\12.Threeuple.csproj", "{EEB2A735-2159-46D4-A1D8-17DE3024F824}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{9B3155C2-B2A0-4EB7-A0B1-CDC42EF6D4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B3155C2-B2A0-4EB7-A0B1-CDC42EF6D4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B3155C2-B2A0-4EB7-A0B1-CDC42EF6D4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB2A735-2159-46D4-A1D8-17DE3024F824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB2A735-2159-46D4-A1D8-17DE3024F824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB2A735-2159-46D4-A1D8-17DE3024F824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB2A735-2159-46D4-A1D8-17DE3024F824}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
