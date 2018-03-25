@@ -40,7 +40,10 @@ namespace CustomListSorter
                         myCustomList = Sorter.Sort(myCustomList);
                         break;
                     case "Print":
-                        myCustomList.Print();
+                        foreach (var element in myCustomList.Elements)
+                        {
+                            Console.WriteLine(element);
+                        }
                         break;
                 }
             }

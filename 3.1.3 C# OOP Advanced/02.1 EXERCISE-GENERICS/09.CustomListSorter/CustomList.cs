@@ -52,13 +52,5 @@ namespace CustomListSorter
         public T Max() => this.elements.Max();
 
         public T Min() => this.elements.Min();
-
-        public void Print()
-        {
-            foreach (var element in this.elements)
-            {
-                Console.WriteLine(element);
-            }
-        }
     }
 }

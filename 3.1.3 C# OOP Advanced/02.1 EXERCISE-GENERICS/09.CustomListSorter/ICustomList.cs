@@ -9,6 +9,5 @@
         int CountGreaterThan(T element);
         T Max();
         T Min();
-        void Print();
     }
 }
