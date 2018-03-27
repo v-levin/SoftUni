@@ -2,9 +2,10 @@
 {
     using System;
     using System.IO;
+    using BashSoft.Contracts;
     using Execptions;
 
-    public class Tester
+    public class Tester : IContentComparer
     {
         private string GetMismatchPath(string expectedOutputPath)
         {

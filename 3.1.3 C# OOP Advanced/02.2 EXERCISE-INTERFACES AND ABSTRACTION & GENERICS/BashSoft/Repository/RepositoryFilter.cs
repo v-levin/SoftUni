@@ -5,7 +5,7 @@
 
     public class RepositoryFilter
     {
-        public void FilterAndTake(Dictionary<string, double> studentsWithMarks, string wantedFilters, int studentsToTake)
+        public void FilterAndTake(IDictionary<string, double> studentsWithMarks, string wantedFilters, int studentsToTake)
         {
             if (wantedFilters == "excellent")
             {
@@ -25,7 +25,7 @@
             }
         }
 
-        private void FilterAndTake(Dictionary<string, double> studentsWithMarks, Predicate<double> givenFilter, int studentsToTake)
+        private void FilterAndTake(IDictionary<string, double> studentsWithMarks, Predicate<double> givenFilter, int studentsToTake)
         {
             int counter = 0;
             foreach (var username_score in studentsWithMarks)

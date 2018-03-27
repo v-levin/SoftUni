@@ -9,8 +9,8 @@
     public class SoftUniStudent : IStudent
     {
         private string username;
-        private Dictionary<string, ICourse> enrolledCourses;
-        private Dictionary<string, double> marksByCourseName;
+        private IDictionary<string, ICourse> enrolledCourses;
+        private IDictionary<string, double> marksByCourseName;
 
         public SoftUniStudent(string userName)
         {
@@ -34,12 +34,12 @@
 
         public IReadOnlyDictionary<string, ICourse> EnrolledCourses
         {
-            get { return this.enrolledCourses; }
+            get { return (IReadOnlyDictionary<string, ICourse>)this.enrolledCourses; }
         }
 
         public IReadOnlyDictionary<string, double> MarksByCourseName
         {
-            get { return this.marksByCourseName; }
+            get { return (IReadOnlyDictionary<string, double>)this.marksByCourseName; }
         }
 
         public void EnrollInCourse(ICourse course)

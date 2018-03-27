@@ -10,7 +10,7 @@
         public const int MaxScoreOnExamTask = 100;
 
         private string name;
-        private Dictionary<string, IStudent> studentsByName;
+        private IDictionary<string, IStudent> studentsByName;
 
         public SoftUniCourse(string name)
         {
@@ -33,7 +33,7 @@
 
         public IReadOnlyDictionary<string, IStudent> StudentsByName
         {
-            get { return this.studentsByName; }
+            get { return (IReadOnlyDictionary<string, IStudent>)this.studentsByName; }
         }
         
         public void EnrollStudent(IStudent student)

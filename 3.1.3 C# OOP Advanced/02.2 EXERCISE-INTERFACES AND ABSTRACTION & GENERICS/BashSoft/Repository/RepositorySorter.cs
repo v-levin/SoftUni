@@ -6,7 +6,7 @@
 
     public class RepositorySorter
     {
-        public void OrderAndTake(Dictionary<string, double> studentsWithMark, string comparison, int studentsToTake)
+        public void OrderAndTake(IDictionary<string, double> studentsWithMark, string comparison, int studentsToTake)
         {
             comparison = comparison.ToLower();
             if (comparison == "ascending")
@@ -29,7 +29,7 @@
             }
         }
 
-        public void PrintStudents(Dictionary<string, double> studentsSorted)
+        public void PrintStudents(IDictionary<string, double> studentsSorted)
         {
             foreach (var kv in studentsSorted)
             {
