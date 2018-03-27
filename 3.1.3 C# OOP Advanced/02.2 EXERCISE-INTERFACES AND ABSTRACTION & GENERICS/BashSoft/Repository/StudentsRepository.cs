@@ -11,15 +11,15 @@
     public class StudentsRepository
     {
         private bool isDataInilized;
-        private Dictionary<string, Course> courses;
-        private Dictionary<string, Student> students;
+        private Dictionary<string, SoftUniCourse> courses;
+        private Dictionary<string, SoftUniStudent> students;
         private RepositoryFilter filter;
         private RepositorySorter sorter;
 
         public StudentsRepository(RepositoryFilter filter, RepositorySorter sorter)
         {
-            this.courses = new Dictionary<string, Course>();
-            this.students = new Dictionary<string, Student>();
+            this.courses = new Dictionary<string, SoftUniCourse>();
+            this.students = new Dictionary<string, SoftUniStudent>();
             this.filter = filter;
             this.sorter = sorter;
             this.isDataInilized = false;
@@ -62,8 +62,8 @@
                 throw new ArgumentException(ExceptionMessages.DataAlreadyInitialisedException);
             }
             
-            this.courses = new Dictionary<string, Course>();
-            this.students = new Dictionary<string, Student>();
+            this.courses = new Dictionary<string, SoftUniCourse>();
+            this.students = new Dictionary<string, SoftUniStudent>();
             OutputWriter.WriteMessageOnNewLine("Reading data...");
             ReadData(fileName);
         }
@@ -108,7 +108,7 @@
                                 continue;
                             }
 
-                            if (scores.Length > Course.NumberOfTasksOnExam)
+                            if (scores.Length > SoftUniCourse.NumberOfTasksOnExam)
                             {
                                 OutputWriter.DisplayException(ExceptionMessages.InvalidNumberOfScores);
                                 continue;
@@ -116,19 +116,19 @@
 
                             if (!this.students.ContainsKey(username))
                             {
-                                this.students.Add(username, new Student(username));   
+                                this.students.Add(username, new SoftUniStudent(username));   
                             }
 
                             if (!this.courses.ContainsKey(courseName))
                             {
-                                this.courses.Add(courseName, new Course(courseName));
+                                this.courses.Add(courseName, new SoftUniCourse(courseName));
                             }
 
                             var course = this.courses[courseName];
                             var student = this.students[username];
 
                             student.EnrollInCourse(course);
-                            student.SetMarkOnCourse(courseName, scores);
+                            student.SetMarksInCourse(courseName, scores);
                             course.EnrollStudent(student);
                             
                         }
