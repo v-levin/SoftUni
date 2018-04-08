@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Froggy", "4.Froggy\4.Frog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.ComparingObjects", "5.ComparingObjects\5.ComparingObjects.csproj", "{3D189D76-7D84-4C95-AE7B-5E88B7498FB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.StrategyPattern", "6.StrategyPattern\6.StrategyPattern.csproj", "{47026EBF-7A7E-4EFC-A804-E4C097650E26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3D189D76-7D84-4C95-AE7B-5E88B7498FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D189D76-7D84-4C95-AE7B-5E88B7498FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D189D76-7D84-4C95-AE7B-5E88B7498FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47026EBF-7A7E-4EFC-A804-E4C097650E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47026EBF-7A7E-4EFC-A804-E4C097650E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47026EBF-7A7E-4EFC-A804-E4C097650E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47026EBF-7A7E-4EFC-A804-E4C097650E26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
