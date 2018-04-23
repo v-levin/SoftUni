@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Weekdays", "1.Weekdays\1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.CoffeeMachine", "2.CoffeeMachine\2.CoffeeMachine.csproj", "{3BBE86DC-F956-40CE-8879-020030BC7269}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.CreateAttribute", "3.CreateAttribute\3.CreateAttribute.csproj", "{B9E4A570-D6AE-4230-A7FB-85080EAACE48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3BBE86DC-F956-40CE-8879-020030BC7269}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BBE86DC-F956-40CE-8879-020030BC7269}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BBE86DC-F956-40CE-8879-020030BC7269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E4A570-D6AE-4230-A7FB-85080EAACE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E4A570-D6AE-4230-A7FB-85080EAACE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E4A570-D6AE-4230-A7FB-85080EAACE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E4A570-D6AE-4230-A7FB-85080EAACE48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
