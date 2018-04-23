@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.CoffeeMachine", "2.Coffee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.CreateAttribute", "3.CreateAttribute\3.CreateAttribute.csproj", "{B9E4A570-D6AE-4230-A7FB-85080EAACE48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.CodingTracker", "4.CodingTracker\4.CodingTracker.csproj", "{AE5F7033-ADCC-494F-8D16-A1F802FCCAB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B9E4A570-D6AE-4230-A7FB-85080EAACE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9E4A570-D6AE-4230-A7FB-85080EAACE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9E4A570-D6AE-4230-A7FB-85080EAACE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5F7033-ADCC-494F-8D16-A1F802FCCAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5F7033-ADCC-494F-8D16-A1F802FCCAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5F7033-ADCC-494F-8D16-A1F802FCCAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5F7033-ADCC-494F-8D16-A1F802FCCAB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
