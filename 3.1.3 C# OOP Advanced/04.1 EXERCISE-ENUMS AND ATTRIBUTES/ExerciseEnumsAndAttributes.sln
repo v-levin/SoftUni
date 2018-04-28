@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CardRank", "02.CardRank\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CardPower", "03.CardPower\03.CardPower.csproj", "{C5838FFE-608A-4FCF-BF3C-BBD3B9E4DD3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CardToString()", "04.CardToString()\04.CardToString().csproj", "{52E4748C-9596-4A39-AB54-163094A7E114}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C5838FFE-608A-4FCF-BF3C-BBD3B9E4DD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5838FFE-608A-4FCF-BF3C-BBD3B9E4DD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5838FFE-608A-4FCF-BF3C-BBD3B9E4DD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E4748C-9596-4A39-AB54-163094A7E114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E4748C-9596-4A39-AB54-163094A7E114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E4748C-9596-4A39-AB54-163094A7E114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E4748C-9596-4A39-AB54-163094A7E114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
