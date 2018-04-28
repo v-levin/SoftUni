@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CardPower", "03.CardPowe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CardToString()", "04.CardToString()\04.CardToString().csproj", "{52E4748C-9596-4A39-AB54-163094A7E114}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CardCompareTo()", "05.CardCompareTo()\05.CardCompareTo().csproj", "{5152EF53-2756-4081-AF3D-3E7D112366D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{52E4748C-9596-4A39-AB54-163094A7E114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52E4748C-9596-4A39-AB54-163094A7E114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52E4748C-9596-4A39-AB54-163094A7E114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5152EF53-2756-4081-AF3D-3E7D112366D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5152EF53-2756-4081-AF3D-3E7D112366D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5152EF53-2756-4081-AF3D-3E7D112366D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5152EF53-2756-4081-AF3D-3E7D112366D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
