@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CardSuit", "01.CardSuit\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CardRank", "02.CardRank\02.CardRank.csproj", "{4435271C-1233-438B-BD37-342EB5D0AFB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CardPower", "03.CardPower\03.CardPower.csproj", "{C5838FFE-608A-4FCF-BF3C-BBD3B9E4DD3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4435271C-1233-438B-BD37-342EB5D0AFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4435271C-1233-438B-BD37-342EB5D0AFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4435271C-1233-438B-BD37-342EB5D0AFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5838FFE-608A-4FCF-BF3C-BBD3B9E4DD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5838FFE-608A-4FCF-BF3C-BBD3B9E4DD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5838FFE-608A-4FCF-BF3C-BBD3B9E4DD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5838FFE-608A-4FCF-BF3C-BBD3B9E4DD3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
