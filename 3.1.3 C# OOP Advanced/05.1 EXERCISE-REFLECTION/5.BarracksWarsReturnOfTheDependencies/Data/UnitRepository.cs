@@ -1,4 +1,4 @@
-﻿namespace BarracksWarsTheCommandsStrikeBack.Data
+﻿namespace BarracksWarsReturnOfTheDependencies.Data
 {
     using System;
     using Contracts;
