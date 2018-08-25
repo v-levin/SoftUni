@@ -49,12 +49,13 @@ public class DummyTests
         var gotExperience = dummy.GiveExperience();
 
         // Assert
-        Assert.AreEqual(DummyExperience, gotExperience);
+        Assert.AreEqual(DummyExperience, gotExperience, "Dead dummy doesn't give experience");
     }
 
     [Test]
     public void AliveDummyCannotGiveExperience()
     {
-        Assert.Throws<InvalidOperationException>(() => dummy.GiveExperience());
+        var ex = Assert.Throws<InvalidOperationException>(() => dummy.GiveExperience());
+        Assert.That(ex.Message, Is.EqualTo("Target is not dead."));
     }
 }
