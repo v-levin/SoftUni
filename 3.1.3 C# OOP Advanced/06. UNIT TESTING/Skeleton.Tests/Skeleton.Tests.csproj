@@ -50,6 +50,9 @@
   <ItemGroup>
     <Compile Include="AxeTests.cs" />
     <Compile Include="DummyTests.cs" />
+    <Compile Include="FakeObjects\FakeTarget.cs" />
+    <Compile Include="FakeObjects\FakeWeapon.cs" />
+    <Compile Include="HeroTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
