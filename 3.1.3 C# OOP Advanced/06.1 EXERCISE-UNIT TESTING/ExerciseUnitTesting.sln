@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.IteratorTest", "03.Itera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.BubbleSortTest", "04.BubbleSortTest\04.BubbleSortTest.csproj", "{1BA39493-87A6-4570-94D3-94F41F20C0C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.IntegrationTests", "05.IntegrationTests\05.IntegrationTests.csproj", "{C0507856-9A67-4FDE-968D-4E19BEE42F54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1BA39493-87A6-4570-94D3-94F41F20C0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BA39493-87A6-4570-94D3-94F41F20C0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BA39493-87A6-4570-94D3-94F41F20C0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0507856-9A67-4FDE-968D-4E19BEE42F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0507856-9A67-4FDE-968D-4E19BEE42F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0507856-9A67-4FDE-968D-4E19BEE42F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0507856-9A67-4FDE-968D-4E19BEE42F54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
