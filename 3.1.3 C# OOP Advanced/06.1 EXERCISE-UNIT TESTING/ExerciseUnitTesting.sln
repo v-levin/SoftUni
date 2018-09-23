@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Twitter", "06.Twitter\06
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CustomLinkedList", "08.CustomLinkedList\08.CustomLinkedList.csproj", "{3E105A1A-3B23-466A-8F1D-85325E662423}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.DateTime", "09.DateTime\09.DateTime.csproj", "{8F5B0E42-0943-41E1-8599-999EF1B9A582}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3E105A1A-3B23-466A-8F1D-85325E662423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E105A1A-3B23-466A-8F1D-85325E662423}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E105A1A-3B23-466A-8F1D-85325E662423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5B0E42-0943-41E1-8599-999EF1B9A582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5B0E42-0943-41E1-8599-999EF1B9A582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5B0E42-0943-41E1-8599-999EF1B9A582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5B0E42-0943-41E1-8599-999EF1B9A582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
