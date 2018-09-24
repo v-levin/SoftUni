@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D87D378D-17C1-4F70-9B23-5DBBB80A020A}</ProjectGuid>
+    <ProjectGuid>{E4355F4A-58B5-4B2A-BF80-E82C70A1FA05}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_10.TirePressureMonitoringSystem</RootNamespace>
-    <AssemblyName>10.TirePressureMonitoringSystem</AssemblyName>
+    <RootNamespace>_1.StreamProgressInfo</RootNamespace>
+    <AssemblyName>_1.StreamProgressInfo</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Alarm.cs" />
-    <Compile Include="Sensor.cs" />
-    <Compile Include="Startup.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
