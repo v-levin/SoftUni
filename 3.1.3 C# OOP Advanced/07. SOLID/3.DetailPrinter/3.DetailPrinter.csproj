@@ -7,7 +7,7 @@
     <ProjectGuid>{CA1554BE-A883-4EB5-9ADA-EF93B7EF6FDE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_3.DetailPrinter</RootNamespace>
-    <AssemblyName>_3.DetailPrinter</AssemblyName>
+    <AssemblyName>3.DetailPrinter</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="DetailsPrinter.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Manager.cs" />
+    <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
