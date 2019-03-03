@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.EventImplementation", "1.EventImplementation\1.EventImplementation.csproj", "{C092163D-FB16-46C5-BF61-91E063BB6645}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.KingsGambit", "2.KingsGambit\2.KingsGambit.csproj", "{F224F860-4736-4486-A9D5-063141708DF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C092163D-FB16-46C5-BF61-91E063BB6645}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C092163D-FB16-46C5-BF61-91E063BB6645}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C092163D-FB16-46C5-BF61-91E063BB6645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F224F860-4736-4486-A9D5-063141708DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F224F860-4736-4486-A9D5-063141708DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F224F860-4736-4486-A9D5-063141708DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F224F860-4736-4486-A9D5-063141708DF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
