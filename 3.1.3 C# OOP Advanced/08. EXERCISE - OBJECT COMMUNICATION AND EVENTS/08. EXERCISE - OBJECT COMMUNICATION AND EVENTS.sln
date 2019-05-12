@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2036
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.EventImplementation", "1.EventImplementation\1.EventImplementation.csproj", "{C092163D-FB16-46C5-BF61-91E063BB6645}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.KingsGambit", "2.KingsGambit\2.KingsGambit.csproj", "{F224F860-4736-4486-A9D5-063141708DF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.DependencyInversion", "3.DependencyInversion\3.DependencyInversion.csproj", "{40E444E8-A322-47D4-903E-ECE3FD897D2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F224F860-4736-4486-A9D5-063141708DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F224F860-4736-4486-A9D5-063141708DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F224F860-4736-4486-A9D5-063141708DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E444E8-A322-47D4-903E-ECE3FD897D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E444E8-A322-47D4-903E-ECE3FD897D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E444E8-A322-47D4-903E-ECE3FD897D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E444E8-A322-47D4-903E-ECE3FD897D2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
